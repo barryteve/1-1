@@ -1,37 +1,10 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/Top_Gun_Maverick-537976462-large.jpg" group-title="Peliculas" tvg-id="vacio", Top Gun: Maverick 
-magnet:?xt=urn:btih:F31BDB288C09BE7727189775582F016E70EE0258
-
-#EXTINF:0 tvg-logo="https://pics.filmaffinity.com/American_Night-439048151-large.jpg" group-title="Peliculas" tvg-id="vacio", American Night
-magnet:?xt=urn:btih:BEE5C2C7E9D0951DF59A58FED7C01E1A367B7AB4
-
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/D_nde_est_Anne_Frank-206666141-large.jpg" group-title="Peliculas" tvg-id="vacio", ¿Donde esta Anne Frank?
 magnet:?xt=urn:btih:FEAFE35C5D75F3CF9A13DECDB802FF55A20471D5
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/El_mundo_de_ayer-107873505-large.jpg" group-title="Peliculas" tvg-id="vacio", El Mundo de ayer
-magnet:?xt=urn:btih:223F506C8C5B515E13C79588E71AD025635B4EEB
-
-#EXTINF:-1 tvg-logo="https://static.filmin.es/images/media/41721/1/poster_0_3.png" group-title="Peliculas" tvg-id="vacio", El reino magico
-magnet:?xt=urn:btih:CF65146B5626E3FD8CE4879A929CF44D3EC4950A
-
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Final_del_camino-567644091-large.jpg" group-title="Peliculas" tvg-id="vacio", El final del camino
-magnet:?xt=urn:btih:210AF00B7EE88713EEB75D9A7BF329B1FBFBE572
-
 #EXTINF:-1 tvg-logo="https://www.divxtotal.bz/wp-content/uploads/2022/09/la-mujer-del-enterrador-(poster571).jpg" group-title="Peliculas" tvg-id="vavio", La mujer del enterrador
 magnet:?xt=urn:btih:402400A779C7F0FC476911D817AB0EC5A5F5E1F3
-
-#EXTINF:-1 tvg-logo="https://www.divxtotal.bz/wp-content/uploads/2022/09/hollyblood-(poster822).jpg" group-title="Peliculas" tvg-id="vacio", Hollyblood
-magnet:?xt=urn:btih:3CE3C4A31A08258E182FAF20E082E454B1B2C492
-
-#EXTINF:-1 tvg-logo="https://www.divxtotal.bz/wp-content/uploads/2022/09/turno-de-dia-(poster674).jpg" group-title="Peliculas" tvg-id="vacio", Turno de dia
-magnet:?xt=urn:btih:B82A466F071A98B56E168E6E3BED8B24DE1C4AA6
-
-#EXTINF:-1 tvg-logo="https://www.divxtotal.bz/wp-content/uploads/2022/09/el-refugio-(poster931).jpg" group-title="Peliculas" tvg-id="vacio", El refugio
-magnet:?xt=urn:btih:96E6B74D059B35DDCB3C6280861E93A75831B9CA
-
-#EXTINF:-1 tvg-logo="https://www.divxtotal.bz/wp-content/uploads/2022/09/thats-amor-(poster657).jpg" group-title="Peliculas" tvg-id="vacio", That´s amor
-magnet:?xt=urn:btih:09046115FA1DD91A03EE6A1833C286CEDF483D72
 
 #EXTINF:-1 tvg-logo="https://www.divxtotal.bz/wp-content/uploads/2022/09/13-el-musical-(poster904).jpg" group-title="Peliculas" tvg-id="vacio", 13:El musical
 magnet:?xt=urn:btih:1394FC3048B78C8C4EF7BFF5FAE5CB1CC8A20778
@@ -47,3 +20,6 @@ magnet:?xt=urn:btih:9214375C196A6475BFF1ED89AD91714EEFC93761
 
 #EXTINF:-1 tvg-logo="https://www.elitetorrent.com/wp-content/uploads/2022/03/drive-my-car-(poster697).jpg" group-title="Peliculas" tvg-id="vacio", Drive my car
 magnet:?xt=urn:btih:44DEB3310DBCFE93DB2E99D1AA4BEC571BFAF677&dn=drive-my-car&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2940%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2770%2Fannounce&tr=udp%3A%2F%2Ftracker.tallpenguin.org%3A15710%2Fannounce&tr=udp%3A%2F%2Ftracker.thinelephant.org%3A12710%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/A_Qu_vemos_cuando_miramos_al_cielo-828424240-large.jpg" group-title="Peliculas" tvg-id="vacio", ¿qué vemos cuando miramos al cielo?
+magnet:?xt=urn:btih:733D3BB799AE5EC20A2B62F3380EB8C90750FACA&dn=que-vemos-cuando-miramos-al-cielo&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2940%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2770%2Fannounce&tr=udp%3A%2F%2Ftracker.tallpenguin.org%3A15710%2Fannounce&tr=udp%3A%2F%2Ftracker.thinelephant.org%3A12710%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce
