@@ -1,4 +1,290 @@
 #EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="ESP | Nat Geo Wild"  group-title="TV | ESPAÑA",ESP | Nat Geo Wild
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218889.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ESP | Iberalia"  group-title="TV | ESPAÑA",ESP | Iberalia
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218890.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ESP | Cazavision"  group-title="TV | ESPAÑA",ESP | Cazavision
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218891.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ESP | FDF"  group-title="TV | ESPAÑA",ESP | FDF
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218892.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ESP | DMAX"  group-title="TV | ESPAÑA",ESP | DMAX
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218893.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ESP | Be Mad"  group-title="TV | ESPAÑA",ESP | Be Mad
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218894.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ESP | Blaze"  group-title="TV | ESPAÑA",ESP | Blaze
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218895.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ESP | DreamWorks"  group-title="TV | ESPAÑA",ESP | DreamWorks
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218896.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ESP | Baby TV"  group-title="TV | ESPAÑA",ESP | Baby TV
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218897.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ESP | Clan"  group-title="TV | ESPAÑA",ESP | Clan
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218898.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ESP | Disney Channel"  group-title="TV | ESPAÑA",ESP | Disney Channel
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218899.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ESP | Nickelodeon"  group-title="TV | ESPAÑA",ESP | Nickelodeon
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218900.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ESP | Disney JR"  group-title="TV | ESPAÑA",ESP | Disney JR
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218901.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ESP | Nick JR"  group-title="TV | ESPAÑA",ESP | Nick JR
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218902.ts
+#EXTINF:-1 tvg-ID="" tvg-name="101TV Malaga (1080p) [Not 24/7]"  group-title="TV | ESPAÑA",101TV Malaga (1080p) [Not 24/7]
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218908.ts
+#EXTINF:-1 tvg-ID="" tvg-name="A3 Series Internacional"  group-title="TV | ESPAÑA",A3 Series Internacional
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218910.ts
+#EXTINF:-1 tvg-ID="" tvg-name="À Punt (720p)"  group-title="TV | ESPAÑA",À Punt (720p)
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218911.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Activa TV (720p) [Not 24/7]"  group-title="TV | ESPAÑA",Activa TV (720p) [Not 24/7]
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218912.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Al Jazeera English (1080p)"  group-title="TV | ESPAÑA",Al Jazeera English (1080p)
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218913.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Aragón TV (360p)"  group-title="TV | ESPAÑA",Aragón TV (360p)
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218916.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bailén TV (720p) [Not 24/7]"  group-title="TV | ESPAÑA",Bailén TV (720p) [Not 24/7]
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218917.ts
+#EXTINF:-1 tvg-ID="" tvg-name="BBC Drama (720p)"  group-title="TV | ESPAÑA",BBC Drama (720p)
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218918.ts
+#EXTINF:-1 tvg-ID="" tvg-name="betevé (1080p)"  group-title="TV | ESPAÑA",betevé (1080p)
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218921.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Bloomberg TV EMEA Live Event (720p)"  group-title="TV | ESPAÑA",Bloomberg TV EMEA Live Event (720p)
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218922.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Cadena Elite (720p) [Not 24/7]"  group-title="TV | ESPAÑA",Cadena Elite (720p) [Not 24/7]
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218923.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Canal 4 Mancha Centro (720p) [Not 24/7]"  group-title="TV | ESPAÑA",Canal 4 Mancha Centro (720p) [Not 24/7]
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218924.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Canal 10 Empordà (360p) [Not 24/7]"  group-title="TV | ESPAÑA",Canal 10 Empordà (360p) [Not 24/7]
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218925.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Canal 25 TV (Barbastro) (720p) [Not 24/7]"  group-title="TV | ESPAÑA",Canal 25 TV (Barbastro) (720p) [Not 24/7]
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218927.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Canal 2000 La Solana (720p)"  group-title="TV | ESPAÑA",Canal 2000 La Solana (720p)
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218929.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Diocesano (576p) [Not 24/7]"  group-title="TV | ESPAÑA",Canal Diocesano (576p) [Not 24/7]
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218930.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Extremadura (576p) [Not 24/7]"  group-title="TV | ESPAÑA",Canal Extremadura (576p) [Not 24/7]
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218931.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Canal Málaga RTV (720p) [Not 24/7]"  group-title="TV | ESPAÑA",Canal Málaga RTV (720p) [Not 24/7]
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218932.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CGTN (576p)"  group-title="TV | ESPAÑA",CGTN (576p)
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218934.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CMM TV (360p) [Not 24/7]"  group-title="TV | ESPAÑA",CMM TV (360p) [Not 24/7]
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218937.ts
+#EXTINF:-1 tvg-ID="" tvg-name="CNN International Germany (720p)"  group-title="TV | ESPAÑA",CNN International Germany (720p)
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218938.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Costa Noroeste TV (720p) [Not 24/7]"  group-title="TV | ESPAÑA",Costa Noroeste TV (720p) [Not 24/7]
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218939.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Cuatro 4 TV Vall Uxa (1080p) [Not 24/7]"  group-title="TV | ESPAÑA",Cuatro 4 TV Vall Uxa (1080p) [Not 24/7]
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218940.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EDGEsport (1080p) [Not 24/7]"  group-title="TV | ESPAÑA",EDGEsport (1080p) [Not 24/7]
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218942.ts
+#EXTINF:-1 tvg-ID="" tvg-name="ESTV (1080p)"  group-title="TV | ESPAÑA",ESTV (1080p)
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218944.ts
+#EXTINF:-1 tvg-ID="" tvg-name="EWTN el Canal Católico (720p) [Not 24/7]"  group-title="TV | ESPAÑA",EWTN el Canal Católico (720p) [Not 24/7]
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218945.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Fashion TV (1080p)"  group-title="TV | ESPAÑA",Fashion TV (1080p)
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218946.ts
+#EXTINF:-1 tvg-ID="" tvg-name="GCM TV (720p) [Not 24/7]"  group-title="TV | ESPAÑA",GCM TV (720p) [Not 24/7]
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218948.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Guada TV (720p) [Not 24/7]"  group-title="TV | ESPAÑA",Guada TV (720p) [Not 24/7]
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218950.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Insight TV (1080p)"  group-title="TV | ESPAÑA",Insight TV (1080p)
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218957.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Interalmeria TV (1080p)"  group-title="TV | ESPAÑA",Interalmeria TV (1080p)
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218958.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Islatel (404p) [Not 24/7]"  group-title="TV | ESPAÑA",Islatel (404p) [Not 24/7]
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218959.ts
+#EXTINF:-1 tvg-ID="" tvg-name="KBS World (720p)"  group-title="TV | ESPAÑA",KBS World (720p)
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218960.ts
+#EXTINF:-1 tvg-ID="" tvg-name="LA7 (720p)"  group-title="TV | ESPAÑA",LA7 (720p)
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218963.ts
+#EXTINF:-1 tvg-ID="" tvg-name="La 8 Avila (720p) [Not 24/7]"  group-title="TV | ESPAÑA",La 8 Avila (720p) [Not 24/7]
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218964.ts
+#EXTINF:-1 tvg-ID="" tvg-name="La 8 Bierzo (720p)"  group-title="TV | ESPAÑA",La 8 Bierzo (720p)
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218965.ts
+#EXTINF:-1 tvg-ID="" tvg-name="La 8 Burgos (720p) [Not 24/7]"  group-title="TV | ESPAÑA",La 8 Burgos (720p) [Not 24/7]
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218966.ts
+#EXTINF:-1 tvg-ID="" tvg-name="La 8 Leon (720p) [Not 24/7]"  group-title="TV | ESPAÑA",La 8 Leon (720p) [Not 24/7]
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218967.ts
+#EXTINF:-1 tvg-ID="" tvg-name="La 8 Palencia (270p) [Not 24/7]"  group-title="TV | ESPAÑA",La 8 Palencia (270p) [Not 24/7]
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218969.ts
+#EXTINF:-1 tvg-ID="" tvg-name="La 8 Salamanca (720p)"  group-title="TV | ESPAÑA",La 8 Salamanca (720p)
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218970.ts
+#EXTINF:-1 tvg-ID="" tvg-name="La 8 Zamora (720p)"  group-title="TV | ESPAÑA",La 8 Zamora (720p)
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218974.ts
+#EXTINF:-1 tvg-ID="" tvg-name="La Urban TV (1080p) [Not 24/7]"  group-title="TV | ESPAÑA",La Urban TV (1080p) [Not 24/7]
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218975.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Levante TV (320p) [Not 24/7]"  group-title="TV | ESPAÑA",Levante TV (320p) [Not 24/7]
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218978.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Logos TV (1080p) [Not 24/7]"  group-title="TV | ESPAÑA",Logos TV (1080p) [Not 24/7]
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218979.ts
+#EXTINF:-1 tvg-ID="" tvg-name="M95 Televisión Marbella (576p) [Not 24/7]"  group-title="TV | ESPAÑA",M95 Televisión Marbella (576p) [Not 24/7]
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218980.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MavTV Select (720p)"  group-title="TV | ESPAÑA",MavTV Select (720p)
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218981.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NASA TV (720p)"  group-title="TV | ESPAÑA",NASA TV (720p)
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218984.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NHK World Japan (1080p)"  group-title="TV | ESPAÑA",NHK World Japan (1080p)
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218986.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Onda Cádiz (1080p)"  group-title="TV | ESPAÑA",Onda Cádiz (1080p)
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218989.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Pequeradio (720p) [Not 24/7]"  group-title="TV | ESPAÑA",Pequeradio (720p) [Not 24/7]
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218990.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Popular TV Murcia (720p) [Not 24/7]"  group-title="TV | ESPAÑA",Popular TV Murcia (720p) [Not 24/7]
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218992.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Punt 3 Vall Uixó (1080p)"  group-title="TV | ESPAÑA",Punt 3 Vall Uixó (1080p)
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218993.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Radio Rutas del Perú (360p) [Not 24/7]"  group-title="TV | ESPAÑA",Radio Rutas del Perú (360p) [Not 24/7]
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218994.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Radio Televisión Melilla (720p) [Not 24/7]"  group-title="TV | ESPAÑA",Radio Televisión Melilla (720p) [Not 24/7]
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218995.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Red Bull TV (1080p)"  group-title="TV | ESPAÑA",Red Bull TV (1080p)
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218996.ts
+#EXTINF:-1 tvg-ID="" tvg-name="RTV Vida (1080p)"  group-title="TV | ESPAÑA",RTV Vida (1080p)
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218997.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Solidaria TV (720p)"  group-title="TV | ESPAÑA",Solidaria TV (720p)
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218998.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Sophia TV (720p)"  group-title="TV | ESPAÑA",Sophia TV (720p)
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218999.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TeleGilena (360p) [Not 24/7]"  group-title="TV | ESPAÑA",TeleGilena (360p) [Not 24/7]
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/219001.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TeleRibera (720p) [Not 24/7]"  group-title="TV | ESPAÑA",TeleRibera (720p) [Not 24/7]
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/219003.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TeleToledo (720p) [Not 24/7]"  group-title="TV | ESPAÑA",TeleToledo (720p) [Not 24/7]
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/219004.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TeleVigo (1080p) [Not 24/7]"  group-title="TV | ESPAÑA",TeleVigo (1080p) [Not 24/7]
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/219005.ts
+#EXTINF:-1 tvg-ID="" tvg-name="teve.cat (1080p)"  group-title="TV | ESPAÑA",teve.cat (1080p)
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/219006.ts
+#EXTINF:-1 tvg-ID="" tvg-name="The Pet Collective Europe (720p)"  group-title="TV | ESPAÑA",The Pet Collective Europe (720p)
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/219007.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Top Gear (720p)"  group-title="TV | ESPAÑA",Top Gear (720p)
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/219008.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Trece TV (576p)"  group-title="TV | ESPAÑA",Trece TV (576p)
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/219009.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TRT World (720p) [Not 24/7]"  group-title="TV | ESPAÑA",TRT World (720p) [Not 24/7]
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/219010.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TV Girona (720p)"  group-title="TV | ESPAÑA",TV Girona (720p)
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/219011.ts
+#EXTINF:-1 tvg-ID="" tvg-name="tvG2 (720p) [Not 24/7]"  group-title="TV | ESPAÑA",tvG2 (720p) [Not 24/7]
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/219012.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TVG América (720p)"  group-title="TV | ESPAÑA",TVG América (720p)
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/219013.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TVG Cultural (720p)"  group-title="TV | ESPAÑA",TVG Cultural (720p)
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/219014.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TVG Europa (720p)"  group-title="TV | ESPAÑA",TVG Europa (720p)
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/219015.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TVG Evento 5 (720p) [Not 24/7]"  group-title="TV | ESPAÑA",TVG Evento 5 (720p) [Not 24/7]
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/219017.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TVG Infantil (720p) [Not 24/7]"  group-title="TV | ESPAÑA",TVG Infantil (720p) [Not 24/7]
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/219018.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TVG Musigal (480p) [Not 24/7]"  group-title="TV | ESPAÑA",TVG Musigal (480p) [Not 24/7]
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/219020.ts
+#EXTINF:-1 tvg-ID="" tvg-name="TVM Córdoba (414p) [Not 24/7]"  group-title="TV | ESPAÑA",TVM Córdoba (414p) [Not 24/7]
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/219021.ts
+#EXTINF:-1 tvg-ID="" tvg-name="UN Web TV (540p)"  group-title="TV | ESPAÑA",UN Web TV (540p)
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/219023.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Ventdelnord TV (404p)"  group-title="TV | ESPAÑA",Ventdelnord TV (404p)
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/219024.ts
+#EXTINF:-1 tvg-ID="" tvg-name="Visión 6 TV (720p) [Not 24/7]"  group-title="TV | ESPAÑA",Visión 6 TV (720p) [Not 24/7]
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/219025.ts
+#EXTINF:-1 tvg-ID="" tvg-name="WeatherSpy Europe (720p)"  group-title="TV | ESPAÑA",WeatherSpy Europe (720p)
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/219026.ts
+#EXTINF:-1 tvg-ID="" tvg-name="M+ | M+  LaLiga"  group-title="TV | MOVISTAR+",M+ | M+  LaLiga
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233437.ts
+#EXTINF:-1 tvg-ID="" tvg-name="M+ | M+ LaLiga 2"  group-title="TV | MOVISTAR+",M+ | M+ LaLiga 2
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233438.ts
+#EXTINF:-1 tvg-ID="" tvg-name="M+ | M+ LaLiga 3"  group-title="TV | MOVISTAR+",M+ | M+ LaLiga 3
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233439.ts
+#EXTINF:-1 tvg-ID="" tvg-name="M+ | M+ LaLiga 4"  group-title="TV | MOVISTAR+",M+ | M+ LaLiga 4
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233440.ts
+#EXTINF:-1 tvg-ID="" tvg-name="M+ | M+ LaLiga 5"  group-title="TV | MOVISTAR+",M+ | M+ LaLiga 5
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233441.ts
+#EXTINF:-1 tvg-ID="" tvg-name="M+ | M+ LaLiga 6"  group-title="TV | MOVISTAR+",M+ | M+ LaLiga 6
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233442.ts
+#EXTINF:-1 tvg-ID="" tvg-name="M+ | M+ LaLiga 7"  group-title="TV | MOVISTAR+",M+ | M+ LaLiga 7
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233443.ts
+#EXTINF:-1 tvg-ID="" tvg-name="M+ | M+ LaLiga 8"  group-title="TV | MOVISTAR+",M+ | M+ LaLiga 8
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233444.ts
+#EXTINF:-1 tvg-ID="" tvg-name="M+ | M+ Liga de Campeones"  group-title="TV | MOVISTAR+",M+ | M+ Liga de Campeones
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233445.ts
+#EXTINF:-1 tvg-ID="" tvg-name="M+ | M+ Liga de Campeones 1"  group-title="TV | MOVISTAR+",M+ | M+ Liga de Campeones 1
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233446.ts
+#EXTINF:-1 tvg-ID="" tvg-name="M+ | M+ Liga de Campeones 2"  group-title="TV | MOVISTAR+",M+ | M+ Liga de Campeones 2
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233447.ts
+#EXTINF:-1 tvg-ID="" tvg-name="M+ | M+ Liga de Campeones 3"  group-title="TV | MOVISTAR+",M+ | M+ Liga de Campeones 3
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233448.ts
+#EXTINF:-1 tvg-ID="" tvg-name="M+ | M+ Liga de Campeones 4"  group-title="TV | MOVISTAR+",M+ | M+ Liga de Campeones 4
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233449.ts
+#EXTINF:-1 tvg-ID="" tvg-name="M+ | M+ Liga de Campeones 5"  group-title="TV | MOVISTAR+",M+ | M+ Liga de Campeones 5
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233450.ts
+#EXTINF:-1 tvg-ID="" tvg-name="M+ | M+ Liga de Campeones 6"  group-title="TV | MOVISTAR+",M+ | M+ Liga de Campeones 6
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233451.ts
+#EXTINF:-1 tvg-ID="" tvg-name="M+ | M+ Liga de Campeones 7"  group-title="TV | MOVISTAR+",M+ | M+ Liga de Campeones 7
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233452.ts
+#EXTINF:-1 tvg-ID="" tvg-name="M+ | M+ Liga de Campeones 8"  group-title="TV | MOVISTAR+",M+ | M+ Liga de Campeones 8
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233453.ts
+#EXTINF:-1 tvg-ID="" tvg-name="M+ | M+ Deportes"  group-title="TV | MOVISTAR+",M+ | M+ Deportes
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233454.ts
+#EXTINF:-1 tvg-ID="" tvg-name="M+ | M+ Deportes 1"  group-title="TV | MOVISTAR+",M+ | M+ Deportes 1
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233455.ts
+#EXTINF:-1 tvg-ID="" tvg-name="M+ | M+ Deportes 2"  group-title="TV | MOVISTAR+",M+ | M+ Deportes 2
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233456.ts
+#EXTINF:-1 tvg-ID="" tvg-name="M+ | M+ Deportes 3"  group-title="TV | MOVISTAR+",M+ | M+ Deportes 3
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233457.ts
+#EXTINF:-1 tvg-ID="" tvg-name="M+ | M+ Deportes 4"  group-title="TV | MOVISTAR+",M+ | M+ Deportes 4
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233458.ts
+#EXTINF:-1 tvg-ID="" tvg-name="M+ | M+ Deportes 5"  group-title="TV | MOVISTAR+",M+ | M+ Deportes 5
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233459.ts
+#EXTINF:-1 tvg-ID="" tvg-name="M+ | M+ LaLiga SMARTBANK TV"  group-title="TV | MOVISTAR+",M+ | M+ LaLiga SMARTBANK TV
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233460.ts
+#EXTINF:-1 tvg-ID="" tvg-name="M+ | LaligaTV Bar"  group-title="TV | MOVISTAR+",M+ | LaligaTV Bar
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233461.ts
+#EXTINF:-1 tvg-ID="" tvg-name="M+ | M+ Golf"  group-title="TV | MOVISTAR+",M+ | M+ Golf
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233462.ts
+#EXTINF:-1 tvg-ID="" tvg-name="M+ | M+ TOROS TV"  group-title="TV | MOVISTAR+",M+ | M+ TOROS TV
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233463.ts
+#EXTINF:-1 tvg-ID="" tvg-name="M+ | #Vamos"  group-title="TV | MOVISTAR+",M+ | #Vamos
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233464.ts
+#EXTINF:-1 tvg-ID="" tvg-name="M+ | ELLAS #V"  group-title="TV | MOVISTAR+",M+ | ELLAS #V
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233465.ts
+#EXTINF:-1 tvg-ID="" tvg-name="M+ | M+ La Resistencia 24H"  group-title="TV | MOVISTAR+",M+ | M+ La Resistencia 24H
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233466.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | DAZN Laliga"  group-title="TV | DEPORTES",DEP | DAZN Laliga
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233468.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | DAZN LaLiga 2"  group-title="TV | DEPORTES",DEP | DAZN LaLiga 2
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233469.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | DAZN 1"  group-title="TV | DEPORTES",DEP | DAZN 1
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233470.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | DAZN 2"  group-title="TV | DEPORTES",DEP | DAZN 2
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233471.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | DAZN 3"  group-title="TV | DEPORTES",DEP | DAZN 3
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233472.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | DAZN 4"  group-title="TV | DEPORTES",DEP | DAZN 4
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233473.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | DAZN 1 Bar"  group-title="TV | DEPORTES",DEP | DAZN 1 Bar
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233474.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | DAZN 2 Bar"  group-title="TV | DEPORTES",DEP | DAZN 2 Bar
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233475.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | DAZN F1"  group-title="TV | DEPORTES",DEP | DAZN F1
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233476.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | Sky Sports LaLiga"  group-title="TV | DEPORTES",DEP | Sky Sports LaLiga
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233477.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | Sky Sport Bundesliga"  group-title="TV | DEPORTES",DEP | Sky Sport Bundesliga
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233478.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | Sky Sport Tennis"  group-title="TV | DEPORTES",DEP | Sky Sport Tennis
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233480.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | Sky Sports Main Event"  group-title="TV | DEPORTES",DEP | Sky Sports Main Event
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233481.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | Sky Sports News"  group-title="TV | DEPORTES",DEP | Sky Sports News
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233482.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | Sky Sports Football"  group-title="TV | DEPORTES",DEP | Sky Sports Football
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233483.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | Sky Sports Racing"  group-title="TV | DEPORTES",DEP | Sky Sports Racing
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233484.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | Sky Sports Arena"  group-title="TV | DEPORTES",DEP | Sky Sports Arena
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233485.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | Sky Sport F1"  group-title="TV | DEPORTES",DEP | Sky Sport F1
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233486.ts
+#EXTINF:-1 tvg-ID="" tvg-name="DEP | Sky Sport MOTO GP (IT)"  group-title="TV | DEPORTES",DEP | Sky Sport MOTO GP (IT)
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233487.ts
 #EXTINF:-1 tvg-ID="" tvg-name="19:00 CT. | WWE RAW"  group-title="TV | EVENTOS 31 OCTUBRE",19:00 CT. | WWE RAW
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/237318.ts
 #EXTINF:-1 tvg-ID="" tvg-name="14:00 CT. | Elche vs Getafe"  group-title="TV | EVENTOS 31 OCTUBRE",14:00 CT. | Elche vs Getafe
@@ -3429,194 +3715,7 @@ http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/216523.ts
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218618.ts
 #EXTINF:-1 tvg-ID="" tvg-name="ESP | National Geografic"  group-title="TV | ESPAÑA",ESP | National Geografic
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218888.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ESP | Nat Geo Wild"  group-title="TV | ESPAÑA",ESP | Nat Geo Wild
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218889.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ESP | Iberalia"  group-title="TV | ESPAÑA",ESP | Iberalia
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218890.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ESP | Cazavision"  group-title="TV | ESPAÑA",ESP | Cazavision
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218891.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ESP | FDF"  group-title="TV | ESPAÑA",ESP | FDF
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218892.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ESP | DMAX"  group-title="TV | ESPAÑA",ESP | DMAX
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218893.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ESP | Be Mad"  group-title="TV | ESPAÑA",ESP | Be Mad
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218894.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ESP | Blaze"  group-title="TV | ESPAÑA",ESP | Blaze
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218895.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ESP | DreamWorks"  group-title="TV | ESPAÑA",ESP | DreamWorks
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218896.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ESP | Baby TV"  group-title="TV | ESPAÑA",ESP | Baby TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218897.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ESP | Clan"  group-title="TV | ESPAÑA",ESP | Clan
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218898.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ESP | Disney Channel"  group-title="TV | ESPAÑA",ESP | Disney Channel
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218899.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ESP | Nickelodeon"  group-title="TV | ESPAÑA",ESP | Nickelodeon
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218900.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ESP | Disney JR"  group-title="TV | ESPAÑA",ESP | Disney JR
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218901.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ESP | Nick JR"  group-title="TV | ESPAÑA",ESP | Nick JR
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218902.ts
-#EXTINF:-1 tvg-ID="" tvg-name="101TV Malaga (1080p) [Not 24/7]"  group-title="TV | ESPAÑA",101TV Malaga (1080p) [Not 24/7]
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218908.ts
-#EXTINF:-1 tvg-ID="" tvg-name="A3 Series Internacional"  group-title="TV | ESPAÑA",A3 Series Internacional
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218910.ts
-#EXTINF:-1 tvg-ID="" tvg-name="À Punt (720p)"  group-title="TV | ESPAÑA",À Punt (720p)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218911.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Activa TV (720p) [Not 24/7]"  group-title="TV | ESPAÑA",Activa TV (720p) [Not 24/7]
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218912.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Al Jazeera English (1080p)"  group-title="TV | ESPAÑA",Al Jazeera English (1080p)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218913.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Aragón TV (360p)"  group-title="TV | ESPAÑA",Aragón TV (360p)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218916.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Bailén TV (720p) [Not 24/7]"  group-title="TV | ESPAÑA",Bailén TV (720p) [Not 24/7]
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218917.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BBC Drama (720p)"  group-title="TV | ESPAÑA",BBC Drama (720p)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218918.ts
-#EXTINF:-1 tvg-ID="" tvg-name="betevé (1080p)"  group-title="TV | ESPAÑA",betevé (1080p)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218921.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Bloomberg TV EMEA Live Event (720p)"  group-title="TV | ESPAÑA",Bloomberg TV EMEA Live Event (720p)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218922.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Cadena Elite (720p) [Not 24/7]"  group-title="TV | ESPAÑA",Cadena Elite (720p) [Not 24/7]
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218923.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Canal 4 Mancha Centro (720p) [Not 24/7]"  group-title="TV | ESPAÑA",Canal 4 Mancha Centro (720p) [Not 24/7]
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218924.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Canal 10 Empordà (360p) [Not 24/7]"  group-title="TV | ESPAÑA",Canal 10 Empordà (360p) [Not 24/7]
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218925.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Canal 25 TV (Barbastro) (720p) [Not 24/7]"  group-title="TV | ESPAÑA",Canal 25 TV (Barbastro) (720p) [Not 24/7]
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218927.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Canal 2000 La Solana (720p)"  group-title="TV | ESPAÑA",Canal 2000 La Solana (720p)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218929.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Canal Diocesano (576p) [Not 24/7]"  group-title="TV | ESPAÑA",Canal Diocesano (576p) [Not 24/7]
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218930.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Canal Extremadura (576p) [Not 24/7]"  group-title="TV | ESPAÑA",Canal Extremadura (576p) [Not 24/7]
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218931.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Canal Málaga RTV (720p) [Not 24/7]"  group-title="TV | ESPAÑA",Canal Málaga RTV (720p) [Not 24/7]
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218932.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CGTN (576p)"  group-title="TV | ESPAÑA",CGTN (576p)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218934.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CMM TV (360p) [Not 24/7]"  group-title="TV | ESPAÑA",CMM TV (360p) [Not 24/7]
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218937.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CNN International Germany (720p)"  group-title="TV | ESPAÑA",CNN International Germany (720p)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218938.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Costa Noroeste TV (720p) [Not 24/7]"  group-title="TV | ESPAÑA",Costa Noroeste TV (720p) [Not 24/7]
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218939.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Cuatro 4 TV Vall Uxa (1080p) [Not 24/7]"  group-title="TV | ESPAÑA",Cuatro 4 TV Vall Uxa (1080p) [Not 24/7]
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218940.ts
-#EXTINF:-1 tvg-ID="" tvg-name="EDGEsport (1080p) [Not 24/7]"  group-title="TV | ESPAÑA",EDGEsport (1080p) [Not 24/7]
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218942.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ESTV (1080p)"  group-title="TV | ESPAÑA",ESTV (1080p)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218944.ts
-#EXTINF:-1 tvg-ID="" tvg-name="EWTN el Canal Católico (720p) [Not 24/7]"  group-title="TV | ESPAÑA",EWTN el Canal Católico (720p) [Not 24/7]
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218945.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Fashion TV (1080p)"  group-title="TV | ESPAÑA",Fashion TV (1080p)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218946.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GCM TV (720p) [Not 24/7]"  group-title="TV | ESPAÑA",GCM TV (720p) [Not 24/7]
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218948.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Guada TV (720p) [Not 24/7]"  group-title="TV | ESPAÑA",Guada TV (720p) [Not 24/7]
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218950.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Insight TV (1080p)"  group-title="TV | ESPAÑA",Insight TV (1080p)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218957.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Interalmeria TV (1080p)"  group-title="TV | ESPAÑA",Interalmeria TV (1080p)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218958.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Islatel (404p) [Not 24/7]"  group-title="TV | ESPAÑA",Islatel (404p) [Not 24/7]
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218959.ts
-#EXTINF:-1 tvg-ID="" tvg-name="KBS World (720p)"  group-title="TV | ESPAÑA",KBS World (720p)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218960.ts
-#EXTINF:-1 tvg-ID="" tvg-name="LA7 (720p)"  group-title="TV | ESPAÑA",LA7 (720p)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218963.ts
-#EXTINF:-1 tvg-ID="" tvg-name="La 8 Avila (720p) [Not 24/7]"  group-title="TV | ESPAÑA",La 8 Avila (720p) [Not 24/7]
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218964.ts
-#EXTINF:-1 tvg-ID="" tvg-name="La 8 Bierzo (720p)"  group-title="TV | ESPAÑA",La 8 Bierzo (720p)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218965.ts
-#EXTINF:-1 tvg-ID="" tvg-name="La 8 Burgos (720p) [Not 24/7]"  group-title="TV | ESPAÑA",La 8 Burgos (720p) [Not 24/7]
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218966.ts
-#EXTINF:-1 tvg-ID="" tvg-name="La 8 Leon (720p) [Not 24/7]"  group-title="TV | ESPAÑA",La 8 Leon (720p) [Not 24/7]
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218967.ts
-#EXTINF:-1 tvg-ID="" tvg-name="La 8 Palencia (270p) [Not 24/7]"  group-title="TV | ESPAÑA",La 8 Palencia (270p) [Not 24/7]
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218969.ts
-#EXTINF:-1 tvg-ID="" tvg-name="La 8 Salamanca (720p)"  group-title="TV | ESPAÑA",La 8 Salamanca (720p)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218970.ts
-#EXTINF:-1 tvg-ID="" tvg-name="La 8 Zamora (720p)"  group-title="TV | ESPAÑA",La 8 Zamora (720p)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218974.ts
-#EXTINF:-1 tvg-ID="" tvg-name="La Urban TV (1080p) [Not 24/7]"  group-title="TV | ESPAÑA",La Urban TV (1080p) [Not 24/7]
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218975.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Levante TV (320p) [Not 24/7]"  group-title="TV | ESPAÑA",Levante TV (320p) [Not 24/7]
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218978.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Logos TV (1080p) [Not 24/7]"  group-title="TV | ESPAÑA",Logos TV (1080p) [Not 24/7]
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218979.ts
-#EXTINF:-1 tvg-ID="" tvg-name="M95 Televisión Marbella (576p) [Not 24/7]"  group-title="TV | ESPAÑA",M95 Televisión Marbella (576p) [Not 24/7]
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218980.ts
-#EXTINF:-1 tvg-ID="" tvg-name="MavTV Select (720p)"  group-title="TV | ESPAÑA",MavTV Select (720p)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218981.ts
-#EXTINF:-1 tvg-ID="" tvg-name="NASA TV (720p)"  group-title="TV | ESPAÑA",NASA TV (720p)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218984.ts
-#EXTINF:-1 tvg-ID="" tvg-name="NHK World Japan (1080p)"  group-title="TV | ESPAÑA",NHK World Japan (1080p)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218986.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Onda Cádiz (1080p)"  group-title="TV | ESPAÑA",Onda Cádiz (1080p)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218989.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Pequeradio (720p) [Not 24/7]"  group-title="TV | ESPAÑA",Pequeradio (720p) [Not 24/7]
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218990.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Popular TV Murcia (720p) [Not 24/7]"  group-title="TV | ESPAÑA",Popular TV Murcia (720p) [Not 24/7]
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218992.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Punt 3 Vall Uixó (1080p)"  group-title="TV | ESPAÑA",Punt 3 Vall Uixó (1080p)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218993.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Radio Rutas del Perú (360p) [Not 24/7]"  group-title="TV | ESPAÑA",Radio Rutas del Perú (360p) [Not 24/7]
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218994.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Radio Televisión Melilla (720p) [Not 24/7]"  group-title="TV | ESPAÑA",Radio Televisión Melilla (720p) [Not 24/7]
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218995.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Red Bull TV (1080p)"  group-title="TV | ESPAÑA",Red Bull TV (1080p)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218996.ts
-#EXTINF:-1 tvg-ID="" tvg-name="RTV Vida (1080p)"  group-title="TV | ESPAÑA",RTV Vida (1080p)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218997.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Solidaria TV (720p)"  group-title="TV | ESPAÑA",Solidaria TV (720p)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218998.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sophia TV (720p)"  group-title="TV | ESPAÑA",Sophia TV (720p)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218999.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TeleGilena (360p) [Not 24/7]"  group-title="TV | ESPAÑA",TeleGilena (360p) [Not 24/7]
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/219001.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TeleRibera (720p) [Not 24/7]"  group-title="TV | ESPAÑA",TeleRibera (720p) [Not 24/7]
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/219003.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TeleToledo (720p) [Not 24/7]"  group-title="TV | ESPAÑA",TeleToledo (720p) [Not 24/7]
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/219004.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TeleVigo (1080p) [Not 24/7]"  group-title="TV | ESPAÑA",TeleVigo (1080p) [Not 24/7]
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/219005.ts
-#EXTINF:-1 tvg-ID="" tvg-name="teve.cat (1080p)"  group-title="TV | ESPAÑA",teve.cat (1080p)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/219006.ts
-#EXTINF:-1 tvg-ID="" tvg-name="The Pet Collective Europe (720p)"  group-title="TV | ESPAÑA",The Pet Collective Europe (720p)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/219007.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Top Gear (720p)"  group-title="TV | ESPAÑA",Top Gear (720p)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/219008.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Trece TV (576p)"  group-title="TV | ESPAÑA",Trece TV (576p)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/219009.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TRT World (720p) [Not 24/7]"  group-title="TV | ESPAÑA",TRT World (720p) [Not 24/7]
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/219010.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TV Girona (720p)"  group-title="TV | ESPAÑA",TV Girona (720p)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/219011.ts
-#EXTINF:-1 tvg-ID="" tvg-name="tvG2 (720p) [Not 24/7]"  group-title="TV | ESPAÑA",tvG2 (720p) [Not 24/7]
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/219012.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TVG América (720p)"  group-title="TV | ESPAÑA",TVG América (720p)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/219013.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TVG Cultural (720p)"  group-title="TV | ESPAÑA",TVG Cultural (720p)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/219014.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TVG Europa (720p)"  group-title="TV | ESPAÑA",TVG Europa (720p)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/219015.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TVG Evento 5 (720p) [Not 24/7]"  group-title="TV | ESPAÑA",TVG Evento 5 (720p) [Not 24/7]
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/219017.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TVG Infantil (720p) [Not 24/7]"  group-title="TV | ESPAÑA",TVG Infantil (720p) [Not 24/7]
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/219018.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TVG Musigal (480p) [Not 24/7]"  group-title="TV | ESPAÑA",TVG Musigal (480p) [Not 24/7]
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/219020.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TVM Córdoba (414p) [Not 24/7]"  group-title="TV | ESPAÑA",TVM Córdoba (414p) [Not 24/7]
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/219021.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UN Web TV (540p)"  group-title="TV | ESPAÑA",UN Web TV (540p)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/219023.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Ventdelnord TV (404p)"  group-title="TV | ESPAÑA",Ventdelnord TV (404p)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/219024.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Visión 6 TV (720p) [Not 24/7]"  group-title="TV | ESPAÑA",Visión 6 TV (720p) [Not 24/7]
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/219025.ts
-#EXTINF:-1 tvg-ID="" tvg-name="WeatherSpy Europe (720p)"  group-title="TV | ESPAÑA",WeatherSpy Europe (720p)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/219026.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="24/7 Aquaman"  group-title="TV | 24/7 ANIMADOS RETRO",24/7 Aquaman
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/222628.ts
 #EXTINF:-1 tvg-ID="" tvg-name="24/7 Pinky, Elvira y Cerebro"  group-title="TV | 24/7 ANIMADOS RETRO",24/7 Pinky, Elvira y Cerebro
@@ -3691,104 +3790,7 @@ http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/231935.ts
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/232726.ts
 #EXTINF:-1 tvg-ID="" tvg-name="CO | Canal C"  group-title="TV | COLOMBIA",CO | Canal C
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233389.ts
-#EXTINF:-1 tvg-ID="" tvg-name="M+ | M+  LaLiga"  group-title="TV | MOVISTAR+",M+ | M+  LaLiga
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233437.ts
-#EXTINF:-1 tvg-ID="" tvg-name="M+ | M+ LaLiga 2"  group-title="TV | MOVISTAR+",M+ | M+ LaLiga 2
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233438.ts
-#EXTINF:-1 tvg-ID="" tvg-name="M+ | M+ LaLiga 3"  group-title="TV | MOVISTAR+",M+ | M+ LaLiga 3
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233439.ts
-#EXTINF:-1 tvg-ID="" tvg-name="M+ | M+ LaLiga 4"  group-title="TV | MOVISTAR+",M+ | M+ LaLiga 4
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233440.ts
-#EXTINF:-1 tvg-ID="" tvg-name="M+ | M+ LaLiga 5"  group-title="TV | MOVISTAR+",M+ | M+ LaLiga 5
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233441.ts
-#EXTINF:-1 tvg-ID="" tvg-name="M+ | M+ LaLiga 6"  group-title="TV | MOVISTAR+",M+ | M+ LaLiga 6
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233442.ts
-#EXTINF:-1 tvg-ID="" tvg-name="M+ | M+ LaLiga 7"  group-title="TV | MOVISTAR+",M+ | M+ LaLiga 7
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233443.ts
-#EXTINF:-1 tvg-ID="" tvg-name="M+ | M+ LaLiga 8"  group-title="TV | MOVISTAR+",M+ | M+ LaLiga 8
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233444.ts
-#EXTINF:-1 tvg-ID="" tvg-name="M+ | M+ Liga de Campeones"  group-title="TV | MOVISTAR+",M+ | M+ Liga de Campeones
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233445.ts
-#EXTINF:-1 tvg-ID="" tvg-name="M+ | M+ Liga de Campeones 1"  group-title="TV | MOVISTAR+",M+ | M+ Liga de Campeones 1
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233446.ts
-#EXTINF:-1 tvg-ID="" tvg-name="M+ | M+ Liga de Campeones 2"  group-title="TV | MOVISTAR+",M+ | M+ Liga de Campeones 2
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233447.ts
-#EXTINF:-1 tvg-ID="" tvg-name="M+ | M+ Liga de Campeones 3"  group-title="TV | MOVISTAR+",M+ | M+ Liga de Campeones 3
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233448.ts
-#EXTINF:-1 tvg-ID="" tvg-name="M+ | M+ Liga de Campeones 4"  group-title="TV | MOVISTAR+",M+ | M+ Liga de Campeones 4
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233449.ts
-#EXTINF:-1 tvg-ID="" tvg-name="M+ | M+ Liga de Campeones 5"  group-title="TV | MOVISTAR+",M+ | M+ Liga de Campeones 5
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233450.ts
-#EXTINF:-1 tvg-ID="" tvg-name="M+ | M+ Liga de Campeones 6"  group-title="TV | MOVISTAR+",M+ | M+ Liga de Campeones 6
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233451.ts
-#EXTINF:-1 tvg-ID="" tvg-name="M+ | M+ Liga de Campeones 7"  group-title="TV | MOVISTAR+",M+ | M+ Liga de Campeones 7
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233452.ts
-#EXTINF:-1 tvg-ID="" tvg-name="M+ | M+ Liga de Campeones 8"  group-title="TV | MOVISTAR+",M+ | M+ Liga de Campeones 8
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233453.ts
-#EXTINF:-1 tvg-ID="" tvg-name="M+ | M+ Deportes"  group-title="TV | MOVISTAR+",M+ | M+ Deportes
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233454.ts
-#EXTINF:-1 tvg-ID="" tvg-name="M+ | M+ Deportes 1"  group-title="TV | MOVISTAR+",M+ | M+ Deportes 1
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233455.ts
-#EXTINF:-1 tvg-ID="" tvg-name="M+ | M+ Deportes 2"  group-title="TV | MOVISTAR+",M+ | M+ Deportes 2
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233456.ts
-#EXTINF:-1 tvg-ID="" tvg-name="M+ | M+ Deportes 3"  group-title="TV | MOVISTAR+",M+ | M+ Deportes 3
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233457.ts
-#EXTINF:-1 tvg-ID="" tvg-name="M+ | M+ Deportes 4"  group-title="TV | MOVISTAR+",M+ | M+ Deportes 4
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233458.ts
-#EXTINF:-1 tvg-ID="" tvg-name="M+ | M+ Deportes 5"  group-title="TV | MOVISTAR+",M+ | M+ Deportes 5
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233459.ts
-#EXTINF:-1 tvg-ID="" tvg-name="M+ | M+ LaLiga SMARTBANK TV"  group-title="TV | MOVISTAR+",M+ | M+ LaLiga SMARTBANK TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233460.ts
-#EXTINF:-1 tvg-ID="" tvg-name="M+ | LaligaTV Bar"  group-title="TV | MOVISTAR+",M+ | LaligaTV Bar
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233461.ts
-#EXTINF:-1 tvg-ID="" tvg-name="M+ | M+ Golf"  group-title="TV | MOVISTAR+",M+ | M+ Golf
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233462.ts
-#EXTINF:-1 tvg-ID="" tvg-name="M+ | M+ TOROS TV"  group-title="TV | MOVISTAR+",M+ | M+ TOROS TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233463.ts
-#EXTINF:-1 tvg-ID="" tvg-name="M+ | #Vamos"  group-title="TV | MOVISTAR+",M+ | #Vamos
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233464.ts
-#EXTINF:-1 tvg-ID="" tvg-name="M+ | ELLAS #V"  group-title="TV | MOVISTAR+",M+ | ELLAS #V
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233465.ts
-#EXTINF:-1 tvg-ID="" tvg-name="M+ | M+ La Resistencia 24H"  group-title="TV | MOVISTAR+",M+ | M+ La Resistencia 24H
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233466.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DEP | DAZN Laliga"  group-title="TV | DEPORTES",DEP | DAZN Laliga
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233468.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DEP | DAZN LaLiga 2"  group-title="TV | DEPORTES",DEP | DAZN LaLiga 2
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233469.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DEP | DAZN 1"  group-title="TV | DEPORTES",DEP | DAZN 1
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233470.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DEP | DAZN 2"  group-title="TV | DEPORTES",DEP | DAZN 2
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233471.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DEP | DAZN 3"  group-title="TV | DEPORTES",DEP | DAZN 3
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233472.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DEP | DAZN 4"  group-title="TV | DEPORTES",DEP | DAZN 4
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233473.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DEP | DAZN 1 Bar"  group-title="TV | DEPORTES",DEP | DAZN 1 Bar
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233474.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DEP | DAZN 2 Bar"  group-title="TV | DEPORTES",DEP | DAZN 2 Bar
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233475.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DEP | DAZN F1"  group-title="TV | DEPORTES",DEP | DAZN F1
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233476.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DEP | Sky Sports LaLiga"  group-title="TV | DEPORTES",DEP | Sky Sports LaLiga
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233477.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DEP | Sky Sport Bundesliga"  group-title="TV | DEPORTES",DEP | Sky Sport Bundesliga
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233478.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DEP | Sky Sport Tennis"  group-title="TV | DEPORTES",DEP | Sky Sport Tennis
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233480.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DEP | Sky Sports Main Event"  group-title="TV | DEPORTES",DEP | Sky Sports Main Event
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233481.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DEP | Sky Sports News"  group-title="TV | DEPORTES",DEP | Sky Sports News
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233482.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DEP | Sky Sports Football"  group-title="TV | DEPORTES",DEP | Sky Sports Football
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233483.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DEP | Sky Sports Racing"  group-title="TV | DEPORTES",DEP | Sky Sports Racing
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233484.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DEP | Sky Sports Arena"  group-title="TV | DEPORTES",DEP | Sky Sports Arena
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233485.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DEP | Sky Sport F1"  group-title="TV | DEPORTES",DEP | Sky Sport F1
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233486.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DEP | Sky Sport MOTO GP (IT)"  group-title="TV | DEPORTES",DEP | Sky Sport MOTO GP (IT)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233487.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="PER | Movistar Deportes Peru Opc2"  group-title="TV | PERU",PER | Movistar Deportes Peru Opc2
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/234672.ts
 #EXTINF:-1 tvg-ID="" tvg-name="PER | AmericaTV Opc1"  group-title="TV | PERU",PER | AmericaTV Opc1
@@ -4079,5 +4081,3 @@ http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/237205.ts
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/237280.ts
 #EXTINF:-1 tvg-ID="" tvg-name="24/7 The New Adventures of Jonny Quest"  group-title="TV | 24/7 ANIMADOS RETRO",24/7 The New Adventures of Jonny Quest
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/222708.ts
-#EXTINF:-1 tvg-ID="" tvg-name="XXX | Live Cams"  group-title="TV | XXX ADULTOS",XXX | Live Cams
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/184148.ts
