@@ -285,7 +285,38 @@ http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233485.ts
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233486.ts
 #EXTINF:-1 tvg-ID="" tvg-name="DEP | Sky Sport MOTO GP (IT)"  group-title="TV | DEPORTES",DEP | Sky Sport MOTO GP (IT)
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233487.ts
-
+#EXTINF:-1 tvg-ID="" tvg-name="NBA 01"  group-title="TV | NBA PACK",NBA 01
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/236872.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NBA 02"  group-title="TV | NBA PACK",NBA 02
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/236873.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NBA 03"  group-title="TV | NBA PACK",NBA 03
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/236874.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NBA 04"  group-title="TV | NBA PACK",NBA 04
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/236875.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NBA 05"  group-title="TV | NBA PACK",NBA 05
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/236876.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NBA 06"  group-title="TV | NBA PACK",NBA 06
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/236877.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NBA 07"  group-title="TV | NBA PACK",NBA 07
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/236878.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NBA 08"  group-title="TV | NBA PACK",NBA 08
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/236879.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NBA 09"  group-title="TV | NBA PACK",NBA 09
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/236880.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NBA 10"  group-title="TV | NBA PACK",NBA 10
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/236881.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NBA 11"  group-title="TV | NBA PACK",NBA 11
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/236882.ts
+#EXTINF:-1 tvg-ID="" tvg-name="NBA 12"  group-title="TV | NBA PACK",NBA 12
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/236883.ts
+#EXTINF:-1 tvg-ID="" tvg-name="18:03 CT. | Phillies vs Astros (ESPAÑOL)"  group-title="TV | MLB PACK",18:03 CT. | Phillies vs Astros (ESPAÑOL)
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/237204.ts
+#EXTINF:-1 tvg-ID="" tvg-name="18:03 CT. | Phillies vs Astros (INGLES)"  group-title="TV | MLB PACK",18:03 CT. | Phillies vs Astros (INGLES)
+#EXTINF:-1 tvg-ID="" tvg-name="NFL | Network"  group-title="TV | NFL PACK",NFL | Network
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/197992.ts
+#EXTINF:-1 tvg-ID="" tvg-name="MLB Networks"  group-title="TV | MLB PACK",MLB Networks
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/198304.ts
+http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/237205.ts
 #EXTINF:-1 tvg-ID="" tvg-name="NFL | Red Zone"  group-title="TV | NFL PACK",NFL | Red Zone
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/165918.ts
 #EXTINF:-1 tvg-ID="" tvg-name="LAT | CINE TERROR"  group-title="TV | GOOGLE TV",LAT | CINE TERROR
@@ -942,108 +973,7 @@ http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/171814.ts
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/171815.ts
 #EXTINF:-1 tvg-ID="" tvg-name="LAT | TU CINE"  group-title="TV | GOOGLE TV",LAT | TU CINE
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/171816.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UY | VTV +"  group-title="TV | URUGUAY",UY | VTV +
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/172634.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UY | VTV"  group-title="TV | URUGUAY",UY | VTV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/172635.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UY | CANAL 10"  group-title="TV | URUGUAY",UY | CANAL 10
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/172636.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UY | CANAL 5"  group-title="TV | URUGUAY",UY | CANAL 5
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/172637.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UY | CANAL 4 MONTE CARLOS"  group-title="TV | URUGUAY",UY | CANAL 4 MONTE CARLOS
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/172638.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UY | CANAL 4"  group-title="TV | URUGUAY",UY | CANAL 4
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/172640.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UY | TV CIUDAD"  group-title="TV | URUGUAY",UY | TV CIUDAD
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/172657.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UY |  Directv Sports"  group-title="TV | URUGUAY",UY |  Directv Sports
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/172670.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UY | La Tele"  group-title="TV | URUGUAY",UY | La Tele
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/172674.ts
-#EXTINF:-1 tvg-ID="" tvg-name="MX | A+"  group-title="TV | MEXICO",MX | A+
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/173051.ts
-#EXTINF:-1 tvg-ID="" tvg-name="MX | ADN 40"  group-title="TV | MEXICO",MX | ADN 40
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/173050.ts
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Azteca 7"  group-title="TV | MEXICO",MX | Azteca 7
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/173049.ts
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Azteca Clic"  group-title="TV | MEXICO",MX | Azteca Clic
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/173048.ts
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Azteca Corazon"  group-title="TV | MEXICO",MX | Azteca Corazon
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/173047.ts
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Azteca Uno"  group-title="TV | MEXICO",MX | Azteca Uno
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/173045.ts
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Canal 10 Chetumal"  group-title="TV | MEXICO",MX | Canal 10 Chetumal
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/173044.ts
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Canal 5"  group-title="TV | MEXICO",MX | Canal 5
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/173043.ts
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Canal Once"  group-title="TV | MEXICO",MX | Canal Once
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/173042.ts
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Imagen TV"  group-title="TV | MEXICO",MX | Imagen TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/173040.ts
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Ingenio TV"  group-title="TV | MEXICO",MX | Ingenio TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/173039.ts
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Las Estrellas"  group-title="TV | MEXICO",MX | Las Estrellas
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/173038.ts
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Multimedios Guadalajara"  group-title="TV | MEXICO",MX | Multimedios Guadalajara
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/173037.ts
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Multimedios Laguna"  group-title="TV | MEXICO",MX | Multimedios Laguna
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/173036.ts
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Multimedios Monterrey"  group-title="TV | MEXICO",MX | Multimedios Monterrey
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/173035.ts
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Nu9ve TV"  group-title="TV | MEXICO",MX | Nu9ve TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/173033.ts
-#EXTINF:-1 tvg-ID="" tvg-name="MX | RTQ Queretaro"  group-title="TV | MEXICO",MX | RTQ Queretaro
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/173032.ts
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Telemax Hermosillo"  group-title="TV | MEXICO",MX | Telemax Hermosillo
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/173031.ts
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Televisa Monterrey"  group-title="TV | MEXICO",MX | Televisa Monterrey
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/173030.ts
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Azteca Mundo"  group-title="TV | MEXICO",MX | Azteca Mundo
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/173046.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UY | CANAL 12"  group-title="TV | URUGUAY",UY | CANAL 12
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/172641.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PER | AmericaTV"  group-title="TV | PERU",PER | AmericaTV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/173541.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PER | BHTV"  group-title="TV | PERU",PER | BHTV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/173544.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PER | Canal N"  group-title="TV | PERU",PER | Canal N
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/173545.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PER | Latina Opc1"  group-title="TV | PERU",PER | Latina Opc1
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/173548.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PER | Panamericana Opc1"  group-title="TV | PERU",PER | Panamericana Opc1
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/173549.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PER | Perú Mágico"  group-title="TV | PERU",PER | Perú Mágico
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/173550.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PER | TV Perú Noticias"  group-title="TV | PERU",PER | TV Perú Noticias
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/173553.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PER | IPE"  group-title="TV | PERU",PER | IPE
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/173558.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BOL | ATB"  group-title="TV | BOLIVIA",BOL | ATB
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/173564.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BOL | Bolivia TV Deportes"  group-title="TV | BOLIVIA",BOL | Bolivia TV Deportes
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/173565.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BOL | Unitel"  group-title="TV | BOLIVIA",BOL | Unitel
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/173566.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BOL | Bolivia TV"  group-title="TV | BOLIVIA",BOL | Bolivia TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/173567.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BOL | Red AD Venir Internacional"  group-title="TV | BOLIVIA",BOL | Red AD Venir Internacional
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/173568.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BOL | RTP"  group-title="TV | BOLIVIA",BOL | RTP
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/173569.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BOL | Bolivision"  group-title="TV | BOLIVIA",BOL | Bolivision
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/173570.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BOL | XTO TV"  group-title="TV | BOLIVIA",BOL | XTO TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/173571.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BOL | TVU"  group-title="TV | BOLIVIA",BOL | TVU
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/173573.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BOL | Pat Santa Cruz"  group-title="TV | BOLIVIA",BOL | Pat Santa Cruz
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/173575.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BOL | Cadena A"  group-title="TV | BOLIVIA",BOL | Cadena A
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/173576.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BOL | TV Latina Canal 42"  group-title="TV | BOLIVIA",BOL | TV Latina Canal 42
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/173578.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BOL | Red Uno"  group-title="TV | BOLIVIA",BOL | Red Uno
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/173583.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="USALAT | Unimas Miami"  group-title="TV | USA LATINOS",USALAT | Unimas Miami
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/173597.ts
 #EXTINF:-1 tvg-ID="" tvg-name="USALAT | Unimas Los Angeles"  group-title="TV | USA LATINOS",USALAT | Unimas Los Angeles
@@ -1346,8 +1276,7 @@ http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/175038.ts
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/175573.ts
 #EXTINF:-1 tvg-ID="" tvg-name="MX | Mexiquense TV"  group-title="TV | MEXICO",MX | Mexiquense TV
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/175661.ts
-#EXTINF:-1 tvg-ID="" tvg-name="MX: Oye 89.7 FM"  group-title="Sin Categoria",MX: Oye 89.7 FM
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/175664.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="DEP | ESPN (MX)"  group-title="TV | DEPORTES",DEP | ESPN (MX)
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/175682.ts
 #EXTINF:-1 tvg-ID="" tvg-name="DEP | ESPN 2 (MX)"  group-title="TV | DEPORTES",DEP | ESPN 2 (MX)
@@ -1716,80 +1645,7 @@ http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/176789.ts
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/176790.ts
 #EXTINF:-1 tvg-ID="" tvg-name="ARG | Cine AR"  group-title="TV | ARGENTINA",ARG | Cine AR
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/176791.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CL | Canal 13"  group-title="TV | CHILE",CL | Canal 13
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/176792.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CL | Canal 13C"  group-title="TV | CHILE",CL | Canal 13C
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/176793.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CL | Directv Sports"  group-title="TV | CHILE",CL | Directv Sports
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/176794.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CL | Chocolate FM"  group-title="TV | CHILE",CL | Chocolate FM
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/176795.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CL | UCV"  group-title="TV | CHILE",CL | UCV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/176796.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CL | TV+"  group-title="TV | CHILE",CL | TV+
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/176797.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CL | TVN"  group-title="TV | CHILE",CL | TVN
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/176798.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CL | La Red"  group-title="TV | CHILE",CL | La Red
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/176799.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CL | Chilevision"  group-title="TV | CHILE",CL | Chilevision
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/176800.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CL | Zona Latina"  group-title="TV | CHILE",CL | Zona Latina
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/176801.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CL | ETC TV"  group-title="TV | CHILE",CL | ETC TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/176802.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CL | Mega"  group-title="TV | CHILE",CL | Mega
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/176803.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CL | El Pinguino TV"  group-title="TV | CHILE",CL | El Pinguino TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/176804.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CL | 24 Horas"  group-title="TV | CHILE",CL | 24 Horas
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/176805.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CL | CNN Chile"  group-title="TV | CHILE",CL | CNN Chile
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/176806.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CL | Rec TV"  group-title="TV | CHILE",CL | Rec TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/176807.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CL | Energeek"  group-title="TV | CHILE",CL | Energeek
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/176808.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CL | Más+TV"  group-title="TV | CHILE",CL | Más+TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/176810.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CO | Cali TV"  group-title="TV | COLOMBIA",CO | Cali TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/177596.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CO | Canal UNO"  group-title="TV | COLOMBIA",CO | Canal UNO
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/177597.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CO | Canal Trece"  group-title="TV | COLOMBIA",CO | Canal Trece
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/177598.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CO | Caracol Noticias"  group-title="TV | COLOMBIA",CO | Caracol Noticias
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/177599.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CO | Caracol"  group-title="TV | COLOMBIA",CO | Caracol
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/177600.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CO | Caracol Internacional"  group-title="TV | COLOMBIA",CO | Caracol Internacional
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/177601.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CO | City TV"  group-title="TV | COLOMBIA",CO | City TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/177602.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CO | NTN24"  group-title="TV | COLOMBIA",CO | NTN24
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/177603.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CO | Mundo+"  group-title="TV | COLOMBIA",CO | Mundo+
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/177604.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CO | RCN Internacional"  group-title="TV | COLOMBIA",CO | RCN Internacional
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/177606.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CO | RCN Novelas"  group-title="TV | COLOMBIA",CO | RCN Novelas
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/177607.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CO | RCN Nuestra Tele"  group-title="TV | COLOMBIA",CO | RCN Nuestra Tele
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/177608.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CO | TV Peñol"  group-title="TV | COLOMBIA",CO | TV Peñol
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/177609.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CO | Teleantioquia"  group-title="TV | COLOMBIA",CO | Teleantioquia
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/177610.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CO | Telecafe"  group-title="TV | COLOMBIA",CO | Telecafe
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/177611.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CO | Telepacifico"  group-title="TV | COLOMBIA",CO | Telepacifico
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/177613.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CO | Tele Familia"  group-title="TV | COLOMBIA",CO | Tele Familia
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/177614.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CO | Señal Colombia"  group-title="TV | COLOMBIA",CO | Señal Colombia
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/177615.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CO | Canal Capital"  group-title="TV | COLOMBIA",CO | Canal Capital
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/177616.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="DEP | Bally Sports WINSCONSIN (USA)"  group-title="TV | DEPORTES USA/CANADA",DEP | Bally Sports WINSCONSIN (USA)
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/176612.ts
 #EXTINF:-1 tvg-ID="" tvg-name="DEP | Bally Sports WEST (USA)"  group-title="TV | DEPORTES USA/CANADA",DEP | Bally Sports WEST (USA)
@@ -1824,98 +1680,7 @@ http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/176598.ts
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/176597.ts
 #EXTINF:-1 tvg-ID="" tvg-name="DEP | Bally Sports DETROIT (USA)"  group-title="TV | DEPORTES USA/CANADA",DEP | Bally Sports DETROIT (USA)
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/176596.ts
-#EXTINF:-1 tvg-ID="" tvg-name="EC | RTU"  group-title="TV | ECUADOR",EC | RTU
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/178236.ts
-#EXTINF:-1 tvg-ID="" tvg-name="EC | Canela TV"  group-title="TV | ECUADOR",EC | Canela TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/178237.ts
-#EXTINF:-1 tvg-ID="" tvg-name="EC | Ecuavisa"  group-title="TV | ECUADOR",EC | Ecuavisa
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/178238.ts
-#EXTINF:-1 tvg-ID="" tvg-name="EC | Ecuavisa Internacional"  group-title="TV | ECUADOR",EC | Ecuavisa Internacional
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/178240.ts
-#EXTINF:-1 tvg-ID="" tvg-name="EC | RTS"  group-title="TV | ECUADOR",EC | RTS
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/178241.ts
-#EXTINF:-1 tvg-ID="" tvg-name="EC | TC Television"  group-title="TV | ECUADOR",EC | TC Television
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/178242.ts
-#EXTINF:-1 tvg-ID="" tvg-name="EC | Teleamazonas"  group-title="TV | ECUADOR",EC | Teleamazonas
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/178243.ts
-#EXTINF:-1 tvg-ID="" tvg-name="EC | TVC Televicentro"  group-title="TV | ECUADOR",EC | TVC Televicentro
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/178244.ts
-#EXTINF:-1 tvg-ID="" tvg-name="EC | Ecuador TV"  group-title="TV | ECUADOR",EC | Ecuador TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/178245.ts
-#EXTINF:-1 tvg-ID="" tvg-name="EC | Gamavision"  group-title="TV | ECUADOR",EC | Gamavision
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/178246.ts
-#EXTINF:-1 tvg-ID="" tvg-name="EC | Oromar"  group-title="TV | ECUADOR",EC | Oromar
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/178247.ts
-#EXTINF:-1 tvg-ID="" tvg-name="EC | Hechos"  group-title="TV | ECUADOR",EC | Hechos
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/178248.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PR | America Teve"  group-title="TV | PUERTO RICO",PR | America Teve
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/178255.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PR | Mega TV"  group-title="TV | PUERTO RICO",PR | Mega TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/178256.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PR | Wapa"  group-title="TV | PUERTO RICO",PR | Wapa
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/178257.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PR | CDM TV"  group-title="TV | PUERTO RICO",PR | CDM TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/178258.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UY | La Red"  group-title="TV | URUGUAY",UY | La Red
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/178415.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CR | Anexion TV"  group-title="TV | COSTA RICA",CR | Anexion TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/178417.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CR | Canal 8 Multimedios"  group-title="TV | COSTA RICA",CR | Canal 8 Multimedios
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/178418.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CR | Extrema TV"  group-title="TV | COSTA RICA",CR | Extrema TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/178419.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CR | Microvision"  group-title="TV | COSTA RICA",CR | Microvision
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/178420.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CR | Tico Sports"  group-title="TV | COSTA RICA",CR | Tico Sports
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/178421.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CR | TD+"  group-title="TV | COSTA RICA",CR | TD+
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/178422.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CR | Ticavision"  group-title="TV | COSTA RICA",CR | Ticavision
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/178423.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CR | TeleSUR"  group-title="TV | COSTA RICA",CR | TeleSUR
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/178424.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CR | Telesistema"  group-title="TV | COSTA RICA",CR | Telesistema
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/178425.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CR | Telered"  group-title="TV | COSTA RICA",CR | Telered
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/178426.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CR | TVSur Canal 14"  group-title="TV | COSTA RICA",CR | TVSur Canal 14
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/178427.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CR | Teletica Canal 7"  group-title="TV | COSTA RICA",CR | Teletica Canal 7
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/178428.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CR | Repretel Canal 11"  group-title="TV | COSTA RICA",CR | Repretel Canal 11
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/178429.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CR | Repretel Canal 4"  group-title="TV | COSTA RICA",CR | Repretel Canal 4
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/178430.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CR | Repretel Canal 6"  group-title="TV | COSTA RICA",CR | Repretel Canal 6
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/178431.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CR | FUTV"  group-title="TV | COSTA RICA",CR | FUTV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/178432.ts
-#EXTINF:-1 tvg-ID="" tvg-name="RD | Telesistema"  group-title="TV | REPUBLICA DOMINICANA",RD | Telesistema
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/180955.ts
-#EXTINF:-1 tvg-ID="" tvg-name="RD | Telemicro"  group-title="TV | REPUBLICA DOMINICANA",RD | Telemicro
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/180956.ts
-#EXTINF:-1 tvg-ID="" tvg-name="RD | CDN Deportes"  group-title="TV | REPUBLICA DOMINICANA",RD | CDN Deportes
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/180959.ts
-#EXTINF:-1 tvg-ID="" tvg-name="RD | Canal 25"  group-title="TV | REPUBLICA DOMINICANA",RD | Canal 25
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/180960.ts
-#EXTINF:-1 tvg-ID="" tvg-name="RD | Super TV 55"  group-title="TV | REPUBLICA DOMINICANA",RD | Super TV 55
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/180961.ts
-#EXTINF:-1 tvg-ID="" tvg-name="RD | Bonao TV"  group-title="TV | REPUBLICA DOMINICANA",RD | Bonao TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/180963.ts
-#EXTINF:-1 tvg-ID="" tvg-name="RD | Telecanal 28"  group-title="TV | REPUBLICA DOMINICANA",RD | Telecanal 28
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/180964.ts
-#EXTINF:-1 tvg-ID="" tvg-name="RD | Canal 25 Santiago"  group-title="TV | REPUBLICA DOMINICANA",RD | Canal 25 Santiago
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/180965.ts
-#EXTINF:-1 tvg-ID="" tvg-name="RD | Digital 15"  group-title="TV | REPUBLICA DOMINICANA",RD | Digital 15
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/180966.ts
-#EXTINF:-1 tvg-ID="" tvg-name="RD | Vallevision TV"  group-title="TV | REPUBLICA DOMINICANA",RD | Vallevision TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/180967.ts
-#EXTINF:-1 tvg-ID="" tvg-name="RD | Canal 12"  group-title="TV | REPUBLICA DOMINICANA",RD | Canal 12
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/180968.ts
-#EXTINF:-1 tvg-ID="" tvg-name="RD | Romana TV"  group-title="TV | REPUBLICA DOMINICANA",RD | Romana TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/180970.ts
-#EXTINF:-1 tvg-ID="" tvg-name="RD | Telenord 8"  group-title="TV | REPUBLICA DOMINICANA",RD | Telenord 8
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/180971.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="USA LOCAL | Cheddar News"  group-title="TV | USA LOCALES",USA LOCAL | Cheddar News
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/181632.ts
 #EXTINF:-1 tvg-ID="" tvg-name="USA PREM | DISCOVERY ID"  group-title="TV | USA PREMIUM",USA PREM | DISCOVERY ID
@@ -2058,34 +1823,7 @@ http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/183388.ts
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/183389.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Bloomberg TV"  group-title="TV | USA LOCALES",Bloomberg TV
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/183391.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SV | Canal 21"  group-title="TV | EL SALVADOR",SV | Canal 21
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/183863.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SV | Canal 4"  group-title="TV | EL SALVADOR",SV | Canal 4
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/183865.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SV | WOW TV"  group-title="TV | EL SALVADOR",SV | WOW TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/183866.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SV | Tigo Sport"  group-title="TV | EL SALVADOR",SV | Tigo Sport
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/183867.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SV | Canal 2"  group-title="TV | EL SALVADOR",SV | Canal 2
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/183868.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SV | Canal 12"  group-title="TV | EL SALVADOR",SV | Canal 12
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/183869.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SV | Canal 6"  group-title="TV | EL SALVADOR",SV | Canal 6
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/183870.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SV | Canal 19"  group-title="TV | EL SALVADOR",SV | Canal 19
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/183871.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SV | Canal 35 TCS+"  group-title="TV | EL SALVADOR",SV | Canal 35 TCS+
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/183872.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SV | TaberTV  17"  group-title="TV | EL SALVADOR",SV | TaberTV  17
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/183873.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SV | Canal 11 TuTV"  group-title="TV | EL SALVADOR",SV | Canal 11 TuTV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/183874.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SV | Canal 11"  group-title="TV | EL SALVADOR",SV | Canal 11
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/183875.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PR | Wapa Deportes"  group-title="TV | PUERTO RICO",PR | Wapa Deportes
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/183876.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PR | WIPR"  group-title="TV | PUERTO RICO",PR | WIPR
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/183877.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="USALAT | Galavision ALBUQUERQUE"  group-title="TV | USA LATINOS",USALAT | Galavision ALBUQUERQUE
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/183879.ts
 #EXTINF:-1 tvg-ID="" tvg-name="USALAT | Galavision ATLANTA"  group-title="TV | USA LATINOS",USALAT | Galavision ATLANTA
@@ -2106,124 +1844,11 @@ http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/183893.ts
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/183894.ts
 #EXTINF:-1 tvg-ID="" tvg-name="USALAT | Galavision"  group-title="TV | USA LATINOS",USALAT | Galavision
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/183895.ts
-#EXTINF:-1 tvg-ID="" tvg-name="MUSICA | Vallenato Internacional"  group-title="TV | MUSICA",MUSICA | Vallenato Internacional
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/183897.ts
-#EXTINF:-1 tvg-ID="" tvg-name="MX | 15 TV Sabinas Coahuila"  group-title="TV | MEXICO",MX | 15 TV Sabinas Coahuila
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/183900.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PA | +23"  group-title="TV | PANAMA",PA | +23
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/183922.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PA | Telemetro 13"  group-title="TV | PANAMA",PA | Telemetro 13
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/183923.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PA | TVN"  group-title="TV | PANAMA",PA | TVN
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/183924.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PA | Hossana"  group-title="TV | PANAMA",PA | Hossana
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/183925.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PA | Ser TV"  group-title="TV | PANAMA",PA | Ser TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/183926.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PA | Nex TV"  group-title="TV | PANAMA",PA | Nex TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/183927.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PA | TV Max 9"  group-title="TV | PANAMA",PA | TV Max 9
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/183929.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PA | COS FC"  group-title="TV | PANAMA",PA | COS FC
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/183930.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PA | Cableonda Sports"  group-title="TV | PANAMA",PA | Cableonda Sports
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/183931.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PA | RPC 4"  group-title="TV | PANAMA",PA | RPC 4
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/183932.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TV | Lobo TV"  group-title="TV | MEXICO",TV | Lobo TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/184668.ts
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Las Estrellas -2hrs"  group-title="TV | MEXICO",MX | Las Estrellas -2hrs
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/185081.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PY | Paraguay TV"  group-title="TV | PARAGUAY",PY | Paraguay TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/185440.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PY | Telefuturo"  group-title="TV | PARAGUAY",PY | Telefuturo
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/185442.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PY | Tigo Sports"  group-title="TV | PARAGUAY",PY | Tigo Sports
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/185443.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PY | Paravision"  group-title="TV | PARAGUAY",PY | Paravision
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/185444.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PY | Mi TV"  group-title="TV | PARAGUAY",PY | Mi TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/185445.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PY | ABC TV"  group-title="TV | PARAGUAY",PY | ABC TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/185446.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PY | Unicanal"  group-title="TV | PARAGUAY",PY | Unicanal
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/185449.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PY | Ñandutí TV"  group-title="TV | PARAGUAY",PY | Ñandutí TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/185450.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PY | RCC"  group-title="TV | PARAGUAY",PY | RCC
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/185452.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PY | Suceso TV"  group-title="TV | PARAGUAY",PY | Suceso TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/185453.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PY | RTV Canal 12"  group-title="TV | PARAGUAY",PY | RTV Canal 12
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/185456.ts
-#EXTINF:-1 tvg-ID="" tvg-name="UY | A+V"  group-title="TV | URUGUAY",UY | A+V
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/185457.ts
-#EXTINF:-1 tvg-ID="" tvg-name="HN | HCH"  group-title="TV | HONDURAS",HN | HCH
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/185980.ts
-#EXTINF:-1 tvg-ID="" tvg-name="HN | Canal 11"  group-title="TV | HONDURAS",HN | Canal 11
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/185981.ts
-#EXTINF:-1 tvg-ID="" tvg-name="HN | Telecadena 7 Y 4"  group-title="TV | HONDURAS",HN | Telecadena 7 Y 4
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/185982.ts
-#EXTINF:-1 tvg-ID="" tvg-name="HN | TSI"  group-title="TV | HONDURAS",HN | TSI
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/185983.ts
-#EXTINF:-1 tvg-ID="" tvg-name="HN | Canal 6"  group-title="TV | HONDURAS",HN | Canal 6
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/185984.ts
-#EXTINF:-1 tvg-ID="" tvg-name="HN | Canal 5"  group-title="TV | HONDURAS",HN | Canal 5
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/185985.ts
-#EXTINF:-1 tvg-ID="" tvg-name="HN | Teleceiba 7"  group-title="TV | HONDURAS",HN | Teleceiba 7
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/185986.ts
-#EXTINF:-1 tvg-ID="" tvg-name="HN | Une TV"  group-title="TV | HONDURAS",HN | Une TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/185987.ts
-#EXTINF:-1 tvg-ID="" tvg-name="HN | Vica TV"  group-title="TV | HONDURAS",HN | Vica TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/185988.ts
-#EXTINF:-1 tvg-ID="" tvg-name="HN | Ebenezer TV"  group-title="TV | HONDURAS",HN | Ebenezer TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/185989.ts
-#EXTINF:-1 tvg-ID="" tvg-name="HN | Ten Canal 10"  group-title="TV | HONDURAS",HN | Ten Canal 10
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/185990.ts
-#EXTINF:-1 tvg-ID="" tvg-name="HN | Q Hubo TV"  group-title="TV | HONDURAS",HN | Q Hubo TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/185991.ts
-#EXTINF:-1 tvg-ID="" tvg-name="HN | Campus TV"  group-title="TV | HONDURAS",HN | Campus TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/185992.ts
-#EXTINF:-1 tvg-ID="" tvg-name="HN | TeleProgreso"  group-title="TV | HONDURAS",HN | TeleProgreso
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/185993.ts
-#EXTINF:-1 tvg-ID="" tvg-name="HN | Sercano TV"  group-title="TV | HONDURAS",HN | Sercano TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/185994.ts
-#EXTINF:-1 tvg-ID="" tvg-name="HN | LTV"  group-title="TV | HONDURAS",HN | LTV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/185995.ts
-#EXTINF:-1 tvg-ID="" tvg-name="HN | JBN"  group-title="TV | HONDURAS",HN | JBN
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/185996.ts
-#EXTINF:-1 tvg-ID="" tvg-name="HN | EDN TV"  group-title="TV | HONDURAS",HN | EDN TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/185997.ts
-#EXTINF:-1 tvg-ID="" tvg-name="HN | Cholusat Sur 36"  group-title="TV | HONDURAS",HN | Cholusat Sur 36
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/185998.ts
-#EXTINF:-1 tvg-ID="" tvg-name="HN | Aviva TV"  group-title="TV | HONDURAS",HN | Aviva TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/185999.ts
-#EXTINF:-1 tvg-ID="" tvg-name="HN | Azteca"  group-title="TV | HONDURAS",HN | Azteca
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/186000.ts
-#EXTINF:-1 tvg-ID="" tvg-name="HN | Tigo Sports"  group-title="TV | HONDURAS",HN | Tigo Sports
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/186002.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GT | Canal 11"  group-title="TV | GUATEMALA",GT | Canal 11
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/186074.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GT | Canal 13"  group-title="TV | GUATEMALA",GT | Canal 13
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/186075.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GT | Canal del Congreso"  group-title="TV | GUATEMALA",GT | Canal del Congreso
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/186077.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GT | Canal Antigua"  group-title="TV | GUATEMALA",GT | Canal Antigua
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/186078.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GT | TN23"  group-title="TV | GUATEMALA",GT | TN23
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/186079.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GT | Azteca Guate"  group-title="TV | GUATEMALA",GT | Azteca Guate
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/186080.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GT | Guatevision"  group-title="TV | GUATEMALA",GT | Guatevision
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/186084.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GT | Canal 7"  group-title="TV | GUATEMALA",GT | Canal 7
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/186085.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GT | Canal Antigua"  group-title="TV | GUATEMALA",GT | Canal Antigua
+
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/186086.ts
 #EXTINF:-1 tvg-ID="" tvg-name="DEP | Claro Sports"  group-title="TV | DEPORTES",DEP | Claro Sports
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/186111.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GT | Tigo Sports"  group-title="TV | GUATEMALA",GT | Tigo Sports
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/186112.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="NOTI | TeleSur (VEN)"  group-title="TV | NOTICIAS",NOTI | TeleSur (VEN)
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/186461.ts
 #EXTINF:-1 tvg-ID="" tvg-name="NOTI | Al Jazeera (ING)"  group-title="TV | NOTICIAS",NOTI | Al Jazeera (ING)
@@ -2266,112 +1891,18 @@ http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/186871.ts
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/187738.ts
 #EXTINF:-1 tvg-ID="" tvg-name="NOTI | DW (LAT)"  group-title="TV | NOTICIAS",NOTI | DW (LAT)
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/187739.ts
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Televisa Puebla"  group-title="TV | MEXICO",MX | Televisa Puebla
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/188063.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="MUSICA | Stingray Music Hot Country"  group-title="TV | MUSICA",MUSICA | Stingray Music Hot Country
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/188066.ts
 #EXTINF:-1 tvg-ID="" tvg-name="MUSICA | Stingray Music Djazz"  group-title="TV | MUSICA",MUSICA | Stingray Music Djazz
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/188128.ts
-#EXTINF:-1 tvg-ID="" tvg-name="MX | RCG TV 3"  group-title="TV | MEXICO",MX | RCG TV 3
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/188701.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="NOTI | La Nacion + (ARG)"  group-title="TV | NOTICIAS",NOTI | La Nacion + (ARG)
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/188704.ts
 #EXTINF:-1 tvg-ID="" tvg-name="NOTI | Euronews en Español"  group-title="TV | NOTICIAS",NOTI | Euronews en Español
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/188705.ts
-#EXTINF:-1 tvg-ID="" tvg-name="REL | Aliento Vision (ESPAÑOL)"  group-title="TV | RELIGION",REL | Aliento Vision (ESPAÑOL)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/188707.ts
-#EXTINF:-1 tvg-ID="" tvg-name="REL | 3ABN Latino"  group-title="TV | RELIGION",REL | 3ABN Latino
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/188708.ts
-#EXTINF:-1 tvg-ID="" tvg-name="REL | Avivamiento TV (ESPAÑOL)"  group-title="TV | RELIGION",REL | Avivamiento TV (ESPAÑOL)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/188709.ts
-#EXTINF:-1 tvg-ID="" tvg-name="REL | Bethel TV (ESPAÑOL)"  group-title="TV | RELIGION",REL | Bethel TV (ESPAÑOL)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/188710.ts
-#EXTINF:-1 tvg-ID="" tvg-name="REL | Canal ISB (ESPAÑOL)"  group-title="TV | RELIGION",REL | Canal ISB (ESPAÑOL)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/188711.ts
-#EXTINF:-1 tvg-ID="" tvg-name="REL | CBN (ESPAÑOL)"  group-title="TV | RELIGION",REL | CBN (ESPAÑOL)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/188712.ts
-#EXTINF:-1 tvg-ID="" tvg-name="REL | Choluteca TV (ESPAÑOL)"  group-title="TV | RELIGION",REL | Choluteca TV (ESPAÑOL)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/188713.ts
-#EXTINF:-1 tvg-ID="" tvg-name="REL | Dios Te Ve (ESPAÑOL)"  group-title="TV | RELIGION",REL | Dios Te Ve (ESPAÑOL)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/188714.ts
-#EXTINF:-1 tvg-ID="" tvg-name="REL | Dios Te Ve Infantil (ESPAÑOL)"  group-title="TV | RELIGION",REL | Dios Te Ve Infantil (ESPAÑOL)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/188715.ts
-#EXTINF:-1 tvg-ID="" tvg-name="REL | Enlace Juvenil (ESPAÑOL)"  group-title="TV | RELIGION",REL | Enlace Juvenil (ESPAÑOL)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/188717.ts
-#EXTINF:-1 tvg-ID="" tvg-name="REL | EnlaceTV (ESPAÑOL)"  group-title="TV | RELIGION",REL | EnlaceTV (ESPAÑOL)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/188718.ts
-#EXTINF:-1 tvg-ID="" tvg-name="REL | Esperanza TV (ESPAÑOL)"  group-title="TV | RELIGION",REL | Esperanza TV (ESPAÑOL)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/188720.ts
-#EXTINF:-1 tvg-ID="" tvg-name="REL | EWTN el Canal Católico (ESPAÑOL)"  group-title="TV | RELIGION",REL | EWTN el Canal Católico (ESPAÑOL)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/188721.ts
-#EXTINF:-1 tvg-ID="" tvg-name="REL | Hosanna Vision (ESPAÑOL)"  group-title="TV | RELIGION",REL | Hosanna Vision (ESPAÑOL)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/188722.ts
-#EXTINF:-1 tvg-ID="" tvg-name="REL | JBN (ESPAÑOL)"  group-title="TV | RELIGION",REL | JBN (ESPAÑOL)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/188723.ts
-#EXTINF:-1 tvg-ID="" tvg-name="REL | JN19 (ESPAÑOL)"  group-title="TV | RELIGION",REL | JN19 (ESPAÑOL)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/188724.ts
-#EXTINF:-1 tvg-ID="" tvg-name="REL | Majestad Televisión (ESPAÑOL)"  group-title="TV | RELIGION",REL | Majestad Televisión (ESPAÑOL)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/188725.ts
-#EXTINF:-1 tvg-ID="" tvg-name="REL | María Visión Mexico (ESPAÑOL)"  group-title="TV | RELIGION",REL | María Visión Mexico (ESPAÑOL)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/188726.ts
-#EXTINF:-1 tvg-ID="" tvg-name="REL | Pax TV (ESPAÑOL)"  group-title="TV | RELIGION",REL | Pax TV (ESPAÑOL)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/188727.ts
-#EXTINF:-1 tvg-ID="" tvg-name="REL | Radio Uniem (ESPAÑOL)"  group-title="TV | RELIGION",REL | Radio Uniem (ESPAÑOL)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/188728.ts
-#EXTINF:-1 tvg-ID="" tvg-name="REL | Nuevo Tiempo (ESPAÑOL)"  group-title="TV | RELIGION",REL | Nuevo Tiempo (ESPAÑOL)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/188729.ts
-#EXTINF:-1 tvg-ID="" tvg-name="REL | Vida TV (ESPAÑOL)"  group-title="TV | RELIGION",REL | Vida TV (ESPAÑOL)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/188730.ts
-#EXTINF:-1 tvg-ID="" tvg-name="REL | Voz de Poder (ESPAÑOL)"  group-title="TV | RELIGION",REL | Voz de Poder (ESPAÑOL)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/188731.ts
-#EXTINF:-1 tvg-ID="" tvg-name="REL | TV Maná Córdoba (ESPAÑOL)"  group-title="TV | RELIGION",REL | TV Maná Córdoba (ESPAÑOL)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/188732.ts
-#EXTINF:-1 tvg-ID="" tvg-name="REL | TVGracia (ESPAÑOL)"  group-title="TV | RELIGION",REL | TVGracia (ESPAÑOL)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/188733.ts
-#EXTINF:-1 tvg-ID="" tvg-name="REL | Unidad Evangelica TV (ESPAÑOL)"  group-title="TV | RELIGION",REL | Unidad Evangelica TV (ESPAÑOL)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/188734.ts
-#EXTINF:-1 tvg-ID="" tvg-name="REL | Shalom TV (ESPAÑOL)"  group-title="TV | RELIGION",REL | Shalom TV (ESPAÑOL)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/188735.ts
-#EXTINF:-1 tvg-ID="" tvg-name="REL | Tarotéame (ESPAÑOL)"  group-title="TV | RELIGION",REL | Tarotéame (ESPAÑOL)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/188737.ts
-#EXTINF:-1 tvg-ID="" tvg-name="REL | 3ABN (INGLES)"  group-title="TV | RELIGION",REL | 3ABN (INGLES)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/188738.ts
-#EXTINF:-1 tvg-ID="" tvg-name="REL | 3ABN Dare to Dream (INGLES)"  group-title="TV | RELIGION",REL | 3ABN Dare to Dream (INGLES)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/188739.ts
-#EXTINF:-1 tvg-ID="" tvg-name="REL | 3ABN International (INGLES)"  group-title="TV | RELIGION",REL | 3ABN International (INGLES)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/188740.ts
-#EXTINF:-1 tvg-ID="" tvg-name="REL | 3ABN Praise Him Music Channel (INGLES)"  group-title="TV | RELIGION",REL | 3ABN Praise Him Music Channel (INGLES)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/188742.ts
-#EXTINF:-1 tvg-ID="" tvg-name="REL | 3ABN Proclaim! (INGLES)"  group-title="TV | RELIGION",REL | 3ABN Proclaim! (INGLES)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/188743.ts
-#EXTINF:-1 tvg-ID="" tvg-name="REL | 3ABN (RUSO)"  group-title="TV | RELIGION",REL | 3ABN (RUSO)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/188744.ts
-#EXTINF:-1 tvg-ID="" tvg-name="REL | Ahlulbayt TV (INGLES)"  group-title="TV | RELIGION",REL | Ahlulbayt TV (INGLES)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/188745.ts
-#EXTINF:-1 tvg-ID="" tvg-name="REL | EWTN Asia-Pacific (INGLES)"  group-title="TV | RELIGION",REL | EWTN Asia-Pacific (INGLES)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/188747.ts
-#EXTINF:-1 tvg-ID="" tvg-name="REL | EWTN Canada (INGLES)"  group-title="TV | RELIGION",REL | EWTN Canada (INGLES)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/188748.ts
-#EXTINF:-1 tvg-ID="" tvg-name="REL | EWTN Europe (INGLES)"  group-title="TV | RELIGION",REL | EWTN Europe (INGLES)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/188749.ts
-#EXTINF:-1 tvg-ID="" tvg-name="REL | God TV UK (INGLES)"  group-title="TV | RELIGION",REL | God TV UK (INGLES)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/188750.ts
-#EXTINF:-1 tvg-ID="" tvg-name="REL | God TV US (INGLES)"  group-title="TV | RELIGION",REL | God TV US (INGLES)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/188751.ts
-#EXTINF:-1 tvg-ID="" tvg-name="REL | CBN Family (INGLES)"  group-title="TV | RELIGION",REL | CBN Family (INGLES)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/188752.ts
-#EXTINF:-1 tvg-ID="" tvg-name="REL | 3ABN (FRANCES)"  group-title="TV | RELIGION",REL | 3ABN (FRANCES)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/188753.ts
-#EXTINF:-1 tvg-ID="" tvg-name="REL | A2i Religion (FRANCES)"  group-title="TV | RELIGION",REL | A2i Religion (FRANCES)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/188755.ts
-#EXTINF:-1 tvg-ID="" tvg-name="REL | Impact TV (FRANCES)"  group-title="TV | RELIGION",REL | Impact TV (FRANCES)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/188756.ts
-#EXTINF:-1 tvg-ID="" tvg-name="REL | Iglesia Del Camino (ESPAÑOL)"  group-title="TV | RELIGION",REL | Iglesia Del Camino (ESPAÑOL)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/188757.ts
-#EXTINF:-1 tvg-ID="" tvg-name="EC | Paraíso Digital"  group-title="TV | ECUADOR",EC | Paraíso Digital
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/189033.ts
-#EXTINF:-1 tvg-ID="" tvg-name="EC | Radio Impacto 2"  group-title="TV | ECUADOR",EC | Radio Impacto 2
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/189138.ts
+
+
 #EXTINF:-1 tvg-ID="" tvg-name="RETRO | Teleclásicos"  group-title="TV | RETRO TV ",RETRO | Teleclásicos
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/189770.ts
 #EXTINF:-1 tvg-ID="" tvg-name="RETRO | Tele Diez TV"  group-title="TV | RETRO TV ",RETRO | Tele Diez TV
@@ -2698,14 +2229,7 @@ http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/190917.ts
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/190918.ts
 #EXTINF:-1 tvg-ID="" tvg-name="ES | Cristiana TV"  group-title="TV | ESPAÑA",ES | Cristiana TV
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/190919.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PR | Punto 2"  group-title="TV | PUERTO RICO",PR | Punto 2
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/190920.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PR | Teleonce"  group-title="TV | PUERTO RICO",PR | Teleonce
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/190921.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PR | Teleisla"  group-title="TV | PUERTO RICO",PR | Teleisla
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/190922.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PER | ATV"  group-title="TV | PERU",PER | ATV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/190923.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="ARG | Crossing TV *"  group-title="TV | ARGENTINA",ARG | Crossing TV *
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191017.ts
 #EXTINF:-1 tvg-ID="" tvg-name="ARG | 5R TV Santa Fe"  group-title="TV | ARGENTINA",ARG | 5R TV Santa Fe
@@ -2788,660 +2312,12 @@ http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191098.ts
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191101.ts
 #EXTINF:-1 tvg-ID="" tvg-name="ARG | Sublime Gracia TV"  group-title="TV | ARGENTINA",ARG | Sublime Gracia TV
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191102.ts
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Conecta TV"  group-title="TV | MEXICO",MX | Conecta TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191103.ts
-#EXTINF:-1 tvg-ID="" tvg-name="MX | 8 NTV"  group-title="TV | MEXICO",MX | 8 NTV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191106.ts
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Canal 12.1 Colima"  group-title="TV | MEXICO",MX | Canal 12.1 Colima
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191109.ts
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Canal 15 Fresnillo"  group-title="TV | MEXICO",MX | Canal 15 Fresnillo
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191110.ts
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Canal 28 Nuevo Leon"  group-title="TV | MEXICO",MX | Canal 28 Nuevo Leon
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191111.ts
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Canal 7 SLP"  group-title="TV | MEXICO",MX | Canal 7 SLP
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191112.ts
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Central FM"  group-title="TV | MEXICO",MX | Central FM
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191113.ts
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Multimedios CDMX"  group-title="TV | MEXICO",MX | Multimedios CDMX
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191114.ts
-#EXTINF:-1 tvg-ID="" tvg-name="MX | RCG 2 Saltillo"  group-title="TV | MEXICO",MX | RCG 2 Saltillo
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191115.ts
-#EXTINF:-1 tvg-ID="" tvg-name="MX | SIZART Canal 24 Zacatecas"  group-title="TV | MEXICO",MX | SIZART Canal 24 Zacatecas
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191117.ts
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Teleplay"  group-title="TV | MEXICO",MX | Teleplay
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191119.ts
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Tlaxcala TV"  group-title="TV | MEXICO",MX | Tlaxcala TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191121.ts
-#EXTINF:-1 tvg-ID="" tvg-name="MX | TRC TV Campeche"  group-title="TV | MEXICO",MX | TRC TV Campeche
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191122.ts
-#EXTINF:-1 tvg-ID="" tvg-name="MX | UMTV"  group-title="TV | MEXICO",MX | UMTV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191123.ts
-#EXTINF:-1 tvg-ID="" tvg-name="MX | AMX Noticias"  group-title="TV | MEXICO",MX | AMX Noticias
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191124.ts
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Alcance TV"  group-title="TV | MEXICO",MX | Alcance TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191125.ts
-#EXTINF:-1 tvg-ID="" tvg-name="MX | RCG 1 Saltillo"  group-title="TV | MEXICO",MX | RCG 1 Saltillo
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191126.ts
 #EXTINF:-1 tvg-ID="" tvg-name="MUSICA | Mundo de la Musica TV "  group-title="TV | MUSICA",MUSICA | Mundo de la Musica TV 
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191131.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PER | Turbo Mix TV"  group-title="TV | PERU",PER | Turbo Mix TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191133.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PER | Autentica TV"  group-title="TV | PERU",PER | Autentica TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191135.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PER | Canal 8 Catacaos"  group-title="TV | PERU",PER | Canal 8 Catacaos
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191138.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PER | Cultura 24 TV"  group-title="TV | PERU",PER | Cultura 24 TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191140.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PER | Genios TV"  group-title="TV | PERU",PER | Genios TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191141.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PER | Willax Opc1"  group-title="TV | PERU",PER | Willax Opc1
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191145.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PER | Panamericana Opc2"  group-title="TV | PERU",PER | Panamericana Opc2
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191147.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PER | TVPE"  group-title="TV | PERU",PER | TVPE
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191150.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CO | Canal CNC Medellin"  group-title="TV | COLOMBIA",CO | Canal CNC Medellin
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191152.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CO | Canal Doce Sincelejo"  group-title="TV | COLOMBIA",CO | Canal Doce Sincelejo
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191154.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CO | Canal Institucional"  group-title="TV | COLOMBIA",CO | Canal Institucional
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191155.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CO | Canal Visión Dorada"  group-title="TV | COLOMBIA",CO | Canal Visión Dorada
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191156.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CO | CTV"  group-title="TV | COLOMBIA",CO | CTV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191157.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CO | TV Agro"  group-title="TV | COLOMBIA",CO | TV Agro
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191159.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CO | UAO Play"  group-title="TV | COLOMBIA",CO | UAO Play
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191160.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CO | Tele Pasto"  group-title="TV | COLOMBIA",CO | Tele Pasto
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191161.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CO | Noticiero 90 Minutos"  group-title="TV | COLOMBIA",CO | Noticiero 90 Minutos
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191163.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Rewind Radio y TV"  group-title="TV | CHILE",CH | Rewind Radio y TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191164.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Latinos Radio"  group-title="TV | CHILE",CH | Latinos Radio
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191165.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | EnerGeek"  group-title="TV | CHILE",CH | EnerGeek
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191168.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Energeek Radio"  group-title="TV | CHILE",CH | Energeek Radio
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191169.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Control.VG"  group-title="TV | CHILE",CH | Control.VG
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191170.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | RCKTV"  group-title="TV | CHILE",CH | RCKTV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191171.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Solobailalo TV"  group-title="TV | CHILE",CH | Solobailalo TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191172.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Goodstock Radio"  group-title="TV | CHILE",CH | Goodstock Radio
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191173.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Radio Popular Coihueco"  group-title="TV | CHILE",CH | Radio Popular Coihueco
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191174.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Autonoma TV"  group-title="TV | CHILE",CH | Autonoma TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191175.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | SurTV"  group-title="TV | CHILE",CH | SurTV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191176.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Canal Turismo Travel TV"  group-title="TV | CHILE",CH | Canal Turismo Travel TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191177.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | CRTV"  group-title="TV | CHILE",CH | CRTV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191178.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Eva Retro"  group-title="TV | CHILE",CH | Eva Retro
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191179.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Vision Plus TV"  group-title="TV | CHILE",CH | Vision Plus TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191180.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Cultura Online"  group-title="TV | CHILE",CH | Cultura Online
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191181.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | HiperTV"  group-title="TV | CHILE",CH | HiperTV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191182.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Aysen TV"  group-title="TV | CHILE",CH | Aysen TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191183.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Onda Radio TV"  group-title="TV | CHILE",CH | Onda Radio TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191184.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Ritmo TV"  group-title="TV | CHILE",CH | Ritmo TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191185.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | CSTV"  group-title="TV | CHILE",CH | CSTV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191186.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Chavo TV"  group-title="TV | CHILE",CH | Chavo TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191187.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Ruidos TV"  group-title="TV | CHILE",CH | Ruidos TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191188.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Solo Stand Up"  group-title="TV | CHILE",CH | Solo Stand Up
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191189.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | PlanetaTV Music"  group-title="TV | CHILE",CH | PlanetaTV Music
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191190.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | PlanetaTV Movies"  group-title="TV | CHILE",CH | PlanetaTV Movies
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191191.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | PlanetaTV 90s"  group-title="TV | CHILE",CH | PlanetaTV 90s
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191192.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | PlanetaTV Hits"  group-title="TV | CHILE",CH | PlanetaTV Hits
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191193.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | PlanetaTV Karaokes"  group-title="TV | CHILE",CH | PlanetaTV Karaokes
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191194.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Caracola TV"  group-title="TV | CHILE",CH | Caracola TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191195.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Primicia TV"  group-title="TV | CHILE",CH | Primicia TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191196.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Retro Play TV"  group-title="TV | CHILE",CH | Retro Play TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191197.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | EvaStream"  group-title="TV | CHILE",CH | EvaStream
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191198.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Viwix TV"  group-title="TV | CHILE",CH | Viwix TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191199.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Kids90"  group-title="TV | CHILE",CH | Kids90
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191200.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Cloud Server Kids"  group-title="TV | CHILE",CH | Cloud Server Kids
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191201.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Exprezion TV"  group-title="TV | CHILE",CH | Exprezion TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191202.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Wapp"  group-title="TV | CHILE",CH | Wapp
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191203.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Canal 13"  group-title="TV | CHILE",CH | Canal 13
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191204.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | 13 Entretencion"  group-title="TV | CHILE",CH | 13 Entretencion
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191205.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | 13 Prime"  group-title="TV | CHILE",CH | 13 Prime
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191206.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | 13 Teleseries"  group-title="TV | CHILE",CH | 13 Teleseries
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191207.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | U Chile TV"  group-title="TV | CHILE",CH | U Chile TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191208.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | UCV"  group-title="TV | CHILE",CH | UCV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191209.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Campus TV"  group-title="TV | CHILE",CH | Campus TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191210.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | TVU"  group-title="TV | CHILE",CH | TVU
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191211.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Universidad Autonoma TV"  group-title="TV | CHILE",CH | Universidad Autonoma TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191212.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | TV UCT"  group-title="TV | CHILE",CH | TV UCT
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191213.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | U Los Lagos"  group-title="TV | CHILE",CH | U Los Lagos
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191214.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | UMAG TV"  group-title="TV | CHILE",CH | UMAG TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191215.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | UMAG TV 2"  group-title="TV | CHILE",CH | UMAG TV 2
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191216.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | UesTV"  group-title="TV | CHILE",CH | UesTV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191217.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Camara de Diputados"  group-title="TV | CHILE",CH | Camara de Diputados
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191218.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | TV Senado"  group-title="TV | CHILE",CH | TV Senado
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191219.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | T13"  group-title="TV | CHILE",CH | T13
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191220.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Ziza TV"  group-title="TV | CHILE",CH | Ziza TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191221.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | RLOTV"  group-title="TV | CHILE",CH | RLOTV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191222.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Raices Arabes TV"  group-title="TV | CHILE",CH | Raices Arabes TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191223.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Sello de Raza TV"  group-title="TV | CHILE",CH | Sello de Raza TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191224.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | TV Pop"  group-title="TV | CHILE",CH | TV Pop
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191225.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | tevex"  group-title="TV | CHILE",CH | tevex
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191226.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | TV Salud"  group-title="TV | CHILE",CH | TV Salud
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191227.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Chile Channel"  group-title="TV | CHILE",CH | Chile Channel
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191228.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Campo Abierto TV"  group-title="TV | CHILE",CH | Campo Abierto TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191229.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Detras de la Razon"  group-title="TV | CHILE",CH | Detras de la Razon
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191230.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Arica TV"  group-title="TV | CHILE",CH | Arica TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191231.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Puerta Norte"  group-title="TV | CHILE",CH | Puerta Norte
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191232.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Iquique TV"  group-title="TV | CHILE",CH | Iquique TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191233.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Antofagasta TV"  group-title="TV | CHILE",CH | Antofagasta TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191234.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | AM Canal"  group-title="TV | CHILE",CH | AM Canal
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191235.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | TVO Tocopilla"  group-title="TV | CHILE",CH | TVO Tocopilla
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191236.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Holvoet TV"  group-title="TV | CHILE",CH | Holvoet TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191237.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Atacama Noticias TV"  group-title="TV | CHILE",CH | Atacama Noticias TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191238.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Atacama TV"  group-title="TV | CHILE",CH | Atacama TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191239.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Huasco TV"  group-title="TV | CHILE",CH | Huasco TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191240.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Alternativa TV"  group-title="TV | CHILE",CH | Alternativa TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191241.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Canal Costa TV"  group-title="TV | CHILE",CH | Canal Costa TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191242.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | La Popular TV"  group-title="TV | CHILE",CH | La Popular TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191243.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Canal 1440 Coquimbo"  group-title="TV | CHILE",CH | Canal 1440 Coquimbo
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191244.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | ThemaTV"  group-title="TV | CHILE",CH | ThemaTV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191245.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | América TV Chile"  group-title="TV | CHILE",CH | América TV Chile
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191246.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | VTV"  group-title="TV | CHILE",CH | VTV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191247.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Canal 74 TeVe"  group-title="TV | CHILE",CH | Canal 74 TeVe
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191248.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | TV Costa"  group-title="TV | CHILE",CH | TV Costa
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191249.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Quinta TV"  group-title="TV | CHILE",CH | Quinta TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191250.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | TV Quinta Region"  group-title="TV | CHILE",CH | TV Quinta Region
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191251.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Canal de la Costa"  group-title="TV | CHILE",CH | Canal de la Costa
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191252.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Girovisual TV"  group-title="TV | CHILE",CH | Girovisual TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191253.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Canal 2 de San Antonio"  group-title="TV | CHILE",CH | Canal 2 de San Antonio
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191254.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Plaza TV"  group-title="TV | CHILE",CH | Plaza TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191255.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | TVR"  group-title="TV | CHILE",CH | TVR
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191256.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Tendencias Prime"  group-title="TV | CHILE",CH | Tendencias Prime
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191257.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | 38TV"  group-title="TV | CHILE",CH | 38TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191258.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Buin Somos Todos"  group-title="TV | CHILE",CH | Buin Somos Todos
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191259.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Canal 57 Melipilla"  group-title="TV | CHILE",CH | Canal 57 Melipilla
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191260.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Telecanal Santa Cruz"  group-title="TV | CHILE",CH | Telecanal Santa Cruz
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191261.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | TVO San Vicente"  group-title="TV | CHILE",CH | TVO San Vicente
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191262.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Sextavision"  group-title="TV | CHILE",CH | Sextavision
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191263.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | TVR Canal 11"  group-title="TV | CHILE",CH | TVR Canal 11
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191264.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Vivo TV"  group-title="TV | CHILE",CH | Vivo TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191265.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Telecanal Talca"  group-title="TV | CHILE",CH | Telecanal Talca
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191266.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | TV 5 Linares"  group-title="TV | CHILE",CH | TV 5 Linares
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191267.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Contivision"  group-title="TV | CHILE",CH | Contivision
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191268.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Nativa TV"  group-title="TV | CHILE",CH | Nativa TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191269.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Tele2 Web"  group-title="TV | CHILE",CH | Tele2 Web
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191270.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Canal 21 Chillán"  group-title="TV | CHILE",CH | Canal 21 Chillán
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191271.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Región Televisión Ñuble"  group-title="TV | CHILE",CH | Región Televisión Ñuble
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191272.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Ñublevision"  group-title="TV | CHILE",CH | Ñublevision
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191273.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | ClickTv"  group-title="TV | CHILE",CH | ClickTv
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191274.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | ClickTv Internacional"  group-title="TV | CHILE",CH | ClickTv Internacional
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191275.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Energia TV"  group-title="TV | CHILE",CH | Energia TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191276.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | TV8"  group-title="TV | CHILE",CH | TV8
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191277.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Club TV"  group-title="TV | CHILE",CH | Club TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191278.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Teleangol Radio"  group-title="TV | CHILE",CH | Teleangol Radio
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191279.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Pucon TV"  group-title="TV | CHILE",CH | Pucon TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191280.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | TecTV"  group-title="TV | CHILE",CH | TecTV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191281.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | T-Vinet"  group-title="TV | CHILE",CH | T-Vinet
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191282.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Canal Latino 54"  group-title="TV | CHILE",CH | Canal Latino 54
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191283.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Decima TV"  group-title="TV | CHILE",CH | Decima TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191284.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Canal 2 Quellon"  group-title="TV | CHILE",CH | Canal 2 Quellon
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191285.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Canal Survision Alerce"  group-title="TV | CHILE",CH | Canal Survision Alerce
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191286.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Canal 5 Puerto Montt"  group-title="TV | CHILE",CH | Canal 5 Puerto Montt
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191287.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Canal Chilote"  group-title="TV | CHILE",CH | Canal Chilote
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191288.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Hito Cero TV"  group-title="TV | CHILE",CH | Hito Cero TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191289.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Rocco TV 4"  group-title="TV | CHILE",CH | Rocco TV 4
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191290.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Santa Maria TV"  group-title="TV | CHILE",CH | Santa Maria TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191291.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Soberania Radio"  group-title="TV | CHILE",CH | Soberania Radio
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191292.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | ITV Patagonia"  group-title="TV | CHILE",CH | ITV Patagonia
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191293.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | EvaVisión"  group-title="TV | CHILE",CH | EvaVisión
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191294.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Canal Sur Patagonia"  group-title="TV | CHILE",CH | Canal Sur Patagonia
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191295.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | PinguinoTV"  group-title="TV | CHILE",CH | PinguinoTV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191296.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Valparaiso Sporting"  group-title="TV | CHILE",CH | Valparaiso Sporting
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191297.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Evavisión Pachanga"  group-title="TV | CHILE",CH | Evavisión Pachanga
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191298.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | El Galpon 80"  group-title="TV | CHILE",CH | El Galpon 80
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191299.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Radioteca WebStereo"  group-title="TV | CHILE",CH | Radioteca WebStereo
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191300.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Re7"  group-title="TV | CHILE",CH | Re7
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191301.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Calama TV"  group-title="TV | CHILE",CH | Calama TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191302.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Maxima FM"  group-title="TV | CHILE",CH | Maxima FM
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191303.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Portal FoxMix"  group-title="TV | CHILE",CH | Portal FoxMix
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191305.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | TuTv Quillota"  group-title="TV | CHILE",CH | TuTv Quillota
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191306.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | TV vconline.cl"  group-title="TV | CHILE",CH | TV vconline.cl
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191307.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Zapping Music"  group-title="TV | CHILE",CH | Zapping Music
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191308.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Alegria TV"  group-title="TV | CHILE",CH | Alegria TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191309.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Cloud FM"  group-title="TV | CHILE",CH | Cloud FM
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191310.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Radiomania"  group-title="TV | CHILE",CH | Radiomania
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191311.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Top New Radio"  group-title="TV | CHILE",CH | Top New Radio
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191312.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Radio Magallanes"  group-title="TV | CHILE",CH | Radio Magallanes
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191313.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | TV Volcan"  group-title="TV | CHILE",CH | TV Volcan
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191314.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | CRadio.cl"  group-title="TV | CHILE",CH | CRadio.cl
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191315.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Zona Play Radio"  group-title="TV | CHILE",CH | Zona Play Radio
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191316.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Tributo Valentina"  group-title="TV | CHILE",CH | Tributo Valentina
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191317.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Tierras Blancas TV"  group-title="TV | CHILE",CH | Tierras Blancas TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191318.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Radio La Serena"  group-title="TV | CHILE",CH | Radio La Serena
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191319.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Patagonia Radio TV"  group-title="TV | CHILE",CH | Patagonia Radio TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191320.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Conecta2 TV"  group-title="TV | CHILE",CH | Conecta2 TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191321.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Radio PuntoFM"  group-title="TV | CHILE",CH | Radio PuntoFM
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191322.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | CCP Radio"  group-title="TV | CHILE",CH | CCP Radio
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191323.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Red Fueguina Radio"  group-title="TV | CHILE",CH | Red Fueguina Radio
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191324.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | DBox Radio"  group-title="TV | CHILE",CH | DBox Radio
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191325.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Radio Zeta"  group-title="TV | CHILE",CH | Radio Zeta
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191326.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Radio Via Libre"  group-title="TV | CHILE",CH | Radio Via Libre
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191327.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Radio Touch"  group-title="TV | CHILE",CH | Radio Touch
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191328.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Radio Tazmania Hit"  group-title="TV | CHILE",CH | Radio Tazmania Hit
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191329.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Sabor TV"  group-title="TV | CHILE",CH | Sabor TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191330.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Radio Rancagua"  group-title="TV | CHILE",CH | Radio Rancagua
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191331.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Radio Polar"  group-title="TV | CHILE",CH | Radio Polar
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191332.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Radio Lado Oscuro TV"  group-title="TV | CHILE",CH | Radio Lado Oscuro TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191333.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | 4R Television"  group-title="TV | CHILE",CH | 4R Television
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191334.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Radio Hoy"  group-title="TV | CHILE",CH | Radio Hoy
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191335.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Radio Fiessta"  group-title="TV | CHILE",CH | Radio Fiessta
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191336.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Futura TV"  group-title="TV | CHILE",CH | Futura TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191337.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Radio Favorita"  group-title="TV | CHILE",CH | Radio Favorita
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191338.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Cosmos TV"  group-title="TV | CHILE",CH | Cosmos TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191339.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Radio Camila TV"  group-title="TV | CHILE",CH | Radio Camila TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191340.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Radio Actitud"  group-title="TV | CHILE",CH | Radio Actitud
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191341.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Pura Noticia"  group-title="TV | CHILE",CH | Pura Noticia
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191342.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Preludio TV"  group-title="TV | CHILE",CH | Preludio TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191343.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Orocoipo"  group-title="TV | CHILE",CH | Orocoipo
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191344.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | On Radio Chile"  group-title="TV | CHILE",CH | On Radio Chile
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191345.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Interradio TV"  group-title="TV | CHILE",CH | Interradio TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191346.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Interactiva FM"  group-title="TV | CHILE",CH | Interactiva FM
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191347.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | FM Pulso"  group-title="TV | CHILE",CH | FM Pulso
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191348.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | El Sembrador"  group-title="TV | CHILE",CH | El Sembrador
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191349.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | El Conquistador TV"  group-title="TV | CHILE",CH | El Conquistador TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191350.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | ChocolateFM"  group-title="TV | CHILE",CH | ChocolateFM
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191351.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Radio Ancoa TV"  group-title="TV | CHILE",CH | Radio Ancoa TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191352.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | AE Radio"  group-title="TV | CHILE",CH | AE Radio
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191353.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Pauta TV"  group-title="TV | CHILE",CH | Pauta TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191354.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Radio Tiempo"  group-title="TV | CHILE",CH | Radio Tiempo
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191355.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Radio Agricultura"  group-title="TV | CHILE",CH | Radio Agricultura
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191356.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Pudahuel FM"  group-title="TV | CHILE",CH | Pudahuel FM
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191357.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Bio Bio TV"  group-title="TV | CHILE",CH | Bio Bio TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191358.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Televida HD"  group-title="TV | CHILE",CH | Televida HD
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191359.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Restaurando Vidas TV"  group-title="TV | CHILE",CH | Restaurando Vidas TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191360.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Restaurando Vidas TV Internacional"  group-title="TV | CHILE",CH | Restaurando Vidas TV Internacional
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191361.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Radio Vida Curico"  group-title="TV | CHILE",CH | Radio Vida Curico
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191362.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | NCTV"  group-title="TV | CHILE",CH | NCTV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191363.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Gracia TV"  group-title="TV | CHILE",CH | Gracia TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191364.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CH | Escuchame Radio"  group-title="TV | CHILE",CH | Escuchame Radio
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191365.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="ESP | Canal 33 Madrid"  group-title="TV | ESPAÑA",ESP | Canal 33 Madrid
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191366.ts
-#EXTINF:-1 tvg-ID="" tvg-name="VEN | Nubeh TV"  group-title="TV | VENEZUELA",VEN | Nubeh TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191743.ts
-#EXTINF:-1 tvg-ID="" tvg-name="VEN | Oxigeno Network"  group-title="TV | VENEZUELA",VEN | Oxigeno Network
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191744.ts
-#EXTINF:-1 tvg-ID="" tvg-name="VEN | Panavision"  group-title="TV | VENEZUELA",VEN | Panavision
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191745.ts
-#EXTINF:-1 tvg-ID="" tvg-name="VEN | Corazon Llanero"  group-title="TV | VENEZUELA",VEN | Corazon Llanero
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191748.ts
-#EXTINF:-1 tvg-ID="" tvg-name="VEN | Canal i"  group-title="TV | VENEZUELA",VEN | Canal i
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191749.ts
-#EXTINF:-1 tvg-ID="" tvg-name="VEN | Venevision"  group-title="TV | VENEZUELA",VEN | Venevision
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191750.ts
-#EXTINF:-1 tvg-ID="" tvg-name="VEN | Italianissimo"  group-title="TV | VENEZUELA",VEN | Italianissimo
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191751.ts
-#EXTINF:-1 tvg-ID="" tvg-name="VEN | MovieFE"  group-title="TV | VENEZUELA",VEN | MovieFE
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191752.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | TV Grande Natal HDTV *"  group-title="TV |  BRASIL",BR | TV Grande Natal HDTV *
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191761.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | Vintage TV *"  group-title="TV |  BRASIL",BR | Vintage TV *
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191762.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | Agro Brasil TV"  group-title="TV |  BRASIL",BR | Agro Brasil TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191763.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | APlus TV"  group-title="TV |  BRASIL",BR | APlus TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191764.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | ArarunaTV"  group-title="TV |  BRASIL",BR | ArarunaTV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191765.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | Classique TV"  group-title="TV |  BRASIL",BR | Classique TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191766.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | NTV Patos de Minas"  group-title="TV |  BRASIL",BR | NTV Patos de Minas
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191767.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | Record News Espirito Santo"  group-title="TV |  BRASIL",BR | Record News Espirito Santo
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191768.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | Rede Premium TV"  group-title="TV |  BRASIL",BR | Rede Premium TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191771.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | SBT GO"  group-title="TV |  BRASIL",BR | SBT GO
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191772.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | TV Água Boa"  group-title="TV |  BRASIL",BR | TV Água Boa
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191773.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | TV Atividade"  group-title="TV |  BRASIL",BR | TV Atividade
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191774.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | TV Candides"  group-title="TV |  BRASIL",BR | TV Candides
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191775.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | TV Carioca"  group-title="TV |  BRASIL",BR | TV Carioca
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191776.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | TV Destak"  group-title="TV |  BRASIL",BR | TV Destak
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191777.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | TV Difusora"  group-title="TV |  BRASIL",BR | TV Difusora
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191778.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | TV Difusora Leste"  group-title="TV |  BRASIL",BR | TV Difusora Leste
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191779.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | TV Digital Birigui"  group-title="TV |  BRASIL",BR | TV Digital Birigui
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191780.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | TV Infor Bahia"  group-title="TV |  BRASIL",BR | TV Infor Bahia
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191781.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | TV Mais"  group-title="TV |  BRASIL",BR | TV Mais
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191782.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | TV Mar"  group-title="TV |  BRASIL",BR | TV Mar
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191784.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | TV Plan"  group-title="TV |  BRASIL",BR | TV Plan
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191786.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | TV Poços"  group-title="TV |  BRASIL",BR | TV Poços
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191787.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | TV Sim Cachoeiro"  group-title="TV |  BRASIL",BR | TV Sim Cachoeiro
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191789.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | TV Sim Colatina"  group-title="TV |  BRASIL",BR | TV Sim Colatina
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191790.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | TV Sim Linhares"  group-title="TV |  BRASIL",BR | TV Sim Linhares
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191791.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | TV Sim Sao Mateus"  group-title="TV |  BRASIL",BR | TV Sim Sao Mateus
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191792.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | TV Sim Vitória"  group-title="TV |  BRASIL",BR | TV Sim Vitória
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191793.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | TV Sul"  group-title="TV |  BRASIL",BR | TV Sul
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191794.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | TV Vicosa"  group-title="TV |  BRASIL",BR | TV Vicosa
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191795.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | TVE"  group-title="TV |  BRASIL",BR | TVE
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191796.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | Via Morena"  group-title="TV |  BRASIL",BR | Via Morena
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191797.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | All Sports"  group-title="TV |  BRASIL",BR | All Sports
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191798.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | ISTV"  group-title="TV |  BRASIL",BR | ISTV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191800.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | Retro Cartoon"  group-title="TV |  BRASIL",BR | Retro Cartoon
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191802.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | TV Aracati"  group-title="TV |  BRASIL",BR | TV Aracati
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191803.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | TV J.SID"  group-title="TV |  BRASIL",BR | TV J.SID
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191804.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | TV Japi"  group-title="TV |  BRASIL",BR | TV Japi
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191805.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | Top TV"  group-title="TV |  BRASIL",BR | Top TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191807.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | TV Uniao"  group-title="TV |  BRASIL",BR | TV Uniao
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191808.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | Gospel Movies Television"  group-title="TV |  BRASIL",BR | Gospel Movies Television
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191809.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | TV Aparecida"  group-title="TV |  BRASIL",BR | TV Aparecida
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191810.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | TV Evangelizar"  group-title="TV |  BRASIL",BR | TV Evangelizar
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191811.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | TV Rede Gospel"  group-title="TV |  BRASIL",BR | TV Rede Gospel
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191812.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | TV Universal"  group-title="TV |  BRASIL",BR | TV Universal
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191813.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | SBT"  group-title="TV |  BRASIL",BR | SBT
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191816.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | Record"  group-title="TV |  BRASIL",BR | Record
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191817.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | Record News"  group-title="TV |  BRASIL",BR | Record News
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191818.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | GLOBO SP"  group-title="TV |  BRASIL",BR | GLOBO SP
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191819.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | Globo News"  group-title="TV |  BRASIL",BR | Globo News
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191820.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | Globo Rio"  group-title="TV |  BRASIL",BR | Globo Rio
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191821.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | MAIS GLOBOSAT"  group-title="TV |  BRASIL",BR | MAIS GLOBOSAT
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191822.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | Disney Channel"  group-title="TV |  BRASIL",BR | Disney Channel
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191823.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | Boomerang"  group-title="TV |  BRASIL",BR | Boomerang
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191824.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | Canal Brasil"  group-title="TV |  BRASIL",BR | Canal Brasil
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191825.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | Sony"  group-title="TV |  BRASIL",BR | Sony
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191826.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | A&E"  group-title="TV |  BRASIL",BR | A&E
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191827.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | AMC"  group-title="TV |  BRASIL",BR | AMC
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191828.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | Animal Planet"  group-title="TV |  BRASIL",BR | Animal Planet
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191829.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | ARTE1"  group-title="TV |  BRASIL",BR | ARTE1
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191830.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | Baby TV"  group-title="TV |  BRASIL",BR | Baby TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191831.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | BAND"  group-title="TV |  BRASIL",BR | BAND
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191832.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | BAND News"  group-title="TV |  BRASIL",BR | BAND News
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191833.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | BAND Sports"  group-title="TV |  BRASIL",BR | BAND Sports
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191834.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | CINEMAX HD"  group-title="TV |  BRASIL",BR | CINEMAX HD
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191835.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | CNN BRASIL"  group-title="TV |  BRASIL",BR | CNN BRASIL
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191836.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | COMBATE FHD"  group-title="TV |  BRASIL",BR | COMBATE FHD
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191837.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | COMEDY CENTRAL HD"  group-title="TV |  BRASIL",BR | COMEDY CENTRAL HD
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191838.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | DISCOVERY CHANNEL HD"  group-title="TV |  BRASIL",BR | DISCOVERY CHANNEL HD
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191840.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | DISCOVERY CIVILIZATION HD"  group-title="TV |  BRASIL",BR | DISCOVERY CIVILIZATION HD
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191841.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | DISCOVERY H&H FHD"  group-title="TV |  BRASIL",BR | DISCOVERY H&H FHD
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191842.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | DISCOVERY KIDS HD"  group-title="TV |  BRASIL",BR | DISCOVERY KIDS HD
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191843.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | DISCOVERY SCIENCE HD"  group-title="TV |  BRASIL",BR | DISCOVERY SCIENCE HD
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191844.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | DISCOVERY THEATHER HD"  group-title="TV |  BRASIL",BR | DISCOVERY THEATHER HD
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191845.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | DISCOVERY TURBO FHD"  group-title="TV |  BRASIL",BR | DISCOVERY TURBO FHD
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191846.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | DISCOVERY WORLD HD"  group-title="TV |  BRASIL",BR | DISCOVERY WORLD HD
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191847.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | Premiere 1"  group-title="TV |  BRASIL",BR | Premiere 1
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191848.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | Premiere 2"  group-title="TV |  BRASIL",BR | Premiere 2
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191849.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | Premiere 3"  group-title="TV |  BRASIL",BR | Premiere 3
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191850.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | Premiere 4"  group-title="TV |  BRASIL",BR | Premiere 4
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191851.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | Premiere 5"  group-title="TV |  BRASIL",BR | Premiere 5
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191852.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | Premiere 6"  group-title="TV |  BRASIL",BR | Premiere 6
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191853.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | Premiere 7"  group-title="TV |  BRASIL",BR | Premiere 7
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191854.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BR | Premiere 8"  group-title="TV |  BRASIL",BR | Premiere 8
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/191855.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="DEP | Fox Sports Premium (MX)"  group-title="TV | DEPORTES",DEP | Fox Sports Premium (MX)
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/193537.ts
 #EXTINF:-1 tvg-ID="" tvg-name="MUSICA | Flash"  group-title="TV | MUSICA",MUSICA | Flash
@@ -3526,10 +2402,7 @@ http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/196049.ts
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/196055.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Sailor Moon Crystal"  group-title="TV | 24HRS INFANTIL / ANIMADOS",Sailor Moon Crystal
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/196204.ts
-#EXTINF:-1 tvg-ID="" tvg-name="NFL | Network"  group-title="TV | NFL PACK",NFL | Network
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/197992.ts
-#EXTINF:-1 tvg-ID="" tvg-name="MLB Networks"  group-title="TV | MLB PACK",MLB Networks
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/198304.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="USALAT | Univision Los Angeles"  group-title="TV | USA LATINOS",USALAT | Univision Los Angeles
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/199764.ts
 #EXTINF:-1 tvg-ID="" tvg-name="USALAT | Univision Miami"  group-title="TV | USA LATINOS",USALAT | Univision Miami
@@ -3620,8 +2493,7 @@ http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/210836.ts
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/210837.ts
 #EXTINF:-1 tvg-ID="" tvg-name="CA | CTV NEWS NETWORK"  group-title="TV | CANADA",CA | CTV NEWS NETWORK
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/210838.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PR | Telemundo"  group-title="TV | PUERTO RICO",PR | Telemundo
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/211033.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="NOTI | Foro TV (MX)"  group-title="TV | NOTICIAS",NOTI | Foro TV (MX)
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/216170.ts
 #EXTINF:-1 tvg-ID="" tvg-name="ESP | #0"  group-title="TV | ESPAÑA",ESP | #0
@@ -3642,24 +2514,7 @@ http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/216198.ts
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/216289.ts
 #EXTINF:-1 tvg-ID="" tvg-name="USA PREM | Hallmark Movies & Mysteries"  group-title="TV | USA PREMIUM",USA PREM | Hallmark Movies & Mysteries
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/216291.ts
-#EXTINF:-1 tvg-ID="" tvg-name="RD | Teleunion"  group-title="TV | REPUBLICA DOMINICANA",RD | Teleunion
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/216339.ts
-#EXTINF:-1 tvg-ID="" tvg-name="VE | Promar"  group-title="TV | VENEZUELA",VE | Promar
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/216340.ts
-#EXTINF:-1 tvg-ID="" tvg-name="VE | Meridano TV"  group-title="TV | VENEZUELA",VE | Meridano TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/216341.ts
-#EXTINF:-1 tvg-ID="" tvg-name="VE | Globovision"  group-title="TV | VENEZUELA",VE | Globovision
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/216342.ts
-#EXTINF:-1 tvg-ID="" tvg-name="VE | TLT"  group-title="TV | VENEZUELA",VE | TLT
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/216343.ts
-#EXTINF:-1 tvg-ID="" tvg-name="VE | Telesur"  group-title="TV | VENEZUELA",VE | Telesur
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/216344.ts
-#EXTINF:-1 tvg-ID="" tvg-name="VE | Tves"  group-title="TV | VENEZUELA",VE | Tves
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/216345.ts
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Canal 4 Gdl"  group-title="TV | MEXICO",MX | Canal 4 Gdl
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/216523.ts
-#EXTINF:-1 tvg-ID="" tvg-name="HN | TDTV"  group-title="TV | HONDURAS",HN | TDTV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218618.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="ESP | National Geografic"  group-title="TV | ESPAÑA",ESP | National Geografic
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/218888.ts
 
@@ -3703,8 +2558,6 @@ http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/223509.ts
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/223513.ts
 #EXTINF:-1 tvg-ID="" tvg-name="TV | 24/7 Dragon Ball GT"  group-title="TV | 24/7 DRAGON BALL",TV | 24/7 Dragon Ball GT
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/223514.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PER | ASIRI TV"  group-title="TV | PERU",PER | ASIRI TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/224242.ts
 #EXTINF:-1 tvg-ID="" tvg-name="ARG | El Trece"  group-title="TV | ARGENTINA",ARG | El Trece
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/225245.ts
 #EXTINF:-1 tvg-ID="" tvg-name="ARG | Cronica"  group-title="TV | ARGENTINA",ARG | Cronica
@@ -3715,10 +2568,7 @@ http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/225289.ts
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/225290.ts
 #EXTINF:-1 tvg-ID="" tvg-name="MUSICA | Stingray Spa"  group-title="TV | MUSICA",MUSICA | Stingray Spa
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/225291.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PER | Peru Channel"  group-title="TV | PERU",PER | Peru Channel
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/225297.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PER | Gol Peru Opc1"  group-title="TV | PERU",PER | Gol Peru Opc1
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/226839.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="Los Simpson 20 Al 32"  group-title="TV | 24HRS INFANTIL / ANIMADOS",Los Simpson 20 Al 32
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/226859.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Los Simpson 10 Al 20"  group-title="TV | 24HRS INFANTIL / ANIMADOS",Los Simpson 10 Al 20
@@ -3727,25 +2577,14 @@ http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/226860.ts
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/226861.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Los Simpson Especiales del Terror"  group-title="TV | 24HRS INFANTIL / ANIMADOS",Los Simpson Especiales del Terror
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/226862.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CO | Win Sport Plus op2"  group-title="TV | COLOMBIA",CO | Win Sport Plus op2
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/229151.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PER | Exitosa"  group-title="TV | PERU",PER | Exitosa
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/231391.ts
+
+
 #EXTINF:-1 tvg-ID="" tvg-name="Proximamente 20/11/2022"  group-title="TV | FIFA WORLD CUP QATAR",Proximamente 20/11/2022
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/231935.ts
 #EXTINF:-1 tvg-ID="" tvg-name="CUL | Discovery Science"  group-title="TV | CULTURA Y MUNDO",CUL | Discovery Science
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/232726.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CO | Canal C"  group-title="TV | COLOMBIA",CO | Canal C
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/233389.ts
 
-#EXTINF:-1 tvg-ID="" tvg-name="PER | Movistar Deportes Peru Opc2"  group-title="TV | PERU",PER | Movistar Deportes Peru Opc2
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/234672.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PER | AmericaTV Opc1"  group-title="TV | PERU",PER | AmericaTV Opc1
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/234786.ts
-#EXTINF:-1 tvg-ID="" tvg-name="MX | TeleVer"  group-title="TV | MEXICO",MX | TeleVer
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/234863.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PER | Gamarra Channel"  group-title="TV | PERU",PER | Gamarra Channel
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/234897.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="Hey Arnold"  group-title="TV | 24HRS INFANTIL / ANIMADOS",Hey Arnold
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/235934.ts
 #EXTINF:-1 tvg-ID="" tvg-name="24H | Scooby Doo"  group-title="TV | 24HRS INFANTIL / ANIMADOS",24H | Scooby Doo
@@ -3932,78 +2771,8 @@ http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/236488.ts
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/236489.ts
 #EXTINF:-1 tvg-ID="" tvg-name="LMP | Yaquis de Cd. Obregon"  group-title="TV | LMP PACK",LMP | Yaquis de Cd. Obregon
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/236490.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PER | Love Nature Opc1"  group-title="TV | PERU",PER | Love Nature Opc1
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/236703.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PER | Love Nature Opc2"  group-title="TV | PERU",PER | Love Nature Opc2
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/236704.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PER | RPP"  group-title="TV | PERU",PER | RPP
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/236762.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PER | Gol Peru Opc1"  group-title="TV | PERU",PER | Gol Peru Opc1
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/236763.ts
-#EXTINF:-1 tvg-ID="" tvg-name="MUSICA | Mimusica HITS"  group-title="TV | MUSICA",MUSICA | Mimusica HITS
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/236831.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PER | Gol Peru Opc3"  group-title="TV | PERU",PER | Gol Peru Opc3
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/236832.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PER | Gol Peru Opc4"  group-title="TV | PERU",PER | Gol Peru Opc4
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/236833.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PER | Latina Opc2"  group-title="TV | PERU",PER | Latina Opc2
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/236834.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PER | Latina Opc3"  group-title="TV | PERU",PER | Latina Opc3
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/236835.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PER | Panamericana Opc3"  group-title="TV | PERU",PER | Panamericana Opc3
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/236836.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PER | Panamericana Opc4"  group-title="TV | PERU",PER | Panamericana Opc4
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/236837.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PER | Willax Opc2"  group-title="TV | PERU",PER | Willax Opc2
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/236838.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PER | Willax Opc3"  group-title="TV | PERU",PER | Willax Opc3
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/236839.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PER | Willax Opc4"  group-title="TV | PERU",PER | Willax Opc4
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/236840.ts
-#EXTINF:-1 tvg-ID="" tvg-name="MUSICA | Mimusica Popular"  group-title="TV | MUSICA",MUSICA | Mimusica Popular
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/236843.ts
-#EXTINF:-1 tvg-ID="" tvg-name="MUSICA | Mimusica K-POP"  group-title="TV | MUSICA",MUSICA | Mimusica K-POP
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/236842.ts
-#EXTINF:-1 tvg-ID="" tvg-name="MUSICA | Mimusica Reggaeton"  group-title="TV | MUSICA",MUSICA | Mimusica Reggaeton
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/236844.ts
-#EXTINF:-1 tvg-ID="" tvg-name="NIC | Canal 2"  group-title="TV | NICARAGUA",NIC | Canal 2
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/236849.ts
-#EXTINF:-1 tvg-ID="" tvg-name="NIC | Canal 6"  group-title="TV | NICARAGUA",NIC | Canal 6
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/236850.ts
-#EXTINF:-1 tvg-ID="" tvg-name="NIC | Canal 8"  group-title="TV | NICARAGUA",NIC | Canal 8
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/236851.ts
-#EXTINF:-1 tvg-ID="" tvg-name="NIC | Canal 10"  group-title="TV | NICARAGUA",NIC | Canal 10
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/236852.ts
-#EXTINF:-1 tvg-ID="" tvg-name="NIC | Canal 13"  group-title="TV | NICARAGUA",NIC | Canal 13
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/236853.ts
-#EXTINF:-1 tvg-ID="" tvg-name="NIC | Canal 14"  group-title="TV | NICARAGUA",NIC | Canal 14
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/236854.ts
-#EXTINF:-1 tvg-ID="" tvg-name="NIC | WTV Nicaragua"  group-title="TV | NICARAGUA",NIC | WTV Nicaragua
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/236855.ts
-#EXTINF:-1 tvg-ID="" tvg-name="NBA 01"  group-title="TV | NBA PACK",NBA 01
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/236872.ts
-#EXTINF:-1 tvg-ID="" tvg-name="NBA 02"  group-title="TV | NBA PACK",NBA 02
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/236873.ts
-#EXTINF:-1 tvg-ID="" tvg-name="NBA 03"  group-title="TV | NBA PACK",NBA 03
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/236874.ts
-#EXTINF:-1 tvg-ID="" tvg-name="NBA 04"  group-title="TV | NBA PACK",NBA 04
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/236875.ts
-#EXTINF:-1 tvg-ID="" tvg-name="NBA 05"  group-title="TV | NBA PACK",NBA 05
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/236876.ts
-#EXTINF:-1 tvg-ID="" tvg-name="NBA 06"  group-title="TV | NBA PACK",NBA 06
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/236877.ts
-#EXTINF:-1 tvg-ID="" tvg-name="NBA 07"  group-title="TV | NBA PACK",NBA 07
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/236878.ts
-#EXTINF:-1 tvg-ID="" tvg-name="NBA 08"  group-title="TV | NBA PACK",NBA 08
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/236879.ts
-#EXTINF:-1 tvg-ID="" tvg-name="NBA 09"  group-title="TV | NBA PACK",NBA 09
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/236880.ts
-#EXTINF:-1 tvg-ID="" tvg-name="NBA 10"  group-title="TV | NBA PACK",NBA 10
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/236881.ts
-#EXTINF:-1 tvg-ID="" tvg-name="NBA 11"  group-title="TV | NBA PACK",NBA 11
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/236882.ts
-#EXTINF:-1 tvg-ID="" tvg-name="NBA 12"  group-title="TV | NBA PACK",NBA 12
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/236883.ts
+
+
 #EXTINF:-1 tvg-ID="" tvg-name="LMP | Venados de Mazatlan"  group-title="TV | LMP PACK",LMP | Venados de Mazatlan
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/236936.ts
 #EXTINF:-1 tvg-ID="" tvg-name="LMP | Cañeros de los Mochis"  group-title="TV | LMP PACK",LMP | Cañeros de los Mochis
@@ -4018,11 +2787,7 @@ http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/236941.ts
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/236942.ts
 #EXTINF:-1 tvg-ID="" tvg-name="24H | Disney Marvel"  group-title="TV | 24HRS INFANTIL / ANIMADOS",24H | Disney Marvel
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/237121.ts
-#EXTINF:-1 tvg-ID="" tvg-name="RD | Color Vision 9"  group-title="TV | REPUBLICA DOMINICANA",RD | Color Vision 9
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/237190.ts
-#EXTINF:-1 tvg-ID="" tvg-name="18:03 CT. | Phillies vs Astros (ESPAÑOL)"  group-title="TV | MLB PACK",18:03 CT. | Phillies vs Astros (ESPAÑOL)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/237204.ts
-#EXTINF:-1 tvg-ID="" tvg-name="18:03 CT. | Phillies vs Astros (INGLES)"  group-title="TV | MLB PACK",18:03 CT. | Phillies vs Astros (INGLES)
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/237205.ts
+
+
 #EXTINF:-1 tvg-ID="" tvg-name="24/7 The New Adventures of Jonny Quest"  group-title="TV | 24/7 ANIMADOS RETRO",24/7 The New Adventures of Jonny Quest
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/222708.ts
