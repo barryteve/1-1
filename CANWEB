@@ -1274,8 +1274,7 @@ http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/174870.ts
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/175038.ts
 #EXTINF:-1 tvg-ID="" tvg-name="MUSICA | MTV Live"  group-title="TV | MUSICA",MUSICA | MTV Live
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/175573.ts
-#EXTINF:-1 tvg-ID="" tvg-name="MX | Mexiquense TV"  group-title="TV | MEXICO",MX | Mexiquense TV
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/175661.ts
+
 
 #EXTINF:-1 tvg-ID="" tvg-name="DEP | ESPN (MX)"  group-title="TV | DEPORTES",DEP | ESPN (MX)
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/175682.ts
@@ -1439,9 +1438,9 @@ http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/175965.ts
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/175966.ts
 #EXTINF:-1 tvg-ID="" tvg-name="DEP | Golperu (PE)"  group-title="TV | DEPORTES",DEP | Golperu (PE)
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/175967.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CO | Win Sports (COL)"  group-title="TV | COLOMBIA",CO | Win Sports (COL)
+#EXTINF:-1 tvg-ID="" tvg-name="CO | Win Sports (COL)"  group-title="TV | DEPORTES",DEP | Win Sports (COL)
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/175968.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CO | Win Sports Plus (COL)"  group-title="TV | COLOMBIA",CO | Win Sports Plus (COL)
+#EXTINF:-1 tvg-ID="" tvg-name="CO | Win Sports Plus (COL)"  group-title="TV | DEPORTES",DEP | Win Sports Plus (COL)
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/175969.ts
 #EXTINF:-1 tvg-ID="" tvg-name="DEP | ALL Sports (BR)"  group-title="TV | DEPORTES",DEP | ALL Sports (BR)
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/175970.ts
@@ -2411,8 +2410,7 @@ http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/199765.ts
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/199766.ts
 #EXTINF:-1 tvg-ID="" tvg-name="Fox News"  group-title="TV | USA LOCALES",Fox News
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/202009.ts
-#EXTINF:-1 tvg-ID="" tvg-name="GT | Canal 3"  group-title="TV | GUATEMALA",GT | Canal 3
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/202140.ts
+
 #EXTINF:-1 tvg-ID="" tvg-name="USALAT | La Casa de los Famosos (Cam 1)"  group-title="TV | USA LATINOS",USALAT | La Casa de los Famosos (Cam 1)
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/205053.ts
 #EXTINF:-1 tvg-ID="" tvg-name="USALAT | La Casa de Los Famosos (CAM 2)"  group-title="TV | USA LATINOS",USALAT | La Casa de Los Famosos (CAM 2)
@@ -2755,28 +2753,7 @@ http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/236299.ts
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/236300.ts
 #EXTINF:-1 tvg-ID="" tvg-name="LOS SIMPSONS 27-30"  group-title="TV | 24HRS INFANTIL / ANIMADOS",LOS SIMPSONS 27-30
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/236301.ts
-#EXTINF:-1 tvg-ID="" tvg-name="LMP | Aguilas de Mexicali"  group-title="TV | LMP PACK",LMP | Aguilas de Mexicali
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/236483.ts
-#EXTINF:-1 tvg-ID="" tvg-name="LMP | Algodoneros de Guasave"  group-title="TV | LMP PACK",LMP | Algodoneros de Guasave
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/236484.ts
-#EXTINF:-1 tvg-ID="" tvg-name="LMP | Charros de Jalisco"  group-title="TV | LMP PACK",LMP | Charros de Jalisco
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/236485.ts
-#EXTINF:-1 tvg-ID="" tvg-name="LMP | Mayos de Navojoa"  group-title="TV | LMP PACK",LMP | Mayos de Navojoa
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/236486.ts
-#EXTINF:-1 tvg-ID="" tvg-name="LMP | Naranjeros de Hermosillo"  group-title="TV | LMP PACK",LMP | Naranjeros de Hermosillo
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/236487.ts
-#EXTINF:-1 tvg-ID="" tvg-name="LMP | Sultanes de Monterrey"  group-title="TV | LMP PACK",LMP | Sultanes de Monterrey
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/236488.ts
-#EXTINF:-1 tvg-ID="" tvg-name="LMP | Tomateros de Culiacan"  group-title="TV | LMP PACK",LMP | Tomateros de Culiacan
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/236489.ts
-#EXTINF:-1 tvg-ID="" tvg-name="LMP | Yaquis de Cd. Obregon"  group-title="TV | LMP PACK",LMP | Yaquis de Cd. Obregon
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/236490.ts
 
-
-#EXTINF:-1 tvg-ID="" tvg-name="LMP | Venados de Mazatlan"  group-title="TV | LMP PACK",LMP | Venados de Mazatlan
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/236936.ts
-#EXTINF:-1 tvg-ID="" tvg-name="LMP | Cañeros de los Mochis"  group-title="TV | LMP PACK",LMP | Cañeros de los Mochis
-http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/236937.ts
 #EXTINF:-1 tvg-ID="" tvg-name="CP | Starz Action"  group-title="TV | CINEMA PREMIUM",CP | Starz Action
 http://198.245.53.172:8970/live/M7PQTWPSJKXH/QCQ45PV8WYJD/236939.ts
 #EXTINF:-1 tvg-ID="" tvg-name="CP | Starz Edge"  group-title="TV | CINEMA PREMIUM",CP | Starz Edge
