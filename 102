@@ -50,4 +50,5 @@ acestream://24b85e8cdd5031e6752a8da2d1c8bbee19b0b3b3
 acestream://d475208e72b5a343080afa0724c7b7c42264b9a0
 #EXTINF: -1 tvg-id="LaLiga SmartbankTV 3 HD" tvg-name="LaLiga SmartBank 3 720" tvg-logo="https://i.ibb.co/cybDs0J/La-Liga-Smart-Bank.jpg" group-title="La Liga", LaLiga SmartBank 3 720
 acestream://1000c018cf4afb7357f10e438e966d23340e4295
-
+#EXTINF: -1 tvg-id="GOL TV 1080" tvg-name="GOL TV 1080" tvg-logo="https://statics.goltelevision.com/shared/assets/logos/og-image2.jpg" group-title="La Liga", GOL TV 1080
+acestream://49c35606668ebf7a895434ec4c9243a163d87718
