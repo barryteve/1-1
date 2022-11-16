@@ -1,6 +1,7 @@
+#EXTM3U
 #EXTINF: -1 tvg-id="LaLiga TV Bar HD" tvg-name="LaLiga Tv Bar 1080" tvg-logo="https://i.ibb.co/ykCff9y/La-Liga-Bar.jpg" group-title="La Liga", LaLiga Tv Bar 1080
 acestream://01b333b9369c662775902638ef8cffac346a0f61
-#EXTINF: -1 tvg-id="LALIGATV BAR" tvg-name="LaLiga Tv Bar 720" tvg-logo="https://i.ibb.co/ykCff9y/La-Liga-Bar.jpg" group-title="La Liga", LaLiga Tv Bar 720
+#EXTINF: -1 tvg-id="LALIGATV BAR" tvg-name="LaLiga Tv Bar 720" tvg-logo="https://i.ibb.co/ykCff9y/La-Liga-Bar.jpg" group-title="La Liga", LaLiga Tv Bar 720
 acestream://fce88ddb0aca4a0869ecd23bdf0bddc288d95260
 #EXTINF: -1 tvg-id="M+ LaLiga HD" tvg-name="La Liga - 720c" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="La Liga", La Liga - 720c
 acestream://87c317f519b24d8b1de5b5c9bfc6b1da0f6269a0
