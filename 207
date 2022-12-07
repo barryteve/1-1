@@ -1,0 +1,148 @@
+{
+  "name": "Samsung TV Plus",
+  "author": "Actualizada 22/03/2022",
+  "image": "https://i.imgur.com/yBJOxBd.jpg",
+  "url": "https://raw.githubusercontent.com/Jayoir/1/main/207",
+  "telegram": "PlutoTVes",
+  "info": "Indice realizado por sagerao",
+  "groups": [
+    {
+      "name": "Importar Listas",
+      "image": "https://i.imgur.com/YAaMwxN.png",
+      "stations": [
+        {
+          "name": "Samsung - TV ALL | Añadir Lista",
+          "image": "https://i.imgur.com/YAaMwxN.png",
+          "url": "https://i.mjh.nz/SamsungTVPlus/all.m3u8",
+          "import": true
+        },
+        {
+          "name": "Samsung - TV ES | Añadir Lista",
+          "image": "https://i.imgur.com/YAaMwxN.png",
+          "url": "https://i.mjh.nz/SamsungTVPlus/es.m3u8",
+          "import": true
+        },
+        {
+          "name": "Samsung - TV AT | Añadir Lista",
+          "image": "https://i.imgur.com/YAaMwxN.png",
+          "url": "https://i.mjh.nz/SamsungTVPlus/at.m3u8",
+          "import": true
+        },
+        {
+          "name": "Samsung - TV CA | Añadir Lista",
+          "image": "https://i.imgur.com/YAaMwxN.png",
+          "url": "https://i.mjh.nz/SamsungTVPlus/ca.m3u8",
+          "import": true
+        },
+        {
+          "name": "Samsung - TV CH | Añadir Lista",
+          "image": "https://i.imgur.com/YAaMwxN.png",
+          "url": "https://i.mjh.nz/SamsungTVPlus/ch.m3u8",
+          "import": true
+        },
+        {
+          "name": "Samsung - TV DE | Añadir Lista",
+          "image": "https://i.imgur.com/YAaMwxN.png",
+          "url": "https://i.mjh.nz/SamsungTVPlus/de.m3u8",
+          "import": true
+        },
+        {
+          "name": "Samsung - TV FR | Añadir Lista",
+          "image": "https://i.imgur.com/YAaMwxN.png",
+          "url": "https://i.mjh.nz/SamsungTVPlus/fr.m3u8",
+          "import": true
+        },
+        {
+          "name": "Samsung - TV GB | Añadir Lista",
+          "image": "https://i.imgur.com/YAaMwxN.png",
+          "url": "https://i.mjh.nz/SamsungTVPlus/gb.m3u8",
+          "import": true
+        },
+        {
+          "name": "Samsung - TV IN | Añadir Lista",
+          "image": "https://i.imgur.com/YAaMwxN.png",
+          "url": "https://i.mjh.nz/SamsungTVPlus/in.m3u8",
+          "import": true
+        },
+        {
+          "name": "Samsung - TV IT | Añadir Lista",
+          "image": "https://i.imgur.com/YAaMwxN.png",
+          "url": "https://i.mjh.nz/SamsungTVPlus/it.m3u8",
+          "import": true
+        },
+        {
+          "name": "Samsung - TV KR | Añadir Lista",
+          "image": "https://i.imgur.com/YAaMwxN.png",
+          "url": "https://i.mjh.nz/SamsungTVPlus/kr.m3u8",
+          "import": true
+        },
+        {
+          "name": "Samsung - TV US | Añadir Lista",
+          "image": "https://i.imgur.com/YAaMwxN.png",
+          "url": "https://i.mjh.nz/SamsungTVPlus/us.m3u8",
+          "import": true
+        }
+      ]
+    },
+    {
+      "name": "Samsung - TV ALL",
+      "image": "https://i.imgur.com/yBJOxBd.jpg",
+      "url": "https://i.mjh.nz/SamsungTVPlus/all.m3u8"
+    },
+    {
+      "name": "Samsung - TV ES",
+      "image": "https://i.imgur.com/yBJOxBd.jpg",
+      "url": "https://i.mjh.nz/SamsungTVPlus/es.m3u8"
+    },
+    {
+      "name": "Samsung - TV AT",
+      "image": "https://i.imgur.com/yBJOxBd.jpg",
+      "url": "https://i.mjh.nz/SamsungTVPlus/at.m3u8"
+    },
+    {
+      "name": "Samsung - TV CA",
+      "image": "https://i.imgur.com/yBJOxBd.jpg",
+      "url": "https://i.mjh.nz/SamsungTVPlus/ca.m3u8"
+    },
+    {
+      "name": "Samsung - TV CH",
+      "image": "https://i.imgur.com/yBJOxBd.jpg",
+      "url": "https://i.mjh.nz/SamsungTVPlus/ch.m3u8"
+    },
+    {
+      "name": "Samsung - TV DE",
+      "image": "https://i.imgur.com/yBJOxBd.jpg",
+      "url": "https://i.mjh.nz/SamsungTVPlus/de.m3u8"
+    },
+    {
+      "name": "Samsung - TV FR",
+      "image": "https://i.imgur.com/yBJOxBd.jpg",
+      "url": "https://i.mjh.nz/SamsungTVPlus/fr.m3u8"
+    },
+    {
+      "name": "Samsung - TV GB",
+      "image": "https://i.imgur.com/yBJOxBd.jpg",
+      "url": "https://i.mjh.nz/SamsungTVPlus/gb.m3u8"
+    },
+    {
+      "name": "Samsung - TV IN",
+      "image": "https://i.imgur.com/yBJOxBd.jpg",
+      "url": "https://i.mjh.nz/SamsungTVPlus/in.m3u8"
+    },
+    {
+      "name": "Samsung - TV IT",
+      "image": "https://i.imgur.com/yBJOxBd.jpg",
+      "url": "https://i.mjh.nz/SamsungTVPlus/it.m3u8"
+    },
+    {
+      "name": "Samsung - TV KR",
+      "image": "https://i.imgur.com/yBJOxBd.jpg",
+      "url": "https://i.mjh.nz/SamsungTVPlus/kr.m3u8"
+    },
+    {
+      "name": "Samsung - TV US",
+      "image": "https://i.imgur.com/yBJOxBd.jpg",
+      "url": "https://i.mjh.nz/SamsungTVPlus/us.m3u8"
+    }
+  ]
+}
