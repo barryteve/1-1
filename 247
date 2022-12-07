@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="24/7  MARVEL STUDIOS" tvg-logo="http://castlempire.site:8080/images/a6028d9fa014cb8f6a9e80a8679d427d.png" group-title="⭐️24/7 VIP⭐️",MARVEL STUDIOS
+http://castlempire.site:8080/cliente3226/123456/192450
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP | DC Comics Peliculas (e)(720)" tvg-logo="http://castlempire.site:8080/images/d6df385a221bf779c5e5f89446b5cd4d.png" group-title="⭐️24/7 VIP⭐️",DC Comics Peliculas
+http://castlempire.site:8080/cliente3226/123456/196812
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP | DC Comics Series (e)(720)" tvg-logo="http://castlempire.site:8080/images/eb1e9c1b5d6ef42dd64f1b1aabacaa1e.png" group-title="⭐️24/7 VIP⭐️",DC Comics Series
+http://castlempire.site:8080/cliente3226/123456/196813
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP | DC Lego (e)(720)" tvg-logo="http://castlempire.site:8080/images/796846f93f825af1ae3221ae07f2e58f.png" group-title="⭐️24/7 VIP⭐️",DC Lego
+http://castlempire.site:8080/cliente3226/123456/196814
+EXTINF:-1 tvg-id="" tvg-name="24/7 VIP | Universo DC (e)(1080)" tvg-logo="http://castlempire.site:8080/images/b2114092484deb967cfdef798579f591.png" group-title="⭐️24/7 VIP⭐️",Universo DC
+http://castlempire.site:8080/cliente3226/123456/197002
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP | Universo Marvel (e)(1080)" tvg-logo="http://castlempire.site:8080/images/0e561187d51609f59a35e1079f062c7a.png" group-title="⭐️24/7 VIP⭐️",Universo Marvel
+http://castlempire.site:8080/cliente3226/123456/197003
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP | Friends (e)(720)" tvg-logo="http://castlempire.site:8080/images/28f20a02bf8a021fab4fcec48afb584e.png" group-title="⭐️24/7 VIP⭐️",Friends
+http://castlempire.site:8080/cliente3226/123456/196865
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP | Futurama (e)(720)" tvg-logo="http://castlempire.site:8080/images/d09066cfeef4736a5b6f15f8e09205a0.png" group-title="⭐️24/7 VIP⭐️",Futurama
+http://castlempire.site:8080/cliente3226/123456/196867
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpsons" tvg-logo="http://castlempire.site:8080/images/270626fbb85e452921a32d29f0c078f5.png" group-title="⭐️24/7 VIP⭐️",Los Simpsons
+http://castlempire.site:8080/cliente3226/123456/186854
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP | Los Simpsons S01 a S20" tvg-logo="http://castlempire.site:8080/images/8ded64ca24838ee2582e2173f877ac28.png" group-title="⭐️24/7 VIP⭐️",Los Simpsons S01 a S20
+http://castlempire.site:8080/cliente3226/123456/196925
+#EXTINF:-1 tvg-id="" tvg-name="24/7 VIP | Los Simpsons S20 a S30" tvg-logo="http://castlempire.site:8080/images/cea271f55edbace713252c1b486fe58d.png" group-title="⭐️24/7 VIP⭐️",Los Simpsons S20 a S30
+http://castlempire.site:8080/cliente3226/123456/196926
