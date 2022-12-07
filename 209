@@ -181,13 +181,13 @@ http://45.232.211.196:1080/play/a026
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gJ1Hh9f/espn-proc.png",ESPN 𝐇𝐃 🇺🇸 | 🏀🇺🇸
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/520
 
-#EXTINF:-1 tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN2_Logo.png",ESPN 2 𝐇𝐃 🇺🇸 | 🏀🇺🇸🏉
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png",ESPN 2 𝐇𝐃 🇺🇸 | 🏀🇺🇸🏉
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/733
 
-#EXTINF:-1 tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png", ESPN 3 𝐇𝐃 🇺🇸 | 🏀🇺🇸🏉
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png", ESPN 3 𝐇𝐃 🇺🇸 | 🏀🇺🇸🏉
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/695 
 
-#EXTINF:-1 tvg-logo=""https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png", ESPN 3 𝐇𝐃 🇺🇸 (B) | 🏀🇺🇸🏉
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png", ESPN 3 𝐇𝐃 🇺🇸 (B) | 🏀🇺🇸🏉
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/695 
 http://190.61.102.67:8000/play/a054
 
