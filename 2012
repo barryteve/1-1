@@ -1,4 +1,5 @@
-#EXTM3U 
+#EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml, https://github.com/dracohe/INTERNACIONALES/blob/master/guide.xml?raw=true"
+
 
 #EXTINF: -1 tvg-id="La1.TV" tvg-name="La 1" tvg-chno="2" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="TDT", La 1
 https://ztnr.rtve.es/ztnr/1688877.m3u8
