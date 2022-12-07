@@ -1,0 +1,38 @@
+{
+  "name": "Plex TV",
+  "author": "Actualizada 22/03/2022",
+  "image": "https://i.imgur.com/lUhZfxS.png",
+  "url": "https://raw.githubusercontent.com/Jayoir/1/main/206",
+  "telegram": "PlutoTVes",
+  "info": "Indice realizado por sagerao",
+  "groups": [
+    {
+      "name": "Importar Listas",
+      "image": "https://i.imgur.com/YAaMwxN.png",
+      "stations": [
+        {
+          "name": "Plex - TV ALL | Añadir Lista",
+          "image": "https://i.imgur.com/YAaMwxN.png",
+          "url": "https://i.mjh.nz/Plex/all.m3u8",
+          "import": true
+        },
+        {
+          "name": "Plex - TV US | Añadir Lista",
+          "image": "https://i.imgur.com/YAaMwxN.png",
+          "url": "https://i.mjh.nz/Plex/us.m3u8",
+          "import": true
+        }
+      ]
+    },
+    {
+      "name": "Plex - TV ALL",
+      "image": "https://i.imgur.com/lUhZfxS.png",
+      "url": "https://i.mjh.nz/Plex/all.m3u8"
+    },
+    {
+      "name": "Plex - TV US",
+      "image": "https://i.imgur.com/lUhZfxS.png",
+      "url": "https://i.mjh.nz/Plex/us.m3u8"
+    }
+  ]
+}
