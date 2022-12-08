@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,group-title="Smiley (2022)8.8"
+
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNjFjNGExOTctYTc3Yi00NDYxLTk2M2EtMWIwZDA4NWFkOTAxXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_FMjpg_UX1000_.jpg",group-title="Smiley (2022)8.8",Smiley 1x01
 acestream://c533013966a5a8cf164dff25533e923613fadee0
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNjFjNGExOTctYTc3Yi00NDYxLTk2M2EtMWIwZDA4NWFkOTAxXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_FMjpg_UX1000_.jpg",group-title="Smiley (2022)8.8",Smiley 1x02
