@@ -46,15 +46,78 @@ http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/38221
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/38225
 #EXTINF:-1,EL TORO TV
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/35353
-#EXTINF:-1,8 CADIZ
-http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/38231
+#EXTINF:-1 tvg-id="TRECE" tvg-name="TRECE tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/2880px-Trece.svg.png" group-title="TDT",TRECE tv
+http://tribaliptv.com:8080/Gustavo/123456/5222
 
+
+#EXTINF:-1 tvg-id="FOX HD" tvg-name="FOX HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png" group-title="MOVISTAR",FOX HD 1080P
+http://tribaliptv.com:8080/Gustavo/123456/4864
+
+
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD 1080P" tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/axn-640x523.png" group-title="MOVISTAR",AXN HD 1080P
+http://tribaliptv.com:8080/Gustavo/123456/4867
+
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN SD" tvg-logo="https://visiona.tv/wp-content/uploads/2019/06/axn-640x523.png" group-title="MOVISTAR",AXN SD
+http://tribaliptv.com:8080/Gustavo/123456/4869
+#EXTINF:-1 tvg-id="AXN WHITE HD" tvg-name="AXN WHITE HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SET.png" group-title="MOVISTAR",AXN WHITE HD 1080P
+http://tribaliptv.com:8080/Gustavo/123456/4870
+
+#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TNT.png" group-title="MOVISTAR",TNT HD 1080P
+http://tribaliptv.com:8080/Gustavo/123456/4873
+
+#EXTINF:-1 tvg-id="COMEDYCENTRAL HD" tvg-name="COMEDY CENTRAL HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PCM.png" group-title="MOVISTAR",COMEDY CENTRAL HD 1080P
+http://tribaliptv.com:8080/Gustavo/123456/4876
+
+#EXTINF:-1 tvg-id="CALLE 13 HD" tvg-name="CALLE 13 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CL13.png" group-title="MOVISTAR",CALLE 13 HD 1080P
+http://tribaliptv.com:8080/Gustavo/123456/4879
+
+#EXTINF:-1 tvg-id="COSMO HD" tvg-name="COSMO HD 1080P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Cosmo_TV_logo.svg/2880px-Cosmo_TV_logo.svg.png" group-title="MOVISTAR",COSMO HD 1080P
+http://tribaliptv.com:8080/Gustavo/123456/4882
+
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AMC.png" group-title="MOVISTAR",AMC HD 1080P
+http://tribaliptv.com:8080/Gustavo/123456/4885
+
+#EXTINF:-1 tvg-id="SYFY HD" tvg-name="SYFY HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SCI-FI.png" group-title="MOVISTAR",SYFY HD 1080P
+http://tribaliptv.com:8080/Gustavo/123456/4888
+
+#EXTINF:-1 tvg-id="TCM HD" tvg-name="TCM HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TCM.png" group-title="MOVISTAR",TCM HD 1080P
+http://tribaliptv.com:8080/Gustavo/123456/4891
+
+#EXTINF:-1 tvg-id="paramountchannel.es" tvg-name="PARAMOUNT CHANNEL" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PARCH.png" group-title="MOVISTAR",PARAMOUNT CHANNEL
+http://tribaliptv.com:8080/Gustavo/123456/4894
+#EXTINF:-1 tvg-id="BOM" tvg-name="BOM CINE HD 720P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo-bom.svg/2560px-Logo-bom.svg.png" group-title="MOVISTAR",BOM CINE HD 720P
+http://tribaliptv.com:8080/Gustavo/123456/4895
+
+#EXTINF:-1 tvg-id="Somos" tvg-name="SOMOS HD 1080P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Somos.png" group-title="MOVISTAR",SOMOS HD 1080P
+http://tribaliptv.com:8080/Gustavo/123456/4897
+#EXTINF:-1 tvg-id="XTRM" tvg-name="XTRM HD 1080P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/XTRM_Espa%C3%B1a.png" group-title="MOVISTAR",XTRM HD 1080P
+http://tribaliptv.com:8080/Gustavo/123456/4898
+#EXTINF:-1 tvg-id="sundance.es" tvg-name="SUNDANCE HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SUNDAN.png" group-title="MOVISTAR",SUNDANCE HD 1080P
+http://tribaliptv.com:8080/Gustavo/123456/4899
+
+#EXTINF:-1 tvg-id="HOLLYWOOD HD" tvg-name="HOLLYWOOD HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HOLLYW.png" group-title="MOVISTAR",HOLLYWOOD HD 1080P
+http://tribaliptv.com:8080/Gustavo/123456/4901
+
+
+#EXTINF:-1 tvg-id="dark.es" tvg-name="DARK RED HD 1080P" tvg-logo="https://vfes-images.ott.kaltura.com/16dca77dcb2d432ba7bfb4c6eda3d23f_288X162.png" group-title="MOVISTAR",DARK RED HD 1080P
+http://tribaliptv.com:8080/Gustavo/123456/4904
+#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TQ3.png" group-title="MOVISTAR",ALQUILER 1 HD
+http://tribaliptv.com:8080/Gustavo/123456/4905
+#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TQ3.png" group-title="MOVISTAR",ALQUILER 2 HD
+http://tribaliptv.com:8080/Gustavo/123456/4906
+#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TQ3.png" group-title="MOVISTAR",ALQUILER 3 HD
+http://tribaliptv.com:8080/Gustavo/123456/4907
+#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 4 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TQ3.png" group-title="MOVISTAR",ALQUILER 4 HD
+http://tribaliptv.com:8080/Gustavo/123456/4908
+#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 5 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TQ3.png" group-title="MOVISTAR",ALQUILER 5 HD
+http://tribaliptv.com:8080/Gustavo/123456/4909
 
 
 #EXTINF:-1,MOVISTAR LA LIGA FHD ORIGINAL
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/57270
 #EXTINF:-1,MOVISTAR LA LIGA FHD
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/38302
+
 #EXTINF:-1,MOVISTAR LA LIGA FHD EXTRA 1
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/27480
 #EXTINF:-1,MOVISTAR LA LIGA FHD EXTRA 2
@@ -80,29 +143,20 @@ http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/200019
 
 #EXTINF:-1,DAZN MOVISTAR 1 FHD EXTRA
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/60387
-#EXTINF:-1,DAZN MOVISTAR 1 FHD (x265)
-http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/60388
 #EXTINF:-1,DAZN MOVISTAR 2 FHD EXTRA
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/60393
-#EXTINF:-1,DAZN MOVISTAR 2 FHD (x265)
-http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/60389
+
 #EXTINF:-1,MOVISTAR DAZN 3 FHD EXTRA
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/60397
-#EXTINF:-1,MOVISTAR DAZN 3 FHD (H265)
-http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/60398
+#
 #EXTINF:-1,MOVISTAR DAZN 4 FHD EXTRA
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/60402
-#EXTINF:-1,MOVISTAR DAZN 4 FHD (H265)
-http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/60403
-#EXTINF:-1,DAZN LA LIGA FHD EXTRA
-http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/207243
-#EXTINF:-1,DAZN LA LIGA 2 FHD EXTRA
-http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/207247
 
-#EXTINF:-1,#VAMOS FHD EXTRA
-http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/61279
-#EXTINF:-1,#VAMOS FHD x265
-http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/61280
+
+
+
+#EXTINF:-1,#VAMOS FHD
+http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/61278
 #EXTINF:-1,DEPORTES FHD EXTRA
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/61284
 #EXTINF:-1,DEPORTES FHD (x265)
