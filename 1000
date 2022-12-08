@@ -136,6 +136,18 @@ http://tribaliptv.com:8080/Gustavo/123456/4899
 http://tribaliptv.com:8080/Gustavo/123456/4901
 #EXTINF:-1 tvg-id="dark.es" tvg-name="DARK RED HD 1080P" tvg-logo="https://vfes-images.ott.kaltura.com/16dca77dcb2d432ba7bfb4c6eda3d23f_288X162.png" ,DARK RED HD 1080P
 http://tribaliptv.com:8080/Gustavo/123456/4904
+#EXTINF:0 type="stream" channelId="1359" name="MOVISTAR ACCION" group="CINEMA PREMIUM", MOVISTAR ACCION
+http://bulltv.us:2999/darlin/darlin/36605
+#EXTINF:0 type="stream" channelId="1360" name="MOVISTAR COMEDIA" group="CINEMA PREMIUM", MOVISTAR COMEDIA
+http://bulltv.us:2999/darlin/darlin/36606
+#EXTINF:0 type="stream" channelId="-1" name="MOVISTAR DISNEY" group="CINEMA PREMIUM", MOVISTAR DISNEY
+http://bulltv.us:2999/darlin/darlin/36608
+#EXTINF:0 type="stream" channelId="1361" name="MOVISTAR DRAMA" group="CINEMA PREMIUM", MOVISTAR DRAMA
+http://bulltv.us:2999/darlin/darlin/36609
+#EXTINF:0 type="stream" channelId="1378" name="MOVISTAR ESTRENOS" group="CINEMA PREMIUM", MOVISTAR ESTRENOS
+http://bulltv.us:2999/darlin/darlin/36610
+#EXTINF:0 type="stream" channelId="-1" name="MOVISTAR SERIEMANIA" group="CINEMA PREMIUM", MOVISTAR SERIEMANIA
+http://bulltv.us:2999/darlin/darlin/36611
 #EXTINF:-1 tvg-id="" tvg-name="ALQUILER 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TQ3.png" ,ALQUILER 1 HD
 http://tribaliptv.com:8080/Gustavo/123456/4905
 #EXTINF:-1 tvg-id="" tvg-name="ALQUILER 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TQ3.png" ,ALQUILER 2 HD
@@ -146,12 +158,6 @@ http://tribaliptv.com:8080/Gustavo/123456/4907
 http://tribaliptv.com:8080/Gustavo/123456/4908
 #EXTINF:-1 tvg-id="" tvg-name="ALQUILER 5 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TQ3.png" ,ALQUILER 5 HD
 http://tribaliptv.com:8080/Gustavo/123456/4909
-
-
-
-
-
-
 
 #EXTINF:-1 tvg-id="M. SERIES HD" tvg-name="MOVISTAR SERIES HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV2.png" ,Mov SERIES HD 1080P
 http://tribaliptv.com:8080/Gustavo/123456/4832
