@@ -42,7 +42,7 @@ acestream://f661c1bbdbfbcc1ece5753d213692e647bdf7725
 acestream://1ac81dab118b7252cf69b90005cc91ec99461e48
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMDI2OTgwMjctYTU5YS00YmUzLTgzOTgtZmUwNDY1MTZjZDk1XkEyXkFqcGdeQXVyMTIyMjI4OTkx._V1_FMjpg_UX1000_.jpg",group-title="fiebre cerebral (2022)7.3",fiebre cerebral 1x08
 acestream://850df6e7079d1c45354d98e9eb288d8bc0909f04
-#EXTINF:-1,group-title="Facil (2022)6.4"
+#EXTINF:-1,group-title="Facil (2022)6.4", group-logo="https://es.web.img2.acsta.net/pictures/22/08/29/23/59/1549717.jpg"
 #EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/22/08/29/23/59/1549717.jpg",group-title="Facil (2022)6.4",Facil 1x01
 acestream://ec8126de6cad54b0be1f7468dcade1d2ed70e505
 #EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/22/08/29/23/59/1549717.jpg",group-title="Facil (2022)6.4",Facil 1x02
