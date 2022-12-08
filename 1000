@@ -1,5 +1,8 @@
 #EXTM3U
 
+url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml, https://github.com/dracohe/INTERNACIONALES/blob/master/guide.xml?raw=true"
+
+
 #EXTINF:-1,MULTIDEPORTE
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/61266
 #EXTINF:-1,PORTADA
@@ -7,47 +10,68 @@ http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/93313
 
 
 
-#EXTINF:-1,LA 1 FHD EXTRA
+#EXTINF: -1 tvg-id="La1.TV" tvg-name="La 1" tvg-chno="2" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="TDT", La 1
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/44508
-#EXTINF:-1,LA 2 FHD EXTRA
+#EXTINF: -1 tvg-id="La2.es" tvg-name="La 2" tvg-chno="3" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/tve2.png" group-title="TDT", La 2
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/44510
-#EXTINF:-1,24H FHD
+#EXTINF: -1 tvg-id="24Horas.TV" tvg-name="24h" tvg-chno="8" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" group-title="TDT", 24h
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/38224
-#EXTINF:-1,ANTENA 3 FHD EXTRA
+#EXTINF: -1 tvg-id="Antena3.es" tvg-name="ANTENA 3" tvg-chno="5" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/a3.png" group-title="TDT", ANTENA 3
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/44512
-#EXTINF:-1,CUATRO FHD EXTRA
+#EXTINF: -1 tvg-id="Cuatro.es" tvg-name="CUATRO" tvg-chno="6" tvg-logo="https://i.ibb.co/FJch0Y9/Cuatro.jpg" group-title="TDT", CUATRO
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/44516
-#EXTINF:-1,TELECINCO FHD EXTRA
+#EXTINF: -1 tvg-id="Telecinco.es" tvg-name="TeleCinco 1080" tvg-chno="7" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" group-title="TDT", TeleCinco 1080
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/33427
-#EXTINF:-1,LA SEXTA FHD EXTRA
+#EXTINF: -1 tvg-id="LaSexta.es" tvg-name="La Sexta" tvg-chno="10" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/sexta.png" group-title="TDT", La Sexta
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/44519
+#EXTINF: -1 tvg-id="ETBD.TV" tvg-name="ETB Deportes" tvg-chno="38" tvg-logo="https://graph.facebook.com/deportes.eitb.kirolak/picture?width=200&height=200" group-title="TDT", ETB Deportes
+https://multimedia.eitb.eus/live-content/oka3hd-hls/master.m3u8
+#EXTINF: -1 tvg-id="ETB1.TV" tvg-name="ETB 1" tvg-chno="66" tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200" group-title="TDT", ETB 1
+https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
+#EXTINF: -1 tvg-id="ETB2.TV" tvg-name="ETB 2" tvg-chno="67" tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200" group-title="TDT", ETB 2
+https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
+#EXTINF: -1 tvg-id="NaTV.TV" tvg-name="Navarra TV" tvg-chno="59" tvg-logo="https://graph.facebook.com/NavarraTelevision/picture?width=200&height=200" group-title="TDT", Navarra TV HD
+https://pc-sumandocomunicacion-hls.flumotion.com/promecal/live1_720p/chunks.m3u8
+#EXTINF: -1 tvg-name="Euronews" tvg-chno="20" tvg-logo="https://graph.facebook.com/es.euronews/picture?width=200&height=200" group-title="TDT", Euronews
+https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF: -1 tvg-name="El País" tvg-chno="23" tvg-logo="https://graph.facebook.com/elpais/picture?width=200&height=200" group-title="TDT", El País
+https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
 
-#EXTINF:-1,MEGA FHD EXTRA
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="#0 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV3.png" group-title="MOVISTAR",#0 HD 1080P
+http://tribaliptv.com:8080/Gustavo/123456/4829
+#EXTINF: -1 tvg-id="Mega.es" tvg-name="Mega - 1080" tvg-chno="15" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mega.png" group-title="TDT", Mega - 1080
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/44520
 #EXTINF:-1,DMAX
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/18008
-#EXTINF:-1,BE MAD FHD
+#EXTINF: -1 tvg-id="BeMad.es" tvg-name="Be Mad" tvg-chno="22" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/bemad.png" group-title="TDT", Be Mad
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/38222
-#EXTINF:-1,NEOX FHD EXTRA
+#EXTINF: -1 tvg-id="Neox.es" tvg-name="Neox" tvg-chno="27" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/neox.png" group-title="TDT", Neox
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/44521
 #EXTINF:-1,TEN
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/18005
-#EXTINF:-1,DKISS
+#EXTINF: -1 tvg-id="DKiss.es" tvg-name="Dkiss" tvg-chno="31" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dkiss.png" group-title="TDT", Dkiss
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/18006
-#EXTINF:-1,ENERGY FHD
+#EXTINF: -1 tvg-id="Energy.es" tvg-name="Energy" tvg-chno="25" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/energy.png" group-title="TDT", Energy
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/38213
+#EXTINF: -1 tvg-id="I35.90898.schedulesdirect.org" tvg-name="A3 Series" tvg-chno="29" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/a3s.png" group-title="TDT", A3 Series
+http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1157
 #EXTINF:-1,NOVA FHD EXTRA
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/44524
 #EXTINF:-1,DIVINITY FHD
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/38219
-#EXTINF:-1,FDF FHD
+#EXTINF: -1 tvg-id="Factoría de Ficción" tvg-name="FDF" tvg-chno="21" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/fdft5.png" group-title="TDT", FDF
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/38221
 #EXTINF:-1,CANAL SUR
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/38225
-#EXTINF:-1,EL TORO TV
+#EXTINF: -1 tvg-id="ElToroTV.TV" tvg-name="El Toro TV" tvg-chno="17" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" group-title="TDT", El Toro TV
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/35353
 #EXTINF:-1 tvg-id="TRECE" tvg-name="TRECE tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/2880px-Trece.svg.png" group-title="TDT",TRECE tv
 http://tribaliptv.com:8080/Gustavo/123456/5222
+#EXTINF: -1 tvg-id="AragonD.TV" tvg-name="Aragón Deporte" tvg-chno="40" tvg-logo="https://graph.facebook.com/aragondeporte/picture?width=200&height=200" group-title="TDT", Aragón Deporte
+https://cartv.streaming.aranova.es/hls/live/adeportes_deporte4.m3u8
+
+
+
 
 
 #EXTINF:-1 tvg-id="FOX HD" tvg-name="FOX HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png" group-title="MOVISTAR",FOX HD 1080P
@@ -130,9 +154,10 @@ http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/17496
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/204813
 #EXTINF:-1,LA LIGA SMARTBANK TV 2 HD (EXTRA)
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/272482
-#EXTINF:-1,GOLTV FHD
+#EXTINF: -1 tvg-id="GOL PLAY" tvg-name="Gol Play - 1080" tvg-chno="11" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golplay.png" group-title="TDT", Gol Play - 1080
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/38418
-#EXTINF:-1,BARCATV FHD
+#EXTINF:-1,BARC#EXTINF: -1 tvg-id="BarcaTV.es" tvg-name="Barça TV" tvg-chno="12" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/btv.png" group-title="TDT", Barça TV
+ATV FHD
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/38424
 #EXTINF:-1,REAL MADRID TV FHD
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/17515
