@@ -1133,17 +1133,31 @@
 "stations":
 [
 {
-"name":"NBA TV 1",
+"name":"NBA TV IPTV",
+"image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/800px-NBA_TV.svg.png",
+"url":"http://watchindia.net:8880/live/14100/70701/2309.ts",
+"isHost": false
+},
+{
+"name":"NBA TV IPTV",
+"image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/800px-NBA_TV.svg.png",
+"url":"http://platin4k.eu:80/eagleiptv/SsFAljPDDi/6693",
+"isHost": false
+},
+{
+"name":"NBA TV ACES",
 "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/800px-NBA_TV.svg.png",
 "url":"acestream://e72d03fb9694164317260f684470be9ab781ed95",
 "isHost": false
 },
 {
-"name":"NBA TV 2",
+"name":"NBA TV ACES",
 "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/800px-NBA_TV.svg.png",
 "url":"acestream://6727865950a1fd0748649f35b17dc9081563ccea",
 "isHost": false
 },
+
+
 {
 "name":"#Vamos 1080 IPTV",
 "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/800px-NBA_TV.svg.png",
@@ -1282,9 +1296,24 @@
 "image": "https://w7.pngwing.com/pngs/999/188/png-transparent-roku-tennis-channel-television-channel-tennis-television-text-sport.png",
 "url":"acestream://9d7308f415682276a9b53ef1091a6d6260de5cc0",
 "isHost": false
+},
+
+{
+"name":"Tennis Channel UK",
+"image": "https://w7.pngwing.com/pngs/999/188/png-transparent-roku-tennis-channel-television-channel-tennis-television-text-sport.png",
+"url":"https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8",
+"isHost": false
+},
+{
+"name":"Tennis Channel",
+"image": "https://w7.pngwing.com/pngs/999/188/png-transparent-roku-tennis-channel-television-channel-tennis-television-text-sport.png",
+"url":"http://watchindia.net:8880/live/14100/70701/2358.ts",
+"isHost": false
 }
+
 ]
 },
+
 {
 "name":"MLB",
 "image":"https://images.pluto.tv/channels/5e66968a70f34c0007d050be/colorLogoPNG.png",
@@ -1296,7 +1325,7 @@
 {
 "name":"Canales Movistar",
 "image":"https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=6d80a6&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmovistarplus.png",
-"url":"https://raw.githubusercontent.com/ddgarciaf02/acestreamids/main/channels.txt",
+"url":"https://raw.githubusercontent.com/Jayoir/1/main/2012",
 "import":true
 },
 {
@@ -1331,9 +1360,21 @@
 "import": true
 },
 {
+"name":"Cine Mp4",
+"image": "https://www.eltiempo.com/files/image_640_428/uploads/2021/10/29/617c82b007708.jpeg",
+"url":"https://raw.githubusercontent.com/Jayoir/1/main/301",
+"import": true
+},
+{
 "name":"Marvel",
 "image": "https://i.pinimg.com/originals/b5/de/08/b5de08b9050e254b008dcc13d28ac42e.jpg",
 "url":"https://raw.githubusercontent.com/Jayoir/1/main/MARVEL",
+"import": true
+},
+{
+"name":"24h/7d",
+"image": "https://i.pinimg.com/originals/b5/de/08/b5de08b9050e254b008dcc13d28ac42e.jpg",
+"url":"https://raw.githubusercontent.com/Jayoir/1/main/247",
 "import": true
 }
 ]
@@ -1382,6 +1423,15 @@
 "url":"https://raw.githubusercontent.com/Jayoir/1/main/tdttvrad",
 "import": true
 },
+{
+"name": "TV USA",
+"image":"https://imagenesnoticias.com/wp-content/uploads/2018/10/BanderaEEUU30-465x465.jpg",
+"info": "This list does not host its own content, it just collects existing links",
+"url":"https://raw.githubusercontent.com/Jayoir/1/main/209",
+"import": true
+},
+
+
 {
 "name": "Pluto TV",
 "image": "https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2020/03/Pluto-TV-New-Logo.png",
@@ -1448,35 +1498,21 @@
 "name":"TV RESPALDO",
 "image":"https://t3.ftcdn.net/jpg/03/44/01/08/360_F_344010875_ue8VwwMUsziXgBN6PtmjTCf9pGYDvBNg.jpg",
 "info": "This list does not host its own content, it just collects existing links",
-"url":"https://raw.githubusercontent.com/agentesonoesmio/Nada/main/absolutamente%20nada.m3u",
+"url":"https://raw.githubusercontent.com/abrahamGalvin/IPTVDURO/369d193f1cfed7706dc56ee77226915412f179ac/listaduro",
 "import": true
 },
 {
-"name":"TV RESPALDO 2",
-"image":"https://t3.ftcdn.net/jpg/03/44/01/08/360_F_344010875_ue8VwwMUsziXgBN6PtmjTCf9pGYDvBNg.jpg",
-"info": "This list does not host its own content, it just collects existing links",
-"url":"https://raw.githubusercontent.com/xbc76/list/main/Tv",
-"import": true
-},
-{
-"name":"TV RESPALDO 3",
-"image":"https://t3.ftcdn.net/jpg/03/44/01/08/360_F_344010875_ue8VwwMUsziXgBN6PtmjTCf9pGYDvBNg.jpg",
-"info": "This list does not host its own content, it just collects existing links",
-"url":"https://raw.githubusercontent.com/xbc76/list/main/deportes",
-"import": true
-},
-{
-"name":"TV2 INTERNACIONAL",
+"name":"TV INTERNACIONAL",
 "image":"https://t3.ftcdn.net/jpg/03/44/01/08/360_F_344010875_ue8VwwMUsziXgBN6PtmjTCf9pGYDvBNg.jpg",
 "info": "This list does not host its own content, it just collects existing links",
 "url":"https://iptv-org.github.io/iptv/index.m3u",
 "import": true
 },
 {
-"name":"TV3 RESPALDO",
+"name":"TV INTERNACIONAL",
 "image":"https://t3.ftcdn.net/jpg/03/44/01/08/360_F_344010875_ue8VwwMUsziXgBN6PtmjTCf9pGYDvBNg.jpg",
 "info": "This list does not host its own content, it just collects existing links",
-"url":"https://raw.githubusercontent.com/xbc76/list/main/Tv",
+"url":"https://raw.githubusercontent.com/Jayoir/1/main/208",
 "import": true
 },
 ]
