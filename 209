@@ -130,26 +130,15 @@ http://dmtn.tv:8080/steveny5997/54332611/370883
 https://ktiptv.cf:443/2209077624/12345/511497
 #EXTINF:-1 tvg-id="astrosupersport.my" tvg-name="MY| ASTRO SUPERSPORT UHD" tvg-logo="http://dmtn.tv:8080/images/a2b5Si5RUzwHv3AXDp_uXyZfzew-QFIeraA6HPyOym2DEUpUal3DNEpLQfRHsjx1Hu4-uMxJF3nqatdLCexTbg.png" ,ASTRO SUPERSPORT UHD
 http://dmtn.tv:8080/steveny5997/54332611/379977
-#EXTINF:-1 tvg-id="7183" tvg-name="" tvg-logo="" ,ASTRO SuperSports 1
-http://dmtn.tv:8080/steveny5997/54332611/379978
-#EXTINF:-1 tvg-id="7183" tvg-name="" tvg-logo="" ,ASTRO SuperSports 2
-http://dmtn.tv:8080/steveny5997/54332611/379980
-#EXTINF:-1 tvg-id="7183" tvg-name="" tvg-logo="" ,ASTRO SuperSports 3
-http://dmtn.tv:8080/steveny5997/54332611/379982
+
 #EXTINF:-1 tvg-id="7183" tvg-name="" tvg-logo="" ,ASTRO SuperSports 4
 http://dmtn.tv:8080/steveny5997/54332611/379984
-#EXTINF:-1 tvg-id="7183" tvg-name=" tvg-logo="" ,ASTRO SuperSports 5
-http://dmtn.tv:8080/steveny5997/54332611/379986
+
 #EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="UK: Sky Sports Main Event UHD" tvg-logo="" ,Sky Sports Main Event UHD
 http://dmtn.tv:8080/steveny5997/54332611/42989
 #EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="UK: SKY SPORTS MAIN EVENT FHD (50FPS)" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8QGlBscHe-y0Qrj6JgKHdCoqhmXnvolBKQOgqBHxXs6ZySqu-Y_APTUSaLbSHYAT9w.png" ,Sky Sports Main Event
 http://dmtn.tv:8080/steveny5997/54332611/257073
-#EXTINF:-1  tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-football-uk.png",Sky Sports Football
-http://dmtn.tv:8080/steveny5997/54332611/257074
-#EXTINF:-1  tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-premier-league-uk.png",Sky Sports Premier League
-http://dmtn.tv:8080/steveny5997/54332611/257075
-#EXTINF:-1  tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-f1-uk.png",Sky Sports F1
-http://dmtn.tv:8080/steveny5997/54332611/370896
+
 #EXTINF:-1  tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-news-uk.png",Sky Sports News
 http://dmtn.tv:8080/steveny5997/54332611/158235
 #EXTINF:-1  tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bt-sport-1-uk.png",BT Sports 1
