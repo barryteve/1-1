@@ -1,4 +1,20 @@
 #EXTM3U
+#EXTINF:-1,group-title="Shameless"
+#EXTINF:-1 tvg-logo="https://thenationroar.com/wp-content/uploads/2020/10/thisss.jpg" group-title="Shameless" tvg-id="vacio", S01 C01 Shameless
+magnet:?xt=urn:btih:dc05a4990fea4bc9c58731268047e64ee67bbc39&dn=Shameless%20-%20Temp.1%20%5BHDTV%5D%5BCap.101%5D%5BSpanish%5D&tr=http%3A%2F%2Fwww.spanishtracker.com%3A2710%2Fannounce&tr=http%3A%2F%2Ftracker.prq.to%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce
+#EXTINF:-1 tvg-logo="https://thenationroar.com/wp-content/uploads/2020/10/thisss.jpg" group-title="Shameless" tvg-id="vacio", S01 C02 Shameless
+magnet:?xt=urn:btih:ee2a9aafcea62cd993eb207602e3ae0c90f88018&dn=Shameless%20-%20Temp.1%20%5BHDTV%5D%5BCap.102%5D%5BSpanish%5D&tr=http%3A%2F%2Fwww.spanishtracker.com%3A2710%2Fannounce&tr=http%3A%2F%2Ftracker.prq.to%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce
+#EXTINF:-1 tvg-logo="https://thenationroar.com/wp-content/uploads/2020/10/thisss.jpg" group-title="Shameless" tvg-id="vacio", S01 C03 Shameless
+magnet:?xt=urn:btih:e022a7656c2fb561245bfd0aebc18cf526c77721&dn=Shameless%20-%20Temp.1%20%5BHDTV%5D%5BCap.103%5D%5BSpanish%5D&tr=http%3A%2F%2Fwww.spanishtracker.com%3A2710%2Fannounce&tr=http%3A%2F%2Ftracker.prq.to%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce
+#EXTINF:-1 tvg-logo="https://thenationroar.com/wp-content/uploads/2020/10/thisss.jpg" group-title="Shameless" tvg-id="vacio", S01 C04 Shameless
+magnet:?xt=urn:btih:a273d0420473a814242615513f4ee99d2d379653&dn=Shameless%20-%20Temp.1%20%5BHDTV%5D%5BCap.104%5D%5BSpanish%5D&tr=http%3A%2F%2Fwww.spanishtracker.com%3A2710%2Fannounce&tr=http%3A%2F%2Ftracker.prq.to%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce
+#EXTINF:-1 tvg-logo="https://thenationroar.com/wp-content/uploads/2020/10/thisss.jpg" group-title="Shameless" tvg-id="vacio", S01 C05 Shameless
+magnet:?xt=urn:btih:57486393b97e1558ecbc988d4cc60f84567d3990&dn=Shameless%20-%20Temp.1%20%5BHDTV%5D%5BCap.105%5D%5BSpanish%5D&tr=http%3A%2F%2Fwww.spanishtracker.com%3A2710%2Fannounce&tr=http%3A%2F%2Ftracker.prq.to%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce
+#EXTINF:-1 tvg-logo="https://thenationroar.com/wp-content/uploads/2020/10/thisss.jpg" group-title="Shameless" tvg-id="vacio", S01 C06 Shameless
+magnet:?xt=urn:btih:40ad6369543b6c81f329db97689e87040513df5d&dn=Shameless%20-%20Temp.1%20%5BHDTV%5D%5BCap.106%5D%5BSpanish%5D&tr=http%3A%2F%2Fwww.spanishtracker.com%3A2710%2Fannounce&tr=http%3A%2F%2Ftracker.prq.to%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce
+#EXTINF:-1 tvg-logo="https://thenationroar.com/wp-content/uploads/2020/10/thisss.jpg" group-title="Shameless" tvg-id="vacio", S01 C07 Shameless
+magnet:?xt=urn:btih:36d89ca7915912514058249f67633098bd3e12d7&dn=Shameless%20-%20Temp.1%20%5BHDTV%5D%5BCap.107%5D%5BSpanish%5D&tr=http%3A%2F%2Fwww.spanishtracker.com%3A2710%2Fannounce&tr=http%3A%2F%2Ftracker.prq.to%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=http%3A%2F%2Ftracker.publicbt.com%3A80%2Fannounce
+
 #EXTINF:-1,group-title="Smiley (2022)8.8"
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNjFjNGExOTctYTc3Yi00NDYxLTk2M2EtMWIwZDA4NWFkOTAxXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_FMjpg_UX1000_.jpg",group-title="Smiley (2022)8.8",Smiley 1x01
 acestream://c533013966a5a8cf164dff25533e923613fadee0
@@ -6448,26 +6464,26 @@ acestream://b1ece324c6a0d4a1e4371fa1d707df63300f10c2
 acestream://4ed6eb4d989e4a56bee3fedc54e64249355465e6
 #EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/05/17/12/06/2914716.jpg"group-title="Atlantic Crossing(2020)",Atlantic Crossing 1X08 
 acestream://bbdc0cf2866bedbb638fd1050fb821be66a20f8b
-#EXTINF:-1,group-title=""
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/11/24/13/58/4456990.jpg"group-title="",La chica de Oslo 1X01 
+#EXTINF:-1,group-title="La chica de Oslo"
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/11/24/13/58/4456990.jpg"group-title="La chica de Oslo",La chica de Oslo 1X01 
 acestream://3e9730c5ab71d386729623a134999987d5eb21a7
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/11/24/13/58/4456990.jpg"group-title="",La chica de Oslo 1X02 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/11/24/13/58/4456990.jpg"group-title="La chica de Oslo",La chica de Oslo 1X02 
 acestream://3e9730c5ab71d386729623a134999987d5eb21a7
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/11/24/13/58/4456990.jpg"group-title="",La chica de Oslo 1X03 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/11/24/13/58/4456990.jpg"group-title="La chica de Oslo",La chica de Oslo 1X03 
 acestream://3e9730c5ab71d386729623a134999987d5eb21a7
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/11/24/13/58/4456990.jpg"group-title="",La chica de Oslo 1X04 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/11/24/13/58/4456990.jpg"group-title="La chica de Oslo",La chica de Oslo 1X04 
 acestream://3e9730c5ab71d386729623a134999987d5eb21a7
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/11/24/13/58/4456990.jpg"group-title="",La chica de Oslo 1X05 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/11/24/13/58/4456990.jpg"group-title="La chica de Oslo",La chica de Oslo 1X05 
 acestream://6aa83591b999c1abdd8273e138ff1d7bac2452b0
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/11/24/13/58/4456990.jpg"group-title="",La chica de Oslo 1X06 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/11/24/13/58/4456990.jpg"group-title="La chica de Oslo",La chica de Oslo 1X06 
 acestream://6aa83591b999c1abdd8273e138ff1d7bac2452b0
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/11/24/13/58/4456990.jpg"group-title="",La chica de Oslo 1X07 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/11/24/13/58/4456990.jpg"group-title="La chica de Oslo",La chica de Oslo 1X07 
 acestream://6aa83591b999c1abdd8273e138ff1d7bac2452b0
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/11/24/13/58/4456990.jpg"group-title="",La chica de Oslo 1X08 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/11/24/13/58/4456990.jpg"group-title="La chica de Oslo",La chica de Oslo 1X08 
 acestream://cae06cb90a3d1093b03eb2bc045e5e6978bda51a
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/11/24/13/58/4456990.jpg"group-title="",La chica de Oslo 1X09 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/11/24/13/58/4456990.jpg"group-title="La chica de Oslo",La chica de Oslo 1X09 
 acestream://cae06cb90a3d1093b03eb2bc045e5e6978bda51a
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/11/24/13/58/4456990.jpg"group-title="",La chica de Oslo 1X10 
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/21/11/24/13/58/4456990.jpg"group-title="La chica de Oslo",La chica de Oslo 1X10 
 acestream://cae06cb90a3d1093b03eb2bc045e5e6978bda51a
 #EXTINF:-1,group-title="El símbolo perdido(2021)"
 #EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/11/04/10/40/2675745.jpg"group-title="El símbolo perdido(2021)",El símbolo perdido 1X01 
