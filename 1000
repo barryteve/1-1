@@ -69,26 +69,24 @@ http://tribaliptv.com:8080/Gustavo/123456/5193
 #EXTINF:-1 tvg-id="CANAL ODISEA" tvg-name="ODISEA UHD 4K" tvg-logo="https://vfes-images.ott.kaltura.com/a1cf0c24983149fca35af0f6e0e8e9a8_288X162.png" ,ODISEA UHD 4K
 http://tribaliptv.com:8080/Gustavo/123456/5195
 
-#EXTINF:-1 tvg-id="" tvg-name="HORSE TV SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NAUTIC.png" ,HORSE TV SD
-http://tribaliptv.com:8080/Gustavo/123456/5198
+#EXTINF:-1 tvg-id="TOROS HD" tvg-name="TOROS TV HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CFERIA.png" ,TOROS TV HD 1080P
+http://tribaliptv.com:8080/Gustavo/123456/5208
 #EXTINF:-1 tvg-id="CAZAyPESCA HD" tvg-name="CAZA Y PESCA HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CAZPES.png" ,CAZA Y PESCA HD 1080P
 http://tribaliptv.com:8080/Gustavo/123456/5199
-
 #EXTINF:-1 tvg-id="Cazavision" tvg-name="CAZAVISIÓN SD" tvg-logo="https://i.ibb.co/f8vddXR/280x75-carousel-cazavision.png" ,CAZAVISIÓN SD
 http://tribaliptv.com:8080/Gustavo/123456/5202
 #EXTINF:-1 tvg-id="IBERALIA TV" tvg-name="IBERALIA TV HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/IBERAL.png" ,IBERALIA TV HD 1080P
 http://tribaliptv.com:8080/Gustavo/123456/5203
-
 #EXTINF:-1 tvg-id="IBERALIA TV" tvg-name="IBERALIA 100% CAZA HD 1080P" tvg-logo="https://www.redipo.es/imagenes/tv/canales_tv/iberaliacaza.png" ,IBERALIA 100% CAZA HD 1080P
 http://tribaliptv.com:8080/Gustavo/123456/5205
 #EXTINF:-1 tvg-id="IBERALIA TV" tvg-name="IBERALIA 100% PESCA HD 1080P" tvg-logo="https://www.redipo.es/imagenes/tv/canales_tv/iberaliapesca.png" ,IBERALIA 100% PESCA HD 1080P
 http://tribaliptv.com:8080/Gustavo/123456/5206
 #EXTINF:-1 tvg-id="Nautical Channel" tvg-name="NAUTICAL CHANNEL SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NAUTIC.png" ,NAUTICAL CHANNEL SD
 http://tribaliptv.com:8080/Gustavo/123456/5207
-#EXTINF:-1 tvg-id="TOROS HD" tvg-name="TOROS TV HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CFERIA.png" ,TOROS TV HD 1080P
-http://tribaliptv.com:8080/Gustavo/123456/5208
 #EXTINF:-1 tvg-id="" tvg-name="ALL FLAMENCO" tvg-logo="https://institutoculturagitana.es/wp-content/uploads/2022/01/descarga.png" ,ALL FLAMENCO
 http://tribaliptv.com:8080/Gustavo/123456/11192
+#EXTINF:-1 tvg-id="" tvg-name="HORSE TV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Horseandcountry.PNG/200px-Horseandcountry.PNG" ,HORSE TV SD
+http://tribaliptv.com:8080/Gustavo/123456/5198
 #EXTINF:-1 tvg-id="blaze.es" tvg-name="BLAZE HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BIOGRA.png" ,BLAZE HD 1080P
 http://tribaliptv.com:8080/Gustavo/123456/5211
 
@@ -194,7 +192,7 @@ http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/61284
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/61285
 #EXTINF:-1 tvg-logo="https://satcesc.com/wp-content/uploads/2016/02/eurosport1-hd.jpg" ,EUROSPORT 1 FHD
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/61297
-#EXTINF:-1 tvg-logo="https://satcesc.com/wp-content/uploads/2016/02/eurosport1-hd.jpg" ,EUROSPORT 2 FHD
+#EXTINF:-1 tvg-logo="https://satcesc.com/wp-content/uploads/2016/02/eurosport2-hd.jpg" ,EUROSPORT 2 FHD
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/61300
 #EXTINF:-1 tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/ESBC410000577_20221109T010727.png" ,TELEDEPORTE FHD
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/61275
@@ -208,8 +206,7 @@ http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/61272
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/187925
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mev.png" ,ELLAS #V FHD (SOLO EVENTOS)
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/198107
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mde.png" ,DEPORTES 1 FHD (SOLO EVENTOS)
-http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/61288
+
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mde2.png" ,DEPORTES 2 FHD (SOLO EVENTOS)
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/61291
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mde3.png" ,DEPORTES 3 FHD (SOLO EVENTOS)
@@ -220,17 +217,17 @@ http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/199470
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/199471
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mde6.png" ,DEPORTES 6 HD (SOLO EVENTOS)
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/199472
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" ,MOVISTAR LA LIGA FHD ORIGINAL
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" ,MOV LA LIGA FHD ORIGINAL
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/57270
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" ,MOVISTAR LA LIGA FHD
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" ,MOV LA LIGA FHD
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/38302
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" ,MOVISTAR LA LIGA FHD EXTRA 1
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" ,MOV LA LIGA FHD EXTRA 1
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/27480
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" ,MOVISTAR LA LIGA FHD EXTRA 2
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" ,MOV LA LIGA FHD EXTRA 2
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/28190
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" ,MOVISTAR LA LIGA FHD EXTRA 
+#EXTINF:-1 tvg-logo="https://laligatvbar.es/meta-image.jpgV" ,MOV LA LIGA TV BAR 
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/17495
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" ,MOVISTAR LA LIGA FHD (SÓLO EVENTOS)
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" ,MOV LA LIGA FHD (SÓLO EVENTOS)
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/17496
 #EXTINF:-1 tvg-logo="https://satcesc.com/wp-content/uploads/2005/02/DAZN-LaLiga.jpg" ,DAZN LIGA FHD EXTRA
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/207243
@@ -258,28 +255,27 @@ http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/60402
 http://tribaliptv.com:8080/Gustavo/123456/11497
 
 http://tribaliptv.com:8080/Gustavo/123456/11498
-#EXTINF:-1 tvg-id="" tvg-name="DBIKE HD 1080P" tvg-logo="https://dbikechannel.es/wp-content/uploads/2020/02/cropped-d_bike1-e1581972680494.png" ,DBIKE HD 1080P
+#EXTINF:-1 tvg-id="" tvg-name="DBIKE HD 1080P" tvg-logo="https://scontent-nrt1-1.xx.fbcdn.net/v/t39.30808-1/306003060_477501744387570_7732724330913337283_n.png" ,DBIKE HD 1080P
 http://tribaliptv.com:8080/Gustavo/123456/11665
 #EXTINF:-1 tvg-id="" tvg-name="U-BEAT HD 1080P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/U-Beat.svg/1600px-U-Beat.svg.png" ,U-BEAT HD 1080P
 http://tribaliptv.com:8080/Gustavo/123456/4951
 
 
-#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="MOVISTAR LIGA DE CAMPEONES HD 1080P (H.265)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" ,MOVISTAR LIGA DE CAMPEONES HD 1080P (H.265)
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="MOVISTAR LIGA DE CAMPEONES HD 1080P (H.265)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" ,MOV LIGA DE CAMPEONES HD 1080P (H.265)
 http://tribaliptv.com:8080/Gustavo/123456/11193
-#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="MOVISTAR LIGA DE CAMPEONES HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" ,MOVISTAR LIGA DE CAMPEONES HD 1080P
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="MOVISTAR LIGA DE CAMPEONES HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" ,MOV LIGA DE CAMPEONES HD 1080P
 http://tribaliptv.com:8080/Gustavo/123456/4953
-#EXTINF:-1 tvg-id="M.LCAMPEONES HD#" tvg-name="MOVISTAR LIGA DE CAMPEONES HD 1080P B" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" ,MOVISTAR LIGA DE CAMPEONES HD 1080P B
+#EXTINF:-1 tvg-id="M.LCAMPEONES HD#" tvg-name="MOVISTAR LIGA DE CAMPEONES HD 1080P B" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" ,MOV LIGA DE CAMPEONES HD 1080P B
 http://tribaliptv.com:8080/Gustavo/123456/4954
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES UHD 4K" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAUHD.png" ,MOVISTAR LIGA DE CAMPEONES UHD 4K
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES UHD 4K" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAUHD.png" ,MOV LIGA DE CAMPEONES UHD 4K
 http://tribaliptv.com:8080/Gustavo/123456/12401
-#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="MOVISTAR LIGA DE CAMPEONES HD 1080P (FIBRA)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" ,MOVISTAR LIGA DE CAMPEONES HD 1080P (FIBRA)
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="MOVISTAR LIGA DE CAMPEONES HD 1080P (FIBRA)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" ,MOV LIGA DE CAMPEONES HD 1080P (FIBRA)
 http://tribaliptv.com:8080/Gustavo/123456/4955
-#EXTINF:-1 tvg-id="" tvg-name="LIGA CAMPEONES FIBRA 3 ORANGE" tvg-logo="" ,LIGA CAMPEONES FIBRA 3 ORANGE
+#EXTINF:-1 tvg-id="" tvg-name="LIGA CAMPEONES FIBRA 3 ORANGE" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" ,MOV LIGA CAMPEONES 
 http://tribaliptv.com:8080/Gustavo/123456/11139
 #EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA 2 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png" ,MOVISTAR LA LIGA 2 HD 1080P
 http://tribaliptv.com:8080/Gustavo/123456/4975
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA 2 HD 1080P (FIBRA)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png" ,MOVISTAR LA LIGA 2 HD 1080P (FIBRA)
-http://tribaliptv.com:8080/Gustavo/123456/4976
+
 #EXTINF:-1 tvg-id="LaLiga SmartbankTV" tvg-name="LaLiga SmartbankTV 1 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS2.png" ,LaLiga SmartbankTV 1 HD 1080P
 http://tribaliptv.com:8080/Gustavo/123456/11667
 #EXTINF:-1 tvg-id="LaLiga SmartbankTV" tvg-name="LaLiga SmartbankTV 1 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS2.png" ,LaLiga SmartbankTV 1 SD
