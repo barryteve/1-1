@@ -128,11 +128,11 @@ http://watchindia.net:8880/live/14100/70701/2185.ts
 http://dmtn.tv:8080/steveny5997/54332611/370883
 #EXTINF:-1 tvg-id="USANetworkWest.us" tvg-name="USA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/uu/usa_network_east.png" ,USA
 https://ktiptv.cf:443/2209077624/12345/511497
-#EXTINF:-1 tvg-id="astrosupersport.my" tvg-name="MY| ASTRO SUPERSPORT UHD" tvg-logo="http://dmtn.tv:8080/images/a2b5Si5RUzwHv3AXDp_uXyZfzew-QFIeraA6HPyOym2DEUpUal3DNEpLQfRHsjx1Hu4-uMxJF3nqatdLCexTbg.png" ,ASTRO SUPERSPORT UHD
-http://dmtn.tv:8080/steveny5997/54332611/379977
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 1" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="ASTRO",MY: Astro SuperSport 1 (QS)
+http://quality-restream.com:8080/asiantv/f2ba3832f4/146068
+#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 4" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png" group-title="ASTRO",MY: Astro SuperSport 4 (QS)
+http://quality-restream.com:8080/asiantv/f2ba3832f4/157558
 
-#EXTINF:-1 tvg-id="7183" tvg-name="" tvg-logo="" ,ASTRO SuperSports 4
-http://dmtn.tv:8080/steveny5997/54332611/379984
 
 #EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="UK: Sky Sports Main Event UHD" tvg-logo="" ,Sky Sports Main Event UHD
 http://dmtn.tv:8080/steveny5997/54332611/42989
