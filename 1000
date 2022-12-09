@@ -41,9 +41,8 @@ http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/18005
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/18006
 #EXTINF: -1 tvg-id="Energy.es" tvg-name="Energy" tvg-chno="25" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/energy.png" , Energy
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/38213
-#EXTINF: -1 tvg-id="I35.90898.schedulesdirect.org" tvg-name="A3 Series" tvg-chno="29" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/a3s.png" , A3 Series
-http://51.222.43.170:8001/NrMYyaLx2SR9/dvnT3YXM3paW/1157
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/a3s.png",NOVA FHD EXTRA
+
+#EXTINF:-1 tvg-logo="http://img3.wikia.nocookie.net/__cb20121106123931/logopedia/images/c/c6/Nova_logo_2012.png",NOVA FHD EXTRA
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/44524
 #EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-lX74FUG7BwM/T57tDlv3HsI/AAAAAAAAADg/Y81o-ceruo4/s1600/25738_logo-de-divinity.png",DIVINITY FHD
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/38219
@@ -88,7 +87,8 @@ http://tribaliptv.com:8080/Gustavo/123456/5206
 http://tribaliptv.com:8080/Gustavo/123456/5207
 #EXTINF:-1 tvg-id="TOROS HD" tvg-name="TOROS TV HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CFERIA.png" ,TOROS TV HD 1080P
 http://tribaliptv.com:8080/Gustavo/123456/5208
-
+#EXTINF:-1 tvg-id="" tvg-name="ALL FLAMENCO" tvg-logo="https://institutoculturagitana.es/wp-content/uploads/2022/01/descarga.png" ,ALL FLAMENCO
+http://tribaliptv.com:8080/Gustavo/123456/11192
 #EXTINF:-1 tvg-id="blaze.es" tvg-name="BLAZE HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BIOGRA.png" ,BLAZE HD 1080P
 http://tribaliptv.com:8080/Gustavo/123456/5211
 
@@ -160,8 +160,7 @@ http://tribaliptv.com:8080/Gustavo/123456/4838
 #EXTINF:-1 tvg-id="M+ LOS OSCAR" tvg-name="MOVISTAR OSCARS HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MOSCAR.png" ,Mov OSCARS HD 1080P
 http://tribaliptv.com:8080/Gustavo/123456/4841
 
-#EXTINF:-1 tvg-id="" tvg-name="ALL FLAMENCO" tvg-logo="https://institutoculturagitana.es/wp-content/uploads/2022/01/descarga.png" ,ALL FLAMENCO
-http://tribaliptv.com:8080/Gustavo/123456/11192
+
 
 #EXTINF:-1 tvg-id="M. ACCION HD" tvg-name="MOVISTAR ACCION HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" ,Mov ACCION HD 1080P
 http://tribaliptv.com:8080/Gustavo/123456/4843
@@ -187,67 +186,70 @@ http://tribaliptv.com:8080/Gustavo/123456/4861
 #EXTINF:-1 tvg-id="M. Fest" tvg-name="MOVISTAR FEST HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MONFIR.png" ,Mov FEST HD 1080P
 http://tribaliptv.com:8080/Gustavo/123456/4863
 
-#EXTINF:-1,#VAMOS FHD
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=c42857&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fvamos.png" ,#VAMOS FHD
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/61278
-#EXTINF:-1,DEPORTES FHD EXTRA
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 1 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" ,MOVISTAR DEPORTES
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/61284
-#EXTINF:-1,DEPORTES FHD (x265)
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 1 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" ,MOVISTAR DEPORTES
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/61285
-#EXTINF:-1,EUROSPORT 1 FHD
+#EXTINF:-1 tvg-logo="https://satcesc.com/wp-content/uploads/2016/02/eurosport1-hd.jpg" ,EUROSPORT 1 FHD
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/61297
-#EXTINF:-1,EUROSPORT 2 FHD
+#EXTINF:-1 tvg-logo="https://satcesc.com/wp-content/uploads/2016/02/eurosport1-hd.jpg" ,EUROSPORT 2 FHD
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/61300
-#EXTINF:-1,TELEDEPORTE FHD
+#EXTINF:-1 tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/ESBC410000577_20221109T010727.png" ,TELEDEPORTE FHD
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/61275
-#EXTINF:-1,U-BEAT FHD
+#EXTINF:-1 tvg-logo="https://www.marketingdirecto.com/wp-content/uploads/2018/11/ubeat.jpg" ,U-BEAT FHD
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/61273
-#EXTINF:-1,ESPORT 3
+#EXTINF:-1 tvg-logo="https://img2.pngdownload.id/20181117/iwf/kisspng-esport3-tvc-tv3-logo-television-fileesport3-svg-wikimedia-commons-5bf0ad22c4f001.9924099715424996188067.jpg" ,ESPORT 3
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/200793
-#EXTINF:-1,MOVISTAR GOLF FHD
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=048acf&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmgo.png" ,MOVISTAR GOLF FHD
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/61272
-#EXTINF:-1,WORLD PADEL TOUR TV (Emite solo en Eventos)
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/0b/b1/d9/0bb1d95799601287d7737f6173955a26.jpg" ,WORLD PADEL TOUR TV (Emite solo en Eventos)
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/187925
-#EXTINF:-1,ELLAS #V FHD (SOLO EVENTOS)
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mev.png" ,ELLAS #V FHD (SOLO EVENTOS)
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/198107
-#EXTINF:-1,DEPORTES 1 FHD (SOLO EVENTOS)
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mde.png" ,DEPORTES 1 FHD (SOLO EVENTOS)
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/61288
-#EXTINF:-1,DEPORTES 2 FHD (SOLO EVENTOS)
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mde2.png" ,DEPORTES 2 FHD (SOLO EVENTOS)
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/61291
-#EXTINF:-1,DEPORTES 3 FHD (SOLO EVENTOS)
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mde3.png" ,DEPORTES 3 FHD (SOLO EVENTOS)
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/61294
-#EXTINF:-1,DEPORTES 4 HD (SOLO EVENTOS)
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mde4.png" ,DEPORTES 4 HD (SOLO EVENTOS)
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/199470
-#EXTINF:-1,DEPORTES 5 HD (SOLO EVENTOS)
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mde5.png" ,DEPORTES 5 HD (SOLO EVENTOS)
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/199471
-#EXTINF:-1,DEPORTES 6 HD (SOLO EVENTOS)
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mde6.png" ,DEPORTES 6 HD (SOLO EVENTOS)
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/199472
-#EXTINF:-1,MULTIDEPORTE
-http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/61266
-#EXTINF:-1,MOVISTAR LA LIGA FHD ORIGINAL
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" ,MOVISTAR LA LIGA FHD ORIGINAL
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/57270
-#EXTINF:-1,MOVISTAR LA LIGA FHD
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" ,MOVISTAR LA LIGA FHD
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/38302
-#EXTINF:-1,MOVISTAR LA LIGA FHD EXTRA 1
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" ,MOVISTAR LA LIGA FHD EXTRA 1
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/27480
-#EXTINF:-1,MOVISTAR LA LIGA FHD EXTRA 2
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" ,MOVISTAR LA LIGA FHD EXTRA 2
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/28190
-#EXTINF:-1,MOVISTAR LA LIGA FHD EXTRA 
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" ,MOVISTAR LA LIGA FHD EXTRA 
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/17495
-#EXTINF:-1,MOVISTAR LA LIGA FHD (SÓLO EVENTOS)
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" ,MOVISTAR LA LIGA FHD (SÓLO EVENTOS)
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/17496
-#EXTINF:-1,LA LIGA SMARTBANK TV FHD
+#EXTINF:-1 tvg-logo="https://satcesc.com/wp-content/uploads/2005/02/DAZN-LaLiga.jpg" ,DAZN LIGA FHD EXTRA
+http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/207243
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll2.png" ,DAZN LIGA 2 FHD EXTRA
+http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/207247
+
+#EXTINF:-1 tvg-logo="https://static1.diariosur.es/www/multimedia/201907/30/media/cortadas/liga-smart-bank-kHMB-U80877895812lSF-1248x770@RC.jpg" ,LA LIGA SMARTBANK TV FHD
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/204813
-#EXTINF:-1,LA LIGA SMARTBANK TV 2 HD (EXTRA)
+#EXTINF:-1 tvg-logo="https://static1.diariosur.es/www/multimedia/201907/30/media/cortadas/liga-smart-bank-kHMB-U80877895812lSF-1248x770@RC.jpg" ,LA LIGA SMARTBANK TV 2 HD (EXTRA)
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/272482
 #EXTINF: -1 tvg-id="GOL PLAY" tvg-name="Gol Play - 1080" tvg-chno="11" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golplay.png" , Gol Play - 1080
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/38418
-#EXTINF:-1,DAZN MOVISTAR 1 FHD EXTRA
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN MOVISTAR 1 FHD EXTRA
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/60387
-#EXTINF:-1,DAZN MOVISTAR 2 FHD EXTRA
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" ,DAZN MOVISTAR 2 FHD EXTRA
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/60393
-#EXTINF:-1,MOVISTAR DAZN 3 FHD EXTRA
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-3-es-2524.png" ,MOVISTAR DAZN 3 FHD EXTRA
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/60397
-##EXTINF:-1,MOVISTAR DAZN 4 FHD EXTRA
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-4-es-2525.png" ,MOVISTAR DAZN 4 FHD EXTRA
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/60402
 
 
