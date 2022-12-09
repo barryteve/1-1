@@ -147,22 +147,14 @@ http://dmtn.tv:8080/steveny5997/54332611/268402
 http://dmtn.tv:8080/steveny5997/54332611/268403
 #EXTINF:-1  tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bt-sport-3-uk.png",BT Sports 3
 http://dmtn.tv:8080/steveny5997/54332611/268404
-#EXTINF:-1  tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bt-sport-espn-uk.png",BT Sports ESPN
-https://ktiptv.cf:443/2209077624/12345/869642
 
 #EXTINF:-1 tvg-id="beinsports.my" tvg-name="MY| Be〓 SPORTS FHD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXygAomraa0QMezNho-6kfJHLy67UECyyeq2GPRWkZBr1M.png" ,Bein SPORTS
 http://dmtn.tv:8080/steveny5997/54332611/379996
-#EXTINF:-1 tvg-id="" tvg-name="MY| Be〓 SPORTS 2 FHD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyjhFRYZsa93dx0cbc16NLMVf3Y4AevFijt1_VPUq3yhc.png" ,Bein SPORTS 2
-http://dmtn.tv:8080/steveny5997/54332611/379998
-#EXTINF:-1 tvg-id="beinsportsmax.my" tvg-name="MY| Be〓 SPORTS 3 FHD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXymSyr0X-Tev19MUqEQ9KxaXQhcVMJ_CUVKAWNH-ER8Zm.png" ,Bein SPORTS 3
-http://dmtn.tv:8080/steveny5997/54332611/380000
-#EXTINF:-1 tvg-id="English - Now Sports Premier League 1" tvg-name="HK: NOW PREMIER SPORTS 1 HD" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8WHsafw848LfrAuhx83IzTqN94Pk9yWbgD3z84LUfDV0.png" ,NOW PREMIER SPORTS 1
-http://dmtn.tv:8080/steveny5997/54332611/370044
-#EXTINF:-1 tvg-id="English - Now Sports 4K" tvg-name="HK: NOW SPORTS 4K" tvg-logo="http://dmtn.tv:8080/images/a2b5Si5RUzwHv3AXDp_uXzh9RutRV0huYAlgQ25GGpyxNEi5a1F4QYM_EV1QgoAB.png" ,NOW SPORTS 4K
-http://dmtn.tv:8080/steveny5997/54332611/370051
+
+
 #EXTINF:-1 tvg-id="ESPN" tvg-name="US: ESPN 1 HD (V)" tvg-logo="http://dmtn.tv:8080/images/sCLlyf_T5fr5AkvPufk0WYmAdo3sqjNq8W2ZeaQfI7XGeLQ0gduaCM-ABRKMwcRy5rv8ykC3vf6nKEaFwoz0NQ.png" ,ESPN 1
 http://dmtn.tv:8080/steveny5997/54332611/375889
-#EXTINF:-1 tvg-id="" tvg-name="US: ESPN 2 HD (V)" tvg-logo="" ,ESPN 2
+#EXTINF:-1 tvg-id="" tvg-name="US: ESPN 2 HD (V)" tvg-logo="https://static.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png" ,ESPN 2
 http://dmtn.tv:8080/steveny5997/54332611/375890
 #EXTINF:-1 tvg-id="foxsports1.us" tvg-name="US: FOX SPORTS 1 FHD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXym3Z2_mFW7N-EL-kpFhE-KSCK8rd8vDk3kOcYI92AQaX.png" ,FOX SPORTS 1
 http://dmtn.tv:8080/steveny5997/54332611/149363
@@ -176,85 +168,84 @@ http://dmtn.tv:8080/steveny5997/54332611/71503
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BNz897q/ESPN-wordmark-svg.png",ESPN 𝐇𝐃 🇨🇱 | ⚽🇪🇺🇪🇸🇬🇧🇫🇷🇮🇹🇩🇪🏉🏀🇺🇸🚴🏍️🏎️🎾 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BNz897q/ESPN-wordmark-svg.png",ESPN 𝐇𝐃 🇨🇱  
 http://45.232.211.196:1080/play/a058
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png",ESPN 2 𝐇𝐃 🇨🇱 | ⚽🇪🇺🇪🇸🇬🇧🇫🇷🇮🇹🇩🇪🏉🏀🇺🇸🚴🏍️🏎️🎾 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png",ESPN 2 𝐇𝐃 🇨🇱  
 http://45.232.211.196:1080/play/a04l
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png",ESPN 2 𝐇𝐃 🇨🇱 (B) | ⚽🇪🇺🇪🇸🇬🇧🇫🇷🇮🇹🇩🇪🏉🏀🇺🇸🚴🏍️🏎️🎾 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png",ESPN 2 𝐇𝐃 🇨🇱 (B) 
 http://45.232.211.196:1080/play/a045
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",ESPN 3 𝐇𝐃 🇨🇱 | ⚽🇪🇺🇪🇸🇬🇧🇫🇷🇮🇹🇩🇪🏉🏀🇺🇸🚴🏍️🏎️🎾 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",ESPN 3 𝐇𝐃 🇨🇱 
 http://45.232.211.196:1080/play/a04i
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/12Q8t2T/ESPN4.png",ESPN 4 𝐇𝐃 🇨🇱 | ⚽🇪🇺🇪🇸🇬🇧🇫🇷🇮🇹🇩🇪🏉🏀🇺🇸🚴🏍️🏎️🎾
+#EXTINF:-1 tvg-logo="https://i.ibb.co/12Q8t2T/ESPN4.png",ESPN 4 𝐇𝐃 🇨🇱 
 http://45.232.211.196:1080/play/a051
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/d7jsP54/espnextra.png",ESPN Extra 𝐇𝐃 🇨🇱 | ⚽🇪🇺🇪🇸🇬🇧🇫🇷🇮🇹🇩🇪🏉🏀🇺🇸🚴🏍️🏎️🎾
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d7jsP54/espnextra.png",ESPN Extra 𝐇𝐃 🇨🇱 
 http://45.232.211.196:1080/play/a05i
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BNz897q/ESPN-wordmark-svg.png",ESPN 𝐇𝐃 🇲🇽 | ⚽🇪🇺²🇫🇷🇮🇹🇦🇷🏉🏍️🏀🇺🇸
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BNz897q/ESPN-wordmark-svg.png",ESPN 𝐇𝐃 🇲🇽 
 http://190.61.102.67:8000/play/a053
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BNz897q/ESPN-wordmark-svg.png",ESPN 𝐇𝐃 🇲🇽 (B) | ⚽🇪🇺²🇫🇷🇦🇷🏉🏍️🏀🇺🇸
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BNz897q/ESPN-wordmark-svg.png",ESPN 𝐇𝐃 🇲🇽 (B) 
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/696
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png",ESPN 2 𝐇𝐃 🇲🇽 | ⚽🇪🇺²🇫🇷🇮🇹🇦🇷🏉🏍️🏀🇺🇸
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png",ESPN 2 𝐇𝐃 🇲🇽 
 http://190.61.102.67:8000/play/a055
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png",ESPN 2 𝐇𝐃 🇲🇽 (B) | ⚽🇪🇺²🇫🇷🇦🇷🏉🏍️🏀🇺🇸
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png",ESPN 2 𝐇𝐃 🇲🇽 (B) 
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/694
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",ESPN 3 𝐇𝐃 🇲🇽 | ⚽🇪🇺²🇫🇷🇦🇷🏉🏍️🏀🇺🇸
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",ESPN 3 𝐇𝐃 🇲🇽 
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/695
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",ESPN 3 𝐇𝐃 🇲🇽 (B)| ⚽🇪🇺²🇫🇷🇦🇷🏉🏍️🏀🇺🇸
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png",ESPN 3 𝐇𝐃 🇲🇽 
 http://190.61.102.67:8000/play/a054
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/12Q8t2T/ESPN4.png",ESPN 4 𝐇𝐃 🇲🇽 | ⚽🇪🇺²🇫🇷🇦🇷🏉🏍️🏀🇺🇸
+#EXTINF:-1 tvg-logo="https://i.ibb.co/12Q8t2T/ESPN4.png",ESPN 4 𝐇𝐃 🇲🇽 
 http://190.61.102.67:8000/play/a079
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/d7jsP54/espnextra.png",ESPN Extra 𝐇𝐃 🇲🇽 | ⚽🇪🇺²🇫🇷🇦🇷🏉🏍️🏀🇺🇸
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d7jsP54/espnextra.png",ESPN Extra 𝐇𝐃 🇲🇽 
 http://190.61.102.67:8000/play/a04i
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/BNz897q/ESPN-wordmark-svg.png",ESPN 𝐇𝐐 🇦🇷 | ⚽🇪🇸🇬🇧🇫🇷🇮🇹🇩🇪🏉🏀🇺🇸🚴🏍️🏎️🎾
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BNz897q/ESPN-wordmark-svg.png",ESPN 𝐇𝐐 🇦🇷 
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1124
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/12Q8t2T/ESPN4.png",ESPN 4 𝐒𝐃 🇪🇨 | ⚽🇪🇺🇪🇸🇬🇧🇫🇷🇮🇹🇩🇪🏉🏀🇺🇸🚴🏍️🏎️🎾
+#EXTINF:-1 tvg-logo="https://i.ibb.co/12Q8t2T/ESPN4.png",ESPN 4 𝐒𝐃 🇪🇨 
 http://45.232.211.196:1080/play/a026
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gJ1Hh9f/espn-proc.png",ESPN 𝐇𝐃 🇺🇸 | 🏀🇺🇸
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gJ1Hh9f/espn-proc.png",ESPN 𝐇𝐃 🇺🇸 
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/520
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png",ESPN 2 𝐇𝐃 🇺🇸 | 🏀🇺🇸🏉
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png",ESPN 2 𝐇𝐃 🇺🇸 
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/733
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png", ESPN 3 𝐇𝐃 🇺🇸 | 🏀🇺🇸🏉
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png", ESPN 3 𝐇𝐃 🇺🇸 
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/695 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png", ESPN 3 𝐇𝐃 🇺🇸 (B) | 🏀🇺🇸🏉
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png", ESPN 3 𝐇𝐃 🇺🇸 (B) 
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/695 
 http://190.61.102.67:8000/play/a054
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/1024px-ESPN_U_logo.svg.png",ESPN U 𝐇𝐃 🇺🇸 | 🏀🇺🇸🏉
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ESPN_U_logo.svg/1024px-ESPN_U_logo.svg.png",ESPN U 𝐇𝐃 🇺🇸 
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1191
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/1280px-ESPNews.svg.png",ESPN News 𝐇𝐃 🇺🇸
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/1191
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png",TUND 𝐇𝐐 🇲🇽 | ⚽🇪🇺¹ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png",TUND 𝐇𝐐 🇲🇽  
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/722
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pvxFSnN/zona-futbol.png",Zona Fútbol 𝐒𝐃 🇲🇽 | ⚽🇪🇺¹ 
-http://bgapp.live/play/futvall-142.php?id=dW5pdmRlcA==&token=bñackghos&f=.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHFJ7b2/b2-proc.png",Bein Sports Ñ 𝐇𝐐 🇺🇸🇪🇸 | ⚽🇹🇷🇫🇷🚴 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHFJ7b2/b2-proc.png",Bein Sports Ñ 𝐇𝐐 🇺🇸🇪🇸
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/487
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHFJ7b2/b2-proc.png",Bein Sports Xtra Ñ 𝐇𝐃 🇺🇸🇪🇸 | ⚽🇹🇷🇫🇷🚴
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHFJ7b2/b2-proc.png",Bein Sports Xtra Ñ 𝐇𝐃 🇺🇸🇪🇸
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHFJ7b2/b2-proc.png",Bein Sports 𝐇𝐐 🇺🇸 | ⚽🇹🇷🇫🇷🚴 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHFJ7b2/b2-proc.png",Bein Sports 𝐇𝐐 🇺🇸
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/487
