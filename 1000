@@ -174,7 +174,16 @@ http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/61297
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/61300
 #EXTINF:-1 tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/ESBC410000577_20221109T010727.png" ,TELEDEPORTE FHD
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/61275
-
+#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg",DAZN F1 SD
+http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/60408
+#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg",DAZN F1  HD
+http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/60409
+#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg",DAZN F1 FHD
+http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/60410
+#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg",DAZN F1  FHD EXTRA
+http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/60411
+#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg",DAZN F1 4K 
+http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/60412
 
 #EXTINF:-1 tvg-logo="https://img2.pngdownload.id/20181117/iwf/kisspng-esport3-tvc-tv3-logo-television-fileesport3-svg-wikimedia-commons-5bf0ad22c4f001.9924099715424996188067.jpg" ,ESPORT 3
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/200793
@@ -338,11 +347,11 @@ http://tribaliptv.com:8080/Gustavo/123456/4988
 http://tribaliptv.com:8080/Gustavo/123456/4989
 
 
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 1 HD 1080P" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem2.png" ,MOVISTAR DEPORTES
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 1 HD 1080P" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mde.png" ,MOVISTAR DEPORTES
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/61284
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 1 HD 1080P" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem2.png" ,MOVISTAR DEPORTES
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 1 HD 1080P" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mde.png" ,MOVISTAR DEPORTES
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/61285
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mde2.png" ,DEPORTES 2 FHD (SOLO EVENTOS)
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem2.png" ,DEPORTES 2 FHD (SOLO EVENTOS)
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/61291
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=ff9e95&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmdem3.png" ,DEPORTES 3 FHD (SOLO EVENTOS)
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/61294
@@ -352,7 +361,7 @@ http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/199470
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/199471
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=cdf512&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmdem6.png" ,DEPORTES 6 HD (SOLO EVENTOS)
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/199472
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 1 HD 1080P" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem.png" ,MOVISTAR DEPORTES 1 HD 1080P
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 1 HD 1080P" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem1.png" ,MOVISTAR DEPORTES 1 HD 1080P
 http://tribaliptv.com:8080/Gustavo/123456/4990
 #EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 2 HD 1080P" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem2.png" ,MOVISTAR DEPORTES 2 HD 1080P
 http://tribaliptv.com:8080/Gustavo/123456/4992
@@ -373,7 +382,7 @@ http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/61273
 http://tribaliptv.com:8080/Gustavo/123456/4951
 #EXTINF:-1 tvg-id="" tvg-name="Go&Go Tv hd 1080P" tvg-logo="https://goandgotv.com/images/GO_AND_GO_.png" ,Go&Go Tv hd 1080P
 http://tribaliptv.com:8080/Gustavo/123456/11497
-#EXTINF:-1 tvg-id="" tvg-name="DBIKE HD 1080P" tvg-logo="https://scontent-nrt1-1.xx.fbcdn.net/v/t39.30808-1/306003060_477501744387570_7732724330913337283_n.png" ,DBIKE HD 1080P
+#EXTINF:-1 tvg-id="" tvg-name="DBIKE HD 1080P" tvg-logo="https://dbikechannel.es/wp-content/uploads/2022/09/logodbike2020.png" ,DBIKE HD 1080P
 http://tribaliptv.com:8080/Gustavo/123456/11665
 
 
