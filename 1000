@@ -186,16 +186,7 @@ http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/187925
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01970-mypadeldigitals-mypadeltv-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mev.png" ,ELLAS #V FHD (SOLO EVENTOS)
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/198107
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mde2.png" ,DEPORTES 2 FHD (SOLO EVENTOS)
-http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/61291
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=ff9e95&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmdem3.png" ,DEPORTES 3 FHD (SOLO EVENTOS)
-http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/61294
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=f897b7&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmdem4.png" ,DEPORTES 4 HD (SOLO EVENTOS)
-http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/199470
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=72&h=54&tok=5153c2&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmdem5.png" ,DEPORTES 5 HD (SOLO EVENTOS)
-http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/199471
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=cdf512&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmdem6.pn" ,DEPORTES 6 HD (SOLO EVENTOS)
-http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/199472
+
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" ,MOV LA LIGA FHD ORIGINAL
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/57270
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" ,MOV LA LIGA FHD
@@ -318,6 +309,16 @@ http://tribaliptv.com:8080/Gustavo/123456/4989
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/61284
 #EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 1 HD 1080P" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem2.png" ,MOVISTAR DEPORTES
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/61285
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mde2.png" ,DEPORTES 2 FHD (SOLO EVENTOS)
+http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/61291
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=ff9e95&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmdem3.png" ,DEPORTES 3 FHD (SOLO EVENTOS)
+http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/61294
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=f897b7&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmdem4.png" ,DEPORTES 4 HD (SOLO EVENTOS)
+http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/199470
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=72&h=54&tok=5153c2&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmdem5.png" ,DEPORTES 5 HD (SOLO EVENTOS)
+http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/199471
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=cdf512&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmdem6.png" ,DEPORTES 6 HD (SOLO EVENTOS)
+http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/199472
 #EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 1 HD 1080P" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem.png" ,MOVISTAR DEPORTES 1 HD 1080P
 http://tribaliptv.com:8080/Gustavo/123456/4990
 #EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 2 HD 1080P" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem2.png" ,MOVISTAR DEPORTES 2 HD 1080P
