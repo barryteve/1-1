@@ -164,9 +164,9 @@ http://tribaliptv.com:8080/Gustavo/123456/4863
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=c42857&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fvamos.png" ,#VAMOS FHD
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/61278
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 1 HD 1080P" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem2.png" ,MOVISTAR DEPORTES
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 1 HD 1080P" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mde.png" ,MOVISTAR DEPORTES
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/61284
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 1 HD 1080P" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem2.png" ,MOVISTAR DEPORTES
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 1 HD 1080P" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mde.png" ,MOVISTAR DEPORTES
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/61285
 #EXTINF:-1 tvg-logo="https://satcesc.com/wp-content/uploads/2016/02/eurosport1-hd.jpg" ,EUROSPORT 1 FHD
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/61297
@@ -185,10 +185,6 @@ http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/60411
 #EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg",DAZN F1 4K 
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/60412
 
-#EXTINF:-1 tvg-logo="https://img2.pngdownload.id/20181117/iwf/kisspng-esport3-tvc-tv3-logo-television-fileesport3-svg-wikimedia-commons-5bf0ad22c4f001.9924099715424996188067.jpg" ,ESPORT 3
-http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/200793
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=048acf&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmgo.png" ,MOVISTAR GOLF FHD
-http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/61272
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/0b/b1/d9/0bb1d95799601287d7737f6173955a26.jpg" ,WORLD PADEL TOUR TV (Emite solo en Eventos)
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/187925
 #EXTINF:-1 channel-id="samsung-ESBC3500003YK" tvg-id="ESBC3500003YK" tvg-chno="4507" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/ESBC3500003YK_20221109T010945.png" ,MyPadel TV
@@ -210,7 +206,7 @@ http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/28190
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/17496
 #EXTINF:-1 tvg-logo="https://satcesc.com/wp-content/uploads/2005/02/DAZN-LaLiga.jpg" ,DAZN LIGA FHD EXTRA
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/207243
-#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA 2 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL2.png" ,DAZN LA LIGA 2 HD 1080P
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA 2 HD 1080P" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll2.png" ,DAZN LA LIGA 2 HD 1080P
 http://tribaliptv.com:8080/Gustavo/123456/11653
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznll2.png" ,DAZN LIGA 2 FHD EXTRA
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/207247
@@ -220,13 +216,13 @@ http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/17495
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/204813
 #EXTINF:-1 tvg-logo="https://static1.diariosur.es/www/multimedia/201907/30/media/cortadas/liga-smart-bank-kHMB-U80877895812lSF-1248x770@RC.jpg" ,LA LIGA SMARTBANK TV 2 HD (EXTRA)
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/272482
-#EXTINF:-1 tvg-id="LaLiga SmartbankTV" tvg-name="LaLiga SmartbankTV 1 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS2.png" ,LaLiga SmartbankTV 1 HD 1080P
+#EXTINF:-1 tvg-id="LaLiga SmartbankTV" tvg-name="LaLiga SmartbankTV 1 HD 1080P" tvg-logo="https://static1.diariosur.es/www/multimedia/201907/30/media/cortadas/liga-smart-bank-kHMB-U80877895812lSF-1248x770@RC.jpg" ,LaLiga SmartbankTV 1 HD 1080P
 http://tribaliptv.com:8080/Gustavo/123456/11667
-#EXTINF:-1 tvg-id="LaLiga SmartbankTV" tvg-name="LaLiga SmartbankTV 1 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS2.png" ,LaLiga SmartbankTV 1 SD
+#EXTINF:-1 tvg-id="LaLiga SmartbankTV" tvg-name="LaLiga SmartbankTV 1 SD" tvg-logo="https://static1.diariosur.es/www/multimedia/201907/30/media/cortadas/liga-smart-bank-kHMB-U80877895812lSF-1248x770@RC.jpg" ,LaLiga SmartbankTV 1 SD
 http://tribaliptv.com:8080/Gustavo/123456/11672
-#EXTINF:-1 tvg-id="" tvg-name="LaLiga SmartbankTV 2 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS2.png" ,LaLiga SmartbankTV 2 HD 1080P
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga SmartbankTV 2 HD 1080P" tvg-logo="https://static1.diariosur.es/www/multimedia/201907/30/media/cortadas/liga-smart-bank-kHMB-U80877895812lSF-1248x770@RC.jpg" ,LaLiga SmartbankTV 2 HD 1080P
 http://tribaliptv.com:8080/Gustavo/123456/12403
-#EXTINF:-1 tvg-id="LaLiga SmartbankTV" tvg-name="LaLiga SmartbankTV 3 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS3.png" ,LaLiga SmartbankTV 3 HD 1080P
+#EXTINF:-1 tvg-id="LaLiga SmartbankTV" tvg-name="LaLiga SmartbankTV 3 HD 1080P" tvg-logo="https://static1.diariosur.es/www/multimedia/201907/30/media/cortadas/liga-smart-bank-kHMB-U80877895812lSF-1248x770@RC.jpg" ,LaLiga SmartbankTV 3 HD 1080P
 http://tribaliptv.com:8080/Gustavo/123456/12402
 
 #EXTINF: -1 tvg-id="GOL PLAY" tvg-name="Gol Play - 1080" tvg-chno="11" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golplay.png" , Gol Play - 1080
@@ -384,7 +380,10 @@ http://tribaliptv.com:8080/Gustavo/123456/4951
 http://tribaliptv.com:8080/Gustavo/123456/11497
 #EXTINF:-1 tvg-id="" tvg-name="DBIKE HD 1080P" tvg-logo="https://dbikechannel.es/wp-content/uploads/2022/09/logodbike2020.png" ,DBIKE HD 1080P
 http://tribaliptv.com:8080/Gustavo/123456/11665
-
+#EXTINF:-1 tvg-logo="https://img2.pngdownload.id/20181117/iwf/kisspng-esport3-tvc-tv3-logo-television-fileesport3-svg-wikimedia-commons-5bf0ad22c4f001.9924099715424996188067.jpg" ,ESPORT 3
+http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/200793
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=048acf&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmgo.png" ,MOVISTAR GOLF FHD
+http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/61272
 
 #EXTINF:-1 tvg-id="DreamWorks HD" tvg-name="DREAMWORKS HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DWSP.png" ,DREAMWORKS HD 1080P
 http://tribaliptv.com:8080/Gustavo/123456/5000
