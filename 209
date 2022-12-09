@@ -124,7 +124,7 @@ http://watchindia.net:8880/live/14100/70701/2304.ts
 #EXTINF:-1 tvg-id="vh1.us" tvg-name="VH1" tvg-logo="http://watchindia.net/images/channels/usa/VH1.png" ,VH1
 http://watchindia.net:8880/live/14100/70701/2185.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="USA NBA HD NETWORK (L)" tvg-logo="" ,NBA HD NETWORK
+#EXTINF:-1 tvg-id="" tvg-name="USA NBA HD NETWORK (L)" tvg-logo="http://watchindia.net/images/channels/usa/NBA_TV.png" ,NBA HD NETWORK
 http://dmtn.tv:8080/steveny5997/54332611/370883
 #EXTINF:-1 tvg-id="USANetworkWest.us" tvg-name="USA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/uu/usa_network_east.png" ,USA
 https://ktiptv.cf:443/2209077624/12345/511497
@@ -134,7 +134,7 @@ http://quality-restream.com:8080/asiantv/f2ba3832f4/146068
 http://quality-restream.com:8080/asiantv/f2ba3832f4/157558
 
 
-#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="UK: Sky Sports Main Event UHD" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8QGlBscHe-y0Qrj6JgKHdCoqhmXnvolBKQOgqBHxXs6ZySqu-Y_APTUSaLbSHYAT9w.pn" ,Sky Sports Main Event UHD
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="UK: Sky Sports Main Event UHD" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8QGlBscHe-y0Qrj6JgKHdCoqhmXnvolBKQOgqBHxXs6ZySqu-Y_APTUSaLbSHYAT9w.png" ,Sky Sports Main Event UHD
 http://dmtn.tv:8080/steveny5997/54332611/42989
 #EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="UK: SKY SPORTS MAIN EVENT FHD (50FPS)" tvg-logo="http://dmtn.tv:8080/images/WmE_wKP8ekRxgLNxVxbA8QGlBscHe-y0Qrj6JgKHdCoqhmXnvolBKQOgqBHxXs6ZySqu-Y_APTUSaLbSHYAT9w.png" ,Sky Sports Main Event
 http://dmtn.tv:8080/steveny5997/54332611/257073
