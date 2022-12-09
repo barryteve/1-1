@@ -3,22 +3,26 @@
 http://watchindia.net:8880/live/14100/70701/2161.ts
 #EXTINF:-1 tvg-id="espn2.us" tvg-name="ESPN2" tvg-logo="http://watchindia.net/images/channels/usa/ESPN2.png" ,ESPN2
 http://watchindia.net:8880/live/14100/70701/2307.ts
-#EXTINF:-1 tvg-id="mlbnetwork.us" tvg-name="MLB Network" tvg-logo="http://watchindia.net/images/channels/usa/MLB_Network.png" ,MLB Network
-http://watchindia.net:8880/live/14100/70701/2308.ts
-#EXTINF:-1 tvg-id="tennischannel.us" tvg-name="Tennis Channel" tvg-logo="http://watchindia.net/images/channels/usa/Tennis_Channel.png" ,Tennis Channel
-http://watchindia.net:8880/live/14100/70701/2358.ts
+#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="US: FOX SPORTS 1 FHD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXym3Z2_mFW7N-EL-kpFhE-KSCK8rd8vDk3kOcYI92AQaX.png" ,FOX SPORTS 1
+http://dmtn.tv:8080/steveny5997/54332611/149363
+#EXTINF:-1 tvg-id="foxsports2.us" tvg-name="US: FOX SPORTS 2 FHD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyqrDHKv6recC3u-FXvRtjBhXJZtbry8DxEPInMO3PIsy.png" ,FOX SPORTS 2
+http://dmtn.tv:8080/steveny5997/54332611/117277
+#EXTINF:-1 tvg-id="nbcsportsnetwork.us" tvg-name="NBC Sports Network" tvg-logo="https://watchindia.net/images/channels/usa/NBC_Sports.png" ,NBC Sports Network
+http://watchindia.net:8880/live/14100/70701/2266.ts
 #EXTINF:-1 tvg-id="nbatv.us" tvg-name="NBA TV" tvg-logo="http://watchindia.net/images/channels/usa/NBA_TV.png" ,NBA TV
 http://watchindia.net:8880/live/14100/70701/2309.ts
+#EXTINF:-1 tvg-id="mlbnetwork.us" tvg-name="MLB Network" tvg-logo="http://watchindia.net/images/channels/usa/MLB_Network.png" ,MLB Network
+http://watchindia.net:8880/live/14100/70701/2308.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA NBA HD NETWORK (L)" tvg-logo="http://watchindia.net/images/channels/usa/NBA_TV.png" ,NBA HD NETWORK
+http://dmtn.tv:8080/steveny5997/54332611/370883
 #EXTINF:-1 tvg-id="nflnetwork.us" tvg-name="NFL Network" tvg-logo="http://watchindia.net/images/channels/usa/NFL_Network.png" ,NFL Network
 http://watchindia.net:8880/live/14100/70701/2165.ts
 #EXTINF:-1 tvg-id="nflredzone.us" tvg-name="NFL RedZone" tvg-logo="https://watchindia.net/images/channels/usa/NFL_RedZone.png" ,NFL RedZone
 http://watchindia.net:8880/live/14100/70701/2160.ts
-#EXTINF:-1 tvg-id="nbcsportsnetwork.us" tvg-name="NBC Sports Network" tvg-logo="https://watchindia.net/images/channels/usa/NBC_Sports.png" ,NBC Sports Network
-http://watchindia.net:8880/live/14100/70701/2266.ts
-#EXTINF:-1 tvg-id="" tvg-name="USA NBA HD NETWORK (L)" tvg-logo="http://watchindia.net/images/channels/usa/NBA_TV.png" ,NBA HD NETWORK
-http://dmtn.tv:8080/steveny5997/54332611/370883
-#EXTINF:-1 tvg-id="USANetworkWest.us" tvg-name="USA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/uu/usa_network_east.png" ,USA
-https://ktiptv.cf:443/2209077624/12345/511497
+#EXTINF:-1 tvg-id="tennischannel.us" tvg-name="Tennis Channel" tvg-logo="http://watchindia.net/images/channels/usa/Tennis_Channel.png" ,Tennis Channel
+http://watchindia.net:8880/live/14100/70701/2358.ts
+
+
 #EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 1" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" ,MY: Astro SuperSport 1 (QS)
 http://quality-restream.com:8080/asiantv/f2ba3832f4/146068
 #EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 4" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png" ,MY: Astro SuperSport 4 (QS)
@@ -41,10 +45,7 @@ http://dmtn.tv:8080/steveny5997/54332611/379996
 http://dmtn.tv:8080/steveny5997/54332611/375889
 #EXTINF:-1 tvg-id="" tvg-name="US: ESPN 2 HD (V)" tvg-logo="https://static.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png" ,ESPN 2
 http://dmtn.tv:8080/steveny5997/54332611/375890
-#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="US: FOX SPORTS 1 FHD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXym3Z2_mFW7N-EL-kpFhE-KSCK8rd8vDk3kOcYI92AQaX.png" ,FOX SPORTS 1
-http://dmtn.tv:8080/steveny5997/54332611/149363
-#EXTINF:-1 tvg-id="foxsports2.us" tvg-name="US: FOX SPORTS 2 FHD" tvg-logo="http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyqrDHKv6recC3u-FXvRtjBhXJZtbry8DxEPInMO3PIsy.png" ,FOX SPORTS 2
-http://dmtn.tv:8080/steveny5997/54332611/117277
+
 #EXTINF:-1 tvg-id="nbcsportsbayarea.us" tvg-name="US: NBC SPORTS BAY AREA HD" tvg-logo="http://dmtn.tv:8080/images/3MLIud8m5vRPxA2j4f15tZBFY3Im81QVgKO0wKg3jYgcxVa_VC5pVtZg88sz0OoU5nxG7o6NfPTXHlr6URY0Nw.png" ,US: NBC SPORTS BAY AREA
 http://dmtn.tv:8080/steveny5997/54332611/71503
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BNz897q/ESPN-wordmark-svg.png",ESPN 𝐇𝐃 🇨🇱  
