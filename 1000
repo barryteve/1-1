@@ -186,9 +186,9 @@ http://tribaliptv.com:8080/Gustavo/123456/4863
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=c42857&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fvamos.png" ,#VAMOS FHD
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/61278
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 1 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" ,MOVISTAR DEPORTES
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 1 HD 1080P" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem2.png" ,MOVISTAR DEPORTES
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/61284
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 1 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" ,MOVISTAR DEPORTES
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 1 HD 1080P" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem2.png" ,MOVISTAR DEPORTES
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/61285
 #EXTINF:-1 tvg-logo="https://satcesc.com/wp-content/uploads/2016/02/eurosport1-hd.jpg" ,EUROSPORT 1 FHD
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/61297
@@ -204,6 +204,9 @@ http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/200793
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/61272
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/0b/b1/d9/0bb1d95799601287d7737f6173955a26.jpg" ,WORLD PADEL TOUR TV (Emite solo en Eventos)
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/187925
+#EXTINF:-1 channel-id="samsung-ESBC3500003YK" tvg-id="ESBC3500003YK" tvg-chno="4507" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/ESBC3500003YK_20221109T010945.png" ,MyPadel TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01970-mypadeldigitals-mypadeltv-samsungspain/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mev.png" ,ELLAS #V FHD (SOLO EVENTOS)
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/198107
 
@@ -225,7 +228,7 @@ http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/38302
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/27480
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" ,MOV LA LIGA FHD EXTRA 2
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/28190
-#EXTINF:-1 tvg-logo="https://laligatvbar.es/meta-image.jpgV" ,MOV LA LIGA TV BAR 
+#EXTINF:-1 tvg-logo="https://laligatvbar.es/meta-image.jpg" ,MOV LA LIGA TV BAR 
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/17495
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" ,MOV LA LIGA FHD (SÓLO EVENTOS)
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/17496
@@ -346,25 +349,25 @@ http://tribaliptv.com:8080/Gustavo/123456/12197
 http://tribaliptv.com:8080/Gustavo/123456/12198
 #EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA 2 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png" ,MOVISTAR LA LIGA 2 SD
 http://tribaliptv.com:8080/Gustavo/123456/4977
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 1 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" ,MOVISTAR DEPORTES 1 HD 1080P
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 1 HD 1080P" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem.png" ,MOVISTAR DEPORTES 1 HD 1080P
 http://tribaliptv.com:8080/Gustavo/123456/4990
 
 
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 2 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" ,MOVISTAR DEPORTES 2 HD 1080P
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 2 HD 1080P" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem2.png" ,MOVISTAR DEPORTES 2 HD 1080P
 http://tribaliptv.com:8080/Gustavo/123456/4992
 
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 3 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" ,MOVISTAR DEPORTES 3 HD 1080P
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 3 HD 1080P" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem3.png" ,MOVISTAR DEPORTES 3 HD 1080P
 http://tribaliptv.com:8080/Gustavo/123456/4994
 
-#EXTINF:-1 tvg-id="" tvg-name="M.DEPORTES 4 HD 1080" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" ,M.DEPORTES 4 HD 1080
+#EXTINF:-1 tvg-id="" tvg-name="M.DEPORTES 4 HD 1080" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem4.png" ,M.DEPORTES 4 HD 1080
 http://tribaliptv.com:8080/Gustavo/123456/11495
 
-#EXTINF:-1 tvg-id="" tvg-name="M.DEPORTES 5 HD 1080" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" ,M.DEPORTES 5 HD 1080
+#EXTINF:-1 tvg-id="" tvg-name="M.DEPORTES 5 HD 1080" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem5.png" ,M.DEPORTES 5 HD 1080
 http://tribaliptv.com:8080/Gustavo/123456/11496
 
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 6 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" ,MOVISTAR DEPORTES 6 SD
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 6 SD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem6.png" ,MOVISTAR DEPORTES 6 SD
 http://tribaliptv.com:8080/Gustavo/123456/4998
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 7 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" ,MOVISTAR DEPORTES 7 SD
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 7 SD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem7.png" ,MOVISTAR DEPORTES 7 SD
 http://tribaliptv.com:8080/Gustavo/123456/4999
 
 
