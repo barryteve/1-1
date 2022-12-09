@@ -222,15 +222,48 @@ http://tribaliptv.com:8080/Gustavo/123456/12402
 
 #EXTINF: -1 tvg-id="GOL PLAY" tvg-name="Gol Play - 1080" tvg-chno="11" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/golplay.png" , Gol Play - 1080
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/38418
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN MOVISTAR 1 FHD EXTRA
-http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/60387
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" ,DAZN MOVISTAR 2 FHD EXTRA
-http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/60393
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-3-es-2524.png" ,MOVISTAR DAZN 3 FHD EXTRA
-http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/60397
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-4-es-2525.png" ,MOVISTAR DAZN 4 FHD EXTRA
-http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/60402
 
+
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png",DAZN MOVISTAR 1 SD
+http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/60384
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png",DAZN MOVISTAR 1 HD
+http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/60385
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png",DAZN MOVISTAR 1 FHD
+http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/60386
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png",DAZN MOVISTAR 1 FHD EXTRA
+http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/60387
+#EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png",DAZN MOVISTAR 1 FHD (x265)
+http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/60388
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png",DAZN MOVISTAR 2 FHD (x265)
+http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/60389
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png",DAZN MOVISTAR 2 SD
+http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/60390
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png",DAZN MOVISTAR 2 HD
+http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/60391
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png",DAZN MOVISTAR 2 FHD
+http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/60392
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png",DAZN MOVISTAR 2 FHD EXTRA
+http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/60393
+#EXTINF:-1  tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-3-es-2524.png",MOVISTAR DAZN 3 SD
+http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/60394
+#EXTINF:-1  tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-3-es-2524.png",MOVISTAR DAZN 3 HD
+http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/60395
+#EXTINF:-1  tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-3-es-2524.png",MOVISTAR DAZN 3 FHD
+http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/60396
+#EXTINF:-1  tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-3-es-2524.png",MOVISTAR DAZN 3 FHD EXTRA
+http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/60397
+#EXTINF:-1  tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-3-es-2524.png",MOVISTAR DAZN 3 FHD (H265)
+http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/60398
+#EXTINF:-1  tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-4-es-2525.png",MOVISTAR DAZN 4 SD
+http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/60399
+#EXTINF:-1  tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-4-es-2525.png",MOVISTAR DAZN 4 HD
+http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/60400
+#EXTINF:-1  tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-4-es-2525.png",MOVISTAR DAZN 4 FHD
+http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/60401
+#EXTINF:-1  tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-4-es-2525.png",MOVISTAR DAZN 4 FHD EXTRA
+http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/60402
+#EXTINF:-1  tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-4-es-2525.png",MOVISTAR DAZN 4 FHD (H265)
+http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/60403
 
 #EXTINF:-1 tvg-id="LA 1 HD" tvg-name="MOVISTAR LIGA DE CAMPEONES HD 1080P (H.265)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" ,MOV LIGA DE CAMPEONES HD 1080P (H.265)
 http://tribaliptv.com:8080/Gustavo/123456/11193
