@@ -1255,12 +1255,7 @@
 "image":"https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/93/dd/cb/93ddcbfa-6904-9e93-a664-35875347375b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024.jpg",
 "stations":
 [
-{
-"name":"SKY SPORT TENNIS DE",
-"image": "https://pbs.twimg.com/profile_images/1346190872292052992/qWsTu3N2_400x400.jpg",
-"url":"acestream://5307ddf5d6653c4615face2683bd418b8240194d",
-"isHost": false
-},
+
 {
 "name":"EuroSport 1 1080",
 "image": "https://satcesc.com/wp-content/uploads/2016/02/eurosport1-hd.jpg",
@@ -1297,6 +1292,13 @@
 "url":"acestream://9d7308f415682276a9b53ef1091a6d6260de5cc0",
 "isHost": false
 },
+{
+"name":"TENIS TV",
+"image": "https://upload.wikimedia.org/wikipedia/it/thumb/6/6a/SuperTennis_-_Logo_2016.svg/512px-SuperTennis_-_Logo_2016.svg.png",
+"url":"https://supertennix-l3-live1.secure.footprint.net/restreamer/supertennix_client/gpu-a-c0-16/restreamer/rtmp/hls/h24_supertennix/manifest.m3u8",
+"isHost": false
+},
+
 
 {
 "name":"Tennis Channel UK",
@@ -1325,8 +1327,15 @@
 {
 "name":"Canales Movistar",
 "image":"https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=6d80a6&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmovistarplus.png",
-"url":"https://raw.githubusercontent.com/Jayoir/1/main/2012",
+"url":"https://raw.githubusercontent.com/Jayoir/1/main/1000",
 "import":true
+},
+{
+"name": "TV USA",
+"image":"https://imagenesnoticias.com/wp-content/uploads/2018/10/BanderaEEUU30-465x465.jpg",
+"info": "This list does not host its own content, it just collects existing links",
+"url":"https://raw.githubusercontent.com/Jayoir/1/main/209",
+"import": true
 },
 {
 "name": "Webtv Sport Chucky",
@@ -1341,28 +1350,23 @@
 "info": "This list does not host its own content, it just collects existing links",
 "groups":
 [
+
 {
-"name":"Cine Ñ",
-"image": "https://videomercury.com/wp-content/uploads/2016/09/espanol.png",
-"url":"https://raw.githubusercontent.com/Jayoir/1/main/PELICULASESPANOL",
-"import": true
-},
-{
-"name":"Cine Internacional",
+"name":"Cine",
 "image": "https://www.eltiempo.com/files/image_640_428/uploads/2021/10/29/617c82b007708.jpeg",
 "url":"https://raw.githubusercontent.com/Jayoir/1/main/PELICULASINTERNACIONAL",
 "import": true
 },
 {
-"name":"Cine Infantil",
+"name":"Cine Respaldo ext1",
 "image": "https://www.eltiempo.com/files/image_640_428/uploads/2021/10/29/617c82b007708.jpeg",
-"url":"https://raw.githubusercontent.com/Jayoir/1/main/PELICULASINFANTILES",
+"url":"https://raw.githubusercontent.com/richardguiri/p/main/p",
 "import": true
 },
 {
-"name":"Cine Mp4",
+"name":"Cine Respaldo ext2",
 "image": "https://www.eltiempo.com/files/image_640_428/uploads/2021/10/29/617c82b007708.jpeg",
-"url":"https://raw.githubusercontent.com/Jayoir/1/main/301",
+"url":"https://raw.githubusercontent.com/emanuelbecchero/EmaList/c20c39ef98747611a3605a4bbd3241353e00438d/Lista.m3u",
 "import": true
 },
 {
@@ -1379,59 +1383,37 @@
 }
 ]
 },
+
 {
 "name":"Series",
 "image":"https://seeklogo.com/images/Y/youtube-tv-shows-logo-16EB8B9C93-seeklogo.com.png",
+
+"info": "This list does not host its own content, it just collects existing links",
 "groups":
 [
 {
-"name":"Shameless",
-"image": "https://thenationroar.com/wp-content/uploads/2020/10/thisss.jpg",
-"url":"https://raw.githubusercontent.com/Jayoir/1/main/shameless",
+"name":"Series",
+"image":"https://seeklogo.com/images/Y/youtube-tv-shows-logo-16EB8B9C93-seeklogo.com.png",
+"url":"https://raw.githubusercontent.com/Jayoir/1/main/s",
 "import": true
 },
 {
-"name":"The Bear",
-"image": "https://wegotthiscovered.com/wp-content/uploads/2022/07/the-bear-header.jpg",
-"url":"https://raw.githubusercontent.com/Jayoir/1/main/thebear",
-"import": true
-},
-{
-"name":"La Casa del Dragón HBO",
-"image": "https://www.elitetorrent.com/wp-content/uploads/2022/08/la-casa-del-dragon-s01e01-(poster661).jpg",
-"url":"https://raw.githubusercontent.com/Jayoir/1/main/La%20Casa%20del%20Drag%C3%B3n",
-"import": true
-},
-{
-"name":"Los anillos del Poder",
-"image": "https://www.elitetorrent.com/wp-content/uploads/2022/10/el-senor-de-los-anillos-los-anillos-de-poder-s01e06-(poster549).jpg",
-"url":"https://raw.githubusercontent.com/Jayoir/1/main/Los%20anillos%20del%20poder",
-"import": true
-},
-{
-"name":"obi-wan kenobi",
-"image": "https://www.elitetorrent.com/wp-content/uploads/2022/06/obi-wan-kenobi-s01e01-(poster818).jpg",
-"url":"https://raw.githubusercontent.com/Jayoir/1/main/obiwankenobi",
+"name":"Series respaldo ext actualizado",
+"image":"https://seeklogo.com/images/Y/youtube-tv-shows-logo-16EB8B9C93-seeklogo.com.png",
+"url":"https://raw.githubusercontent.com/richardguiri/s/main/s",
 "import": true
 }
 ]
 },
-{
-"name": "TDT Tv y Radio Spain",
-"image":"https://i.ytimg.com/vi/RNHcxPWrkDQ/hqdefault.jpg",
-"info": "This list does not host its own content, it just collects existing links",
-"url":"https://raw.githubusercontent.com/Jayoir/1/main/tdttvrad",
-"import": true
-},
-{
-"name": "TV USA",
-"image":"https://imagenesnoticias.com/wp-content/uploads/2018/10/BanderaEEUU30-465x465.jpg",
-"info": "This list does not host its own content, it just collects existing links",
-"url":"https://raw.githubusercontent.com/Jayoir/1/main/209",
-"import": true
-},
 
 
+
+{
+"name":"Plataformas Video",
+"image":"https://gasteizberri.com/wp-content/uploads/2020/11/PLUTO-TV.jpg",
+"info": "This list does not host its own content, it just collects existing links",
+"groups":
+[
 {
 "name": "Pluto TV",
 "image": "https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2020/03/Pluto-TV-New-Logo.png",
@@ -1493,27 +1475,24 @@
 "info": "This list does not host its own content, it just collects existing links",
 "url":"https://bitbucket.org/!api/2.0/snippets/fluxustv/KpaEKX/70f0278409b7ef263d112247400c340ce157b523/files/FTV-ENG",
 "import": true
+}
+]
 },
+
 {
-"name":"TV RESPALDO",
+"name":"TV RESPALDO 1",
 "image":"https://t3.ftcdn.net/jpg/03/44/01/08/360_F_344010875_ue8VwwMUsziXgBN6PtmjTCf9pGYDvBNg.jpg",
 "info": "This list does not host its own content, it just collects existing links",
 "url":"https://raw.githubusercontent.com/abrahamGalvin/IPTVDURO/369d193f1cfed7706dc56ee77226915412f179ac/listaduro",
 "import": true
 },
 {
-"name":"TV INTERNACIONAL",
+"name":"TV RESPALDO 2",
 "image":"https://t3.ftcdn.net/jpg/03/44/01/08/360_F_344010875_ue8VwwMUsziXgBN6PtmjTCf9pGYDvBNg.jpg",
 "info": "This list does not host its own content, it just collects existing links",
-"url":"https://iptv-org.github.io/iptv/index.m3u",
+"url":"https://raw.githubusercontent.com/ddgarciaf02/acestreamids/main/channels.txt",
 "import": true
 },
-{
-"name":"TV INTERNACIONAL",
-"image":"https://t3.ftcdn.net/jpg/03/44/01/08/360_F_344010875_ue8VwwMUsziXgBN6PtmjTCf9pGYDvBNg.jpg",
-"info": "This list does not host its own content, it just collects existing links",
-"url":"https://raw.githubusercontent.com/Jayoir/1/main/208",
-"import": true
-},
+
 ]
 }
