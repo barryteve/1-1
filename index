@@ -1568,6 +1568,14 @@
 "url":"https://raw.githubusercontent.com/emanuelbecchero/EmaList/c20c39ef98747611a3605a4bbd3241353e00438d/Lista.m3u",
 "import": true
 },
+{
+"name":"TV RESPALDO uk",
+"image":"https://raw.githubusercontent.com/badshave/DS1/b0f9b760d0d598f1a4975d9b4d94cbf503be906c/Digital%20Space%201UK.txt",
+"info": "This list does not host its own content, it just collects existing links",
+"url":"https://raw.githubusercontent.com/emanuelbecchero/EmaList/c20c39ef98747611a3605a4bbd3241353e00438d/Lista.m3u",
+"import": true
+},
+
 ]
 }
 ]
