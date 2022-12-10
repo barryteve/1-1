@@ -1435,6 +1435,20 @@
 "import": true
 },
 {
+"name": "HBO Channels",
+"image": "https://vignette4.wikia.nocookie.net/trueblood/images/8/88/Logo-HBO.png/revision/latest?cb=20141126012851",
+"info": "This list does not host its own content, it just collects existing links",
+"url": "https://raw.githubusercontent.com/Jayoir/1/main/hbo.txt",
+"import": true
+},
+{
+"name": "Universal Channels",
+"image": "https://1000marcas.net/wp-content/uploads/2021/04/Universal-Logo-1024x640.jpg",
+"info": "This list does not host its own content, it just collects existing links",
+"url": "https://raw.githubusercontent.com/Jayoir/1/main/univ.txt",
+"import": true
+},
+{
 "name": "Pluto TV",
 "image": "https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2020/03/Pluto-TV-New-Logo.png",
 "info": "This list does not host its own content, it just collects existing links",
