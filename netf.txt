@@ -1,4 +1,5 @@
-#extm3u
+#EXTM3U
+
 #EXTINF:-1 group-title="" tvg-logo="https://docdog.top/Logotv/countries/spain/Netflix.png" ,ES: Netflix Action
 http://fleedeed.top:8080/861665542246254021/9481665542246254/29311
 #EXTINF:-1 group-title="" tvg-logo="https://docdog.top/Logotv/countries/spain/Netflix.png" ,ES: Netflix Action 2
