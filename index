@@ -13,7 +13,7 @@
 "import":true
 },
 {
-"name":"Acestream Sport Eventos",
+"name":"Aces Sport Eventos",
 "image":"https://www.technipages.com/wp-content/uploads/2020/01/Ace-Stream-600x360.jpg",
 "groups":
 [
@@ -1325,7 +1325,7 @@
 ]
 },
 {
-"name":"Canales Movistar 24h IPTV",
+"name":"Movistar + 24h IPTV",
 "image":"https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=6d80a6&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmovistarplus.png",
 "url":"https://raw.githubusercontent.com/Jayoir/1/main/1000",
 "import":true
@@ -1338,7 +1338,7 @@
 "import": true
 },
 {
-"name": "Webtv Sport Chucky",
+"name": "WebSport Chucky",
 "image": "https://pbs.twimg.com/profile_images/3433366961/233430983f4fee433ea5c62ec6613e0e_400x400.png",
 "info": "This list does not host its own content, it just collects existing links",
 "url":"https://raw.githubusercontent.com/chukyvaliente/chykydeport/main/chuky",
