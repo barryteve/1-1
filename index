@@ -1364,6 +1364,12 @@
 "import": true
 },
 {
+"name":"Cine VOD",
+"image": "https://www.eltiempo.com/files/image_640_428/uploads/2021/10/29/617c82b007708.jpeg",
+"url":"https://raw.githubusercontent.com/boimalik/vod2022/ef98b6f424244156cfa595cd813691323a16b621/movi2022",
+"import": true
+},
+{
 "name":"Cine Respaldo ext1",
 "image": "https://www.eltiempo.com/files/image_640_428/uploads/2021/10/29/617c82b007708.jpeg",
 "url":"https://raw.githubusercontent.com/richardguiri/p/main/p",
