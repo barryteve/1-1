@@ -13,7 +13,7 @@
 "import":true
 },
 {
-"name":"Aces Sport Eventos",
+"name":"AceSport Eventos",
 "image":"https://www.technipages.com/wp-content/uploads/2020/01/Ace-Stream-600x360.jpg",
 "groups":
 [
@@ -1480,6 +1480,12 @@
 },
 
 {
+"name":"TV RESPALDO",
+"image":"https://t3.ftcdn.net/jpg/03/44/01/08/360_F_344010875_ue8VwwMUsziXgBN6PtmjTCf9pGYDvBNg.jpg",
+"info": "This list does not host its own content, it just collects existing links",
+"groups":
+[
+{
 "name":"TV RESPALDO 1",
 "image":"https://t3.ftcdn.net/jpg/03/44/01/08/360_F_344010875_ue8VwwMUsziXgBN6PtmjTCf9pGYDvBNg.jpg",
 "info": "This list does not host its own content, it just collects existing links",
@@ -1493,6 +1499,7 @@
 "url":"https://raw.githubusercontent.com/ddgarciaf02/acestreamids/main/channels.txt",
 "import": true
 },
-
+]
+}
 ]
 }
