@@ -1516,21 +1516,21 @@
 "name":"TV RESPALDO 4",
 "image":"https://t3.ftcdn.net/jpg/03/44/01/08/360_F_344010875_ue8VwwMUsziXgBN6PtmjTCf9pGYDvBNg.jpg",
 "info": "This list does not host its own content, it just collects existing links",
-"url":"https://github.com/vicentegithublista/vicen/blob/05b3ecaf374d822ae9f526ae712db48e2b43c000/lista%2015112022.m3u",
+"url":"https://raw.githubusercontent.com/vicentegithublista/vicen/05b3ecaf374d822ae9f526ae712db48e2b43c000/lista%2015112022.m3u",
 "import": true
 },
 {
 "name":"TV RESPALDO 5",
 "image":"https://t3.ftcdn.net/jpg/03/44/01/08/360_F_344010875_ue8VwwMUsziXgBN6PtmjTCf9pGYDvBNg.jpg",
 "info": "This list does not host its own content, it just collects existing links",
-"url":"https://github.com/vicentegithublista/vicen/blob/377af921d9f4d49fe1bc81f6c9b827b5a496af86/rumania.m3u",
+"url":"https://raw.githubusercontent.com/vicentegithublista/vicen/377af921d9f4d49fe1bc81f6c9b827b5a496af86/rumania.m3u",
 "import": true
 },
 {
 "name":"TV RESPALDO 6",
 "image":"https://t3.ftcdn.net/jpg/03/44/01/08/360_F_344010875_ue8VwwMUsziXgBN6PtmjTCf9pGYDvBNg.jpg",
 "info": "This list does not host its own content, it just collects existing links",
-"url":"https://github.com/inerte1978/inerte1978/blob/13ab848e7e6aee68564f3466d0816b8e575719ad/channels.txt",
+"url":"https://raw.githubusercontent.com/inerte1978/inerte1978/13ab848e7e6aee68564f3466d0816b8e575719ad/channels.txt",
 "import": true
 },
 ]
