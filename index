@@ -1421,6 +1421,20 @@
 "groups":
 [
 {
+"name": "Amazon Prime Channels",
+"image": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032018/untitled-1_159.png",
+"info": "This list does not host its own content, it just collects existing links",
+"url": "https://raw.githubusercontent.com/Jayoir/1/main/amaz",
+"import": true
+},
+{
+"name": "Netflix Channels",
+"image": "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/102014/netflix_2014.png?itok=qtd05Dk3",
+"info": "This list does not host its own content, it just collects existing links",
+"url": "https://raw.githubusercontent.com/Jayoir/1/main/netf",
+"import": true
+},
+{
 "name": "Pluto TV",
 "image": "https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2020/03/Pluto-TV-New-Logo.png",
 "info": "This list does not host its own content, it just collects existing links",
