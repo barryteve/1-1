@@ -13,7 +13,7 @@
 "import":true
 },
 {
-"name":"Acestream Sport",
+"name":"Acestream Sport Eventos",
 "image":"https://www.technipages.com/wp-content/uploads/2020/01/Ace-Stream-600x360.jpg",
 "groups":
 [
@@ -1325,13 +1325,13 @@
 ]
 },
 {
-"name":"Canales Movistar",
+"name":"Canales Movistar 24h IPTV",
 "image":"https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=6d80a6&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmovistarplus.png",
 "url":"https://raw.githubusercontent.com/Jayoir/1/main/1000",
 "import":true
 },
 {
-"name": "TV USA",
+"name": "TV USA 24h IPTV",
 "image":"https://imagenesnoticias.com/wp-content/uploads/2018/10/BanderaEEUU30-465x465.jpg",
 "info": "This list does not host its own content, it just collects existing links",
 "url":"https://raw.githubusercontent.com/Jayoir/1/main/209",
@@ -1345,7 +1345,7 @@
 "import": true
 },
 {
-"name":"Películas",
+"name":"Películas a la carta",
 "image":"https://entertainment.time.com/wp-content/uploads/sites/3/2012/09/mgm.jpg",
 "info": "This list does not host its own content, it just collects existing links",
 "groups":
@@ -1385,7 +1385,7 @@
 },
 
 {
-"name":"Series",
+"name":"Series a la carta",
 "image":"https://seeklogo.com/images/Y/youtube-tv-shows-logo-16EB8B9C93-seeklogo.com.png",
 
 "info": "This list does not host its own content, it just collects existing links",
@@ -1409,7 +1409,7 @@
 
 
 {
-"name":"Plataformas Video",
+"name":"Plataformas Video 24h",
 "image":"https://gasteizberri.com/wp-content/uploads/2020/11/PLUTO-TV.jpg",
 "info": "This list does not host its own content, it just collects existing links",
 "groups":
