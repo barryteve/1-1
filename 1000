@@ -24,8 +24,7 @@ https://multimedia.eitb.eus/live-content/oka3hd-hls/master.m3u8
 https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
 #EXTINF: -1 tvg-id="ETB2.TV" tvg-name="ETB 2" tvg-chno="67" tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200" , ETB 2
 https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
-#EXTINF:0 tvg-id="Navarra TV" group-title="", Navarra TVⓧ
-http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/93852
+
 #EXTINF: -1 tvg-name="Euronews" tvg-chno="20" tvg-logo="https://graph.facebook.com/es.euronews/picture?width=200&height=200" , Euronews
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF: -1 tvg-name="El País" tvg-chno="23" tvg-logo="https://graph.facebook.com/elpais/picture?width=200&height=200" , El País
@@ -418,7 +417,6 @@ http://tribaliptv.com:8080/Gustavo/123456/5020
 
 
 
-#EXTM3U
 #EXTINF:-1 group-title="SPAIN" tvg-logo="https://docdog.top/Logotv/countries/spain/Classica.png" ,ES: CLASSICA
 http://fleedeed.top:8080/861665542246254021/9481665542246254/5545
 #EXTINF:-1 group-title="SPAIN" tvg-logo="https://docdog.top/Logotv/countries/spain/M_0.png" ,ES: M+ #0
@@ -932,328 +930,6 @@ http://fleedeed.top:8080/861665542246254021/9481665542246254/25953
 #EXTINF:-1 group-title="SPAIN SPORT" tvg-logo="https://docdog.top/Logotv/countries/spain/LaLiga_SmartbankTV_M3.png" ,ES: M+ LaLiga Smartbank TV M3
 http://fleedeed.top:8080/861665542246254021/9481665542246254/25954
 
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-sports-1-us.png" ,USA: FOX SPORTS ONE
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19499
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries//foxsportssun.png" ,USA: FOX SPORTS SUN
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19500
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries//foxsportstennessee.png" ,USA: FOX SPORTS TENNESSEE
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19501
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries//foxsportswest.png" ,USA: FOX SPORTS WEST
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19502
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries//foxsportsarizona.png" ,USA: FOX SPORTS ARIZONA
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19503
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries//foxsportsdetroit.png" ,USA: FOX SPORTS DETROIT
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19504
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries//foxsportsflorida.png" ,USA: FOX SPORTS FLORIDA
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19505
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/nbcsn-northwest-us.png" ,USA: FOX SPORTS NORTH CAROLINA
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19506
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries//foxsportsohio.png" ,USA: FOX SPORTS OHIO
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19507
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries//foxsportsoklahoma.png" ,USA: FOX SPORTS OKLAHOMA
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19508
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries//foxsportssandiego.png" ,USA: FOX SPORTS SAN DIEGO
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19509
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries//foxsportssouth.png" ,USA: FOX SPORTS SOUTH
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19510
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-sports-us.png" ,USA: FOX SPORTS SOUTHEAST
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19511
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries//foxsportssouthwest.png" ,USA: FOX SPORTS SOUTHWEST
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19512
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX COLLEGE SPORTS PACIFIC
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19513
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX COLLEGE SPORTS ATLANTIC
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19514
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries//foxsport2.png" ,USA: FOX SPORT 2
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19515
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19516
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/us-local/fox-2-ktvu-us.png" ,USA: FOX 2 HONOLULU
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19517
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/us-local/fox-2-ktvu-us.png" ,USA: FOX 2 SAINT LOUIS
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19518
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/us-local/fox-2-wjbk-us.png" ,USA: FOX 2 SAN FRANCISCO
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19519
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/us-local/fox-5-wnyw-us.png" ,USA: FOX 5 NEW YORK
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19520
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/us-local/fox-68-wsyt-us.png" ,USA: FOX 6 MILWAUKEE
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19521
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/us-local/fox-7-wzaw-us.png" ,USA: FOX 7 MIAMI
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19522
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/us-local/fox-11-kttv-us.png" ,USA: FOX 11 CHARLESTON
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19523
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/us-local/fox-11-kttv-us.png" ,USA: FOX 11 LOS ANGELES
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19524
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/us-local/fox-13-whbq-us.png" ,USA: FOX 13 SALTLAKE CITY
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19525
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/us-local/fox-13-whbq-us.png" ,USA: FOX 13 SEATTLE
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19526
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/us-local/fox-16-klrt-us.png" ,USA: FOX 16 LITTLE ROCK
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19527
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/us-local/fox-17-wztv-us.png" ,USA: FOX 17 LA CROSSE
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19528
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/us-local/fox-18-kljb-us.png" ,USA: FOX 18 DAVENPORT
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19529
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/us-local/fox-22-wfvx-us.png" ,USA: FOX 22 PITTSBURGH
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19530
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/us-local/fox-22-wfvx-us.png" ,USA: FOX 22/44 BURLINGTON
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19531
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/us-local/fox-23-wxxa-us.png" ,USA: FOX 23 ALBANY
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19532
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/us-local/fox-26-kmph-us.png" ,USA: FOX 26 HOUSTON
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19533
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX 27 ROANOKE
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19534
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/us-local/fox-28-wnyf-cd-us.png" ,USA: FOX 28 COLUMBUS
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19535
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/us-local/fox-28-wnyf-cd-us.png" ,USA: FOX 28 RALEIGH
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19536
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/us-local/fox-29-wutv-us.png" ,USA: FOX 29 PHILADELPHIA
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19537
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/us-local/fox-29-wutv-us.png" ,USA: FOX 29 SAN ANTONIO
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19538
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/us-local/fox-29-wutv-us.png" ,USA: FOX 29 WEST PALM BEACH
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19539
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/us-local/fox-30-wfox-us.png" ,USA: FOX 30 JACKSONVILLE
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19540
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/us-local/fox-32-wfld-us.png" ,USA: FOX 32 CHICAGO
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19541
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/us-local/fox-33-wfxv-us.png" ,USA: FOX 33 TOLEDO
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19542
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/us-local/fox-35-wofl-us.png" ,USA: FOX 35 ORLANDO
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19543
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/us-local/fox-35-wofl-us.png" ,USA: FOX 35 SALINAS
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19544
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX 49 LOUISVILLE
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19545
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX 49 OSAGA BEACH
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19546
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/us-local/fox-51-wogx-us.png" ,USA: FOX 51 LONGVIEW
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19547
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/us-local/fox-55-27-wrsp-us.png" ,USA: FOX 55 FORT WAYNE
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19548
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX 59 INDIANAPOLIS
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19549
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/us-local/fox-61-wtic-us.png" ,USA: FOX 61 HARTFORD,CT
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19550
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/us-local/fox-68-wsyt-us.png" ,USA: FOX 68 SYRACUSE
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19551
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX ABILENE
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19552
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX ALBANY
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19553
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX ALBUQUERQUE
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19554
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX ATLANTA
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19555
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX AUGUSTA
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19556
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX AUSTIN
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19557
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX BALTIMORE
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19558
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX BATON ROUGE
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19559
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX BELMONT
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19560
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX BINGHAMPTON
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19561
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX BLOOMINGTON
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19562
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX BOSTON
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19563
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX BUFFALO
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19564
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX BURLINGTON
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19565
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX CALDWELL
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19566
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX CAPE CORAL
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19567
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX CHARLESTON
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19568
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX CHARLOTTESVILLE
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19569
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX CHICAGO
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19570
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX CITY
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19571
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX CLARKSBURG
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19572
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX CLEVELAND
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19573
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX COLORADO SPRINGS
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19574
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX COLUMBUS
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19575
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX DALLAS
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19576
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX DAVENPORT
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19577
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX DENVER
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19578
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX DEPORTES
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19579
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX DETROIT
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19580
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX EUGENE
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19581
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX FARGO
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19582
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX GRAND RAPIDS
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19583
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX GREEN BAY
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19584
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX GREENVILLE
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19585
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX HARLINGTON
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19586
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX HARRISONBURG
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19587
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX HENDERSON
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19588
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX HIGH POINT
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19589
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX HOUSTON
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19590
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX HUNTSVILLE
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19591
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX JACKSON
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19592
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX JACKSONVILLE
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19593
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX JOHNSTOWN
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19594
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX KANSAS CITY
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19595
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX LA CROSSE
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19596
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries//lafoxlafayettefox16.png" ,USA: FOX LAFAYETTE
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19597
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX LANSING
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19598
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX LOS ANGELES
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19599
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX LOUISVILLE
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19600
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX LUBBOCK
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19601
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX MARQUETTE
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19602
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX MEDFORD
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19603
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX MEMPHIS
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19604
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries//foxminneapolis.png" ,USA: FOX MINNEAPOLIS
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19605
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX MINOT
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19606
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX MOBILE
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19607
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX MYRTLE BEACH
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19608
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX NASHVILLE
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19609
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX NET DOTHAN
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19610
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX NEW ORLEANS
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19611
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX NEWPORT
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19612
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX NRT NAMA CITY
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19613
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX OAKLAND
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19614
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX OCALA
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19615
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX PHOENIX
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19616
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX PITTSBURGH
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19617
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX PORTLAND
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19618
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX PRESQUE ISLE
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19619
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX PROVIDENCE
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19620
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX RALEIGH
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19621
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX SACRAMENTO
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19622
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX SAINT LOUIS
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19623
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX SALTLAKE CITY
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19624
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX SAN ANGELO
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19625
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX SAN ANTONIO
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19626
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX SAN DIEGO
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19627
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX SAN FRANCISCO
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19628
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX SAN JOSE
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19629
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX SAN LUIS OBISPO
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19630
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX SHERMAN
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19631
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX SHREVEPORT
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19632
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX SIOUX FALLS
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19633
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX SOCCER PLUS
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19634
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX SOCCER SUN
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19635
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/obsolete/fox-sportstime-ohio-us-obsolete.png" ,USA: FOX SPORTIME OHIO
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19636
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries//foxsportshouston.png" ,USA: FOX SPORTS HOUSTON
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19637
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries//foxsportsindiana.png" ,USA: FOX SPORTS INDIANA
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19638
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries//foxsportskansascity.png" ,USA: FOX SPORTS KANSAS CITY
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19639
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/obsolete/fox-sports-kansas-city-us-obsolete.png" ,USA: FOX SPORTS KANSAS CITY PLUS
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19640
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries//foxsportsnorth.png" ,USA: FOX SPORTS NORTH
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19641
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries//foxsportsprimeticket.png" ,USA: FOX SPORTS PRIME TICKET
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19642
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries//foxsportssouthwestplus.png" ,USA: FOX SPORTS SOUTHWEST PLUS
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19643
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/obsolete/fox-sportstime-ohio-us-obsolete.png" ,USA: FOX SPORTS SPORTSTIME OHIO
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19644
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-sports-2-us.png" ,USA: FOX SPORTS TWO
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19645
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries//foxsportswisconsin.png" ,USA: FOX SPORTS WISCONSIN
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19646
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX SPRINGFIELD
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19647
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX SPRINGFIELD WGGB
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19648
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX TACOMA
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19649
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX TAMPA
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19650
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX TOLEDO
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19651
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX TUCSON
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19652
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX TWIN FALLS
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19653
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX VIRGINIA BEACH
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19654
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX WASHINGTON
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19655
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX WILMINGTON
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19656
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX YAKIM
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19657
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX YORK
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19658
-#EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX YOUNGSTOWN
-http://fleedeed.top:8080/861665542246254021/9481665542246254/19659
 #EXTINF:-1 group-title="Gol Mundial" tvg-logo="https://pbs.twimg.com/profile_images/1590123392484737028/r2OGGZpr_400x400.jpg" tvg-id="Gol Mundial HD" ,ES: GOL MUNDIAL 1 FHD
 http://goodtv.nicefin.xyz:80/miguelangel/miguelangel/333642
 #EXTINF:-1 group-title="Gol Mundial" tvg-logo="https://pbs.twimg.com/profile_images/1590123392484737028/r2OGGZpr_400x400.jpg" tvg-id="Gol Mundial HD" ,ES: GOL MUNDIAL 1 HD
@@ -1774,139 +1450,86 @@ http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/122066
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/93490
 #EXTINF:0 tvg-id="ext" group-title="|ES| CANALES REGIONALES",ES | À Puntⓧ
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/49368
-#EXTINF:0 tvg-id="Canal24Horas.es" group-title="|ES| ENTRETENIMIENTO",ES | 24 Horasⓧ FHD
+#EXTINF:0 tvg-id="Canal24Horas.es" group-title="SPAIN",ES | 24 Horasⓧ FHD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/49365
-#EXTINF:0 tvg-id="Canal24Horas.es" group-title="|ES| ENTRETENIMIENTO",ES | 24 Horasⓧ HD
+#EXTINF:0 tvg-id="Canal24Horas.es" group-title="SPAIN",ES | 24 Horasⓧ HD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48687
-#EXTINF:0 tvg-id="Canal24Horas.es" group-title="|ES| ENTRETENIMIENTO",ES | 24 Horasⓧ SD
+#EXTINF:0 tvg-id="Canal24Horas.es" group-title="SPAIN",ES | 24 Horasⓧ SD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/529
-#EXTINF:0 tvg-id="Antena3.es" group-title="|ES| ENTRETENIMIENTO",ES | Antena 3ⓧ FHD
+#EXTINF:0 tvg-id="Antena3.es" group-title="SPAIN",ES | Antena 3ⓧ FHD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/2409
-#EXTINF:0 tvg-id="Antena3.es" group-title="|ES| ENTRETENIMIENTO",ES | Antena 3ⓧ Full HD HEVC
+#EXTINF:0 tvg-id="Antena3.es" group-title="SPAIN",ES | Antena 3ⓧ Full HD HEVC
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/525
-#EXTINF:0 tvg-id="Antena3.es" group-title="|ES| ENTRETENIMIENTO",ES | Antena 3ⓧ HD
+#EXTINF:0 tvg-id="Antena3.es" group-title="SPAIN",ES | Antena 3ⓧ HD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48695
-#EXTINF:0 tvg-id="Antena3.es" group-title="|ES| ENTRETENIMIENTO",ES | Antena 3ⓧ SD
+#EXTINF:0 tvg-id="Antena3.es" group-title="SPAIN",ES | Antena 3ⓧ SD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48696
-#EXTINF:0 tvg-id="Cuatro.es" group-title="|ES| ENTRETENIMIENTO",ES | Cuatroⓧ FHD
+#EXTINF:0 tvg-id="Cuatro.es" group-title="SPAIN",ES | Cuatroⓧ FHD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48629
-#EXTINF:0 tvg-id="Cuatro.es" group-title="|ES| ENTRETENIMIENTO",ES | Cuatroⓧ Full HD HEVC
+#EXTINF:0 tvg-id="Cuatro.es" group-title="SPAIN",ES | Cuatroⓧ Full HD HEVC
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48884
-#EXTINF:0 tvg-id="Cuatro.es" group-title="|ES| ENTRETENIMIENTO",ES | Cuatroⓧ HD
+#EXTINF:0 tvg-id="Cuatro.es" group-title="SPAIN",ES | Cuatroⓧ HD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48697
-#EXTINF:0 tvg-id="Cuatro.es" group-title="|ES| ENTRETENIMIENTO",ES | Cuatroⓧ SD
+#EXTINF:0 tvg-id="Cuatro.es" group-title="SPAIN",ES | Cuatroⓧ SD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48698
-#EXTINF:0 tvg-id="ext" group-title="|ES| ENTRETENIMIENTO",ES | El Toro TVⓧ FHD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",ES | El Toro TVⓧ FHD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/93292
-#EXTINF:0 tvg-id="ext" group-title="|ES| ENTRETENIMIENTO",ES | El Toro TVⓧ HD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",ES | El Toro TVⓧ HD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48688
-#EXTINF:0 tvg-id="Energy.es" group-title="|ES| ENTRETENIMIENTO",ES | Energyⓧ FHD
+#EXTINF:0 tvg-id="Energy.es" group-title="SPAIN",ES | Energyⓧ FHD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48650
-#EXTINF:0 tvg-id="Energy.es" group-title="|ES| ENTRETENIMIENTO",ES | Energyⓧ HD
+#EXTINF:0 tvg-id="Energy.es" group-title="SPAIN",ES | Energyⓧ HD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48729
-#EXTINF:0 tvg-id="Energy.es" group-title="|ES| ENTRETENIMIENTO",ES | Energyⓧ SD
+#EXTINF:0 tvg-id="Energy.es" group-title="SPAIN",ES | Energyⓧ SD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48730
-#EXTINF:0 tvg-id="Energy.es" group-title="|ES| ENTRETENIMIENTO",ES | Energyⓧ SD HEVC
+#EXTINF:0 tvg-id="Energy.es" group-title="SPAIN",ES | Energyⓧ SD HEVC
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/504
-#EXTINF:0 tvg-id="ext" group-title="|ES| ENTRETENIMIENTO",ES | LA 1ⓧ FHD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",ES | LA 1ⓧ FHD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48627
-#EXTINF:0 tvg-id="ext" group-title="|ES| ENTRETENIMIENTO",ES | LA 1ⓧ Full HD HEVC
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",ES | LA 1ⓧ Full HD HEVC
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/92195
-#EXTINF:0 tvg-id="ext" group-title="|ES| ENTRETENIMIENTO",ES | LA 1ⓧ HD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",ES | LA 1ⓧ HD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48692
-#EXTINF:0 tvg-id="ext" group-title="|ES| ENTRETENIMIENTO",ES | LA 1ⓧ SD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",ES | LA 1ⓧ SD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48693
-#EXTINF:0 tvg-id="ext" group-title="|ES| ENTRETENIMIENTO",ES | LA 2ⓧ FHD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",ES | LA 2ⓧ FHD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48628
-#EXTINF:0 tvg-id="ext" group-title="|ES| ENTRETENIMIENTO",ES | LA 2ⓧ HD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",ES | LA 2ⓧ HD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/92196
-#EXTINF:0 tvg-id="ext" group-title="|ES| ENTRETENIMIENTO",ES | LA 2ⓧ SD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",ES | LA 2ⓧ SD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/528
-#EXTINF:0 tvg-id="ext" group-title="|ES| ENTRETENIMIENTO",ES | LA 2ⓧ SD HEVC
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",ES | LA 2ⓧ SD HEVC
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48694
-#EXTINF:0 tvg-id="ext" group-title="|ES| ENTRETENIMIENTO",ES | La Resistenciaⓧ HD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",ES | La Resistenciaⓧ HD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/104696
-#EXTINF:0 tvg-id="ext" group-title="|ES| ENTRETENIMIENTO",ES | La Sextaⓧ FHD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",ES | La Sextaⓧ FHD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48631
-#EXTINF:0 tvg-id="ext" group-title="|ES| ENTRETENIMIENTO",ES | La Sextaⓧ Full HD HEVC
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",ES | La Sextaⓧ Full HD HEVC
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48770
-#EXTINF:0 tvg-id="ext" group-title="|ES| ENTRETENIMIENTO",ES | La Sextaⓧ HD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",ES | La Sextaⓧ HD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48701
-#EXTINF:0 tvg-id="ext" group-title="|ES| ENTRETENIMIENTO",ES | La Sextaⓧ SD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",ES | La Sextaⓧ SD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48702
-#EXTINF:0 tvg-id="ext" group-title="|ES| ENTRETENIMIENTO",ES | Star TVEⓧ FHD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",ES | Star TVEⓧ FHD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/104723
-#EXTINF:0 tvg-id="ext" group-title="|ES| ENTRETENIMIENTO",ES | Star TVEⓧ SD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",ES | Star TVEⓧ SD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/104722
-#EXTINF:0 tvg-id="Telecinco.es" group-title="|ES| ENTRETENIMIENTO",ES | Telecincoⓧ FHD
+#EXTINF:0 tvg-id="Telecinco.es" group-title="SPAIN",ES | Telecincoⓧ FHD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48630
-#EXTINF:0 tvg-id="Telecinco.es" group-title="|ES| ENTRETENIMIENTO",ES | Telecincoⓧ Full HD HEVC
+#EXTINF:0 tvg-id="Telecinco.es" group-title="SPAIN",ES | Telecincoⓧ Full HD HEVC
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48883
-#EXTINF:0 tvg-id="Telecinco.es" group-title="|ES| ENTRETENIMIENTO",ES | Telecincoⓧ HD
+#EXTINF:0 tvg-id="Telecinco.es" group-title="SPAIN",ES | Telecincoⓧ HD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48700
-#EXTINF:0 tvg-id="Telecinco.es" group-title="|ES| ENTRETENIMIENTO",ES | Telecincoⓧ SD
+#EXTINF:0 tvg-id="Telecinco.es" group-title="SPAIN",ES | Telecincoⓧ SD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/512
-#EXTINF:0 tvg-id="ext" group-title="|ES| ENTRETENIMIENTO",ES | Treceⓧ HD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",ES | Treceⓧ HD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/2696
-#EXTINF:0 tvg-id="ext" group-title="|ES| ENTRETENIMIENTO",ES | Treceⓧ SD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",ES | Treceⓧ SD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/104695
-#EXTINF:0 tvg-id="XTRM.es" group-title="|ES| ENTRETENIMIENTO",ES | XTRMⓧ FHD
+#EXTINF:0 tvg-id="XTRM.es" group-title="SPAIN",ES | XTRMⓧ FHD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48689
 
-#EXTINF:0 tvg-id="ext" group-title="|ES| CANALES INTERNACIONALES",ES | ABC Australia ENⓧ
-http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/95972
-#EXTINF:0 tvg-id="ext" group-title="|ES| CANALES INTERNACIONALES",ES | ABC TV Paraguayⓧ
-http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/95137
-#EXTINF:0 tvg-id="ext" group-title="|ES| CANALES INTERNACIONALES",ES | Al Jazeera ENⓧ
-http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/95138
-#EXTINF:0 tvg-id="ext" group-title="|ES| CANALES INTERNACIONALES",ES | ATV Andorraⓧ
-http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/95119
-#EXTINF:0 tvg-id="ext" group-title="|ES| CANALES INTERNACIONALES",ES | Bloomberg Europe ENⓧ
-http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/95121
-#EXTINF:0 tvg-id="ext" group-title="|ES| CANALES INTERNACIONALES",ES | Canal 6 Multimedios Mexicoⓧ
-http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/95131
-#EXTINF:0 tvg-id="ext" group-title="|ES| CANALES INTERNACIONALES",ES | Canal Antigua Guatemalaⓧ
-http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/95135
-#EXTINF:0 tvg-id="ext" group-title="|ES| CANALES INTERNACIONALES",ES | Canal Capital Colombiaⓧ
-http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/95132
-#EXTINF:0 tvg-id="ext" group-title="|ES| CANALES INTERNACIONALES",ES | CGTN en Españolⓧ SD
-http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/93886
-#EXTINF:0 tvg-id="ext" group-title="|ES| CANALES INTERNACIONALES",ES | CNN Internacionalⓧ
-http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/95120
-#EXTINF:0 tvg-id="ext" group-title="|ES| CANALES INTERNACIONALES",ES | DW Alemaniaⓧ
-http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/95126
-#EXTINF:0 tvg-id="ext" group-title="|ES| CANALES INTERNACIONALES",ES | FOX News ENⓧ SD
-http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/520
-#EXTINF:0 tvg-id="ext" group-title="|ES| CANALES INTERNACIONALES",ES | France 24 Franciaⓧ
-http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/95122
-#EXTINF:0 tvg-id="ext" group-title="|ES| CANALES INTERNACIONALES",ES | Geo News Pakistanⓧ
-http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/95139
-#EXTINF:0 tvg-id="ext" group-title="|ES| CANALES INTERNACIONALES",ES | Hispan TV Iranⓧ
-http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/95141
-#EXTINF:0 tvg-id="ext" group-title="|ES| CANALES INTERNACIONALES",ES | India Today ENⓧ
-http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/95140
-#EXTINF:0 tvg-id="ext" group-title="|ES| CANALES INTERNACIONALES",ES | LN24 Bélgica FRⓧ
-http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/95128
-#EXTINF:0 tvg-id="ext" group-title="|ES| CANALES INTERNACIONALES",ES | Locomotion TVⓧ
-http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/95973
-#EXTINF:0 tvg-id="ext" group-title="|ES| CANALES INTERNACIONALES",ES | Rai News 24 Italia ITⓧ
-http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/95125
-#EXTINF:0 tvg-id="ext" group-title="|ES| CANALES INTERNACIONALES",ES | RT en Españolⓧ
-http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/95130
-#EXTINF:0 tvg-id="ext" group-title="|ES| CANALES INTERNACIONALES",ES | Sky News UK ENⓧ
-http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/95127
-#EXTINF:0 tvg-id="ext" group-title="|ES| CANALES INTERNACIONALES",ES | TeleAmazonas Ecuadorⓧ
-http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/95136
-#EXTINF:0 tvg-id="ext" group-title="|ES| CANALES INTERNACIONALES",ES | TRT World Turquía ENⓧ
-http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/95129
-#EXTINF:0 tvg-id="ext" group-title="|ES| CANALES INTERNACIONALES",ES | TV Perú Noticiasⓧ
-http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/95133
-#EXTINF:0 tvg-id="ext" group-title="|ES| CANALES INTERNACIONALES",ES | TV5Monde Francia FRⓧ
-http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/95124
-#EXTINF:0 tvg-id="ext" group-title="|ES| CANALES INTERNACIONALES",ES | Venezolana de Televisiónⓧ
-http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/95134
-#EXTINF:0 tvg-id="ext" group-title="|ES| CANALES INTERNACIONALES",ES | Vos Tvⓧ
-http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/122011
+
 #EXTINF:0 tvg-id="ext" group-title="|ES| INFANTILES",ES | Baby TVⓧ SD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48677
 #EXTINF:0 tvg-id="ext" group-title="|ES| INFANTILES",ES | Baby TVⓧ SD HEVC
@@ -1960,345 +1583,345 @@ http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/93361
 #EXTINF:0 tvg-id="ext" group-title="|ES| INFANTILES",ES | Nickelodeonⓧ SD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/522
 
-#EXTINF:0 tvg-id="BarcaTV.es" group-title="|ES| DEPORTES",ES | Barça TVⓧ SD
+#EXTINF:0 tvg-id="BarcaTV.es" group-title="SPAIN SPORT",ES | Barça TVⓧ SD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/516
-#EXTINF:0 tvg-id="BarcaTV.es" group-title="|ES| DEPORTES",ES | Barça TVⓧ HD
+#EXTINF:0 tvg-id="BarcaTV.es" group-title="SPAIN SPORT",ES | Barça TVⓧ HD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48847
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | beIN Sports en Españolⓧ FHD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | beIN Sports en Españolⓧ FHD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48876
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | DAZN 1ⓧ FHD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | DAZN 1ⓧ FHD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48879
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | DAZN 1ⓧ Full HD HEVC
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | DAZN 1ⓧ Full HD HEVC
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/104699
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | DAZN 1ⓧ HD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | DAZN 1ⓧ HD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/104721
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | DAZN 1ⓧ SD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | DAZN 1ⓧ SD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/104698
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | DAZN 2ⓧ FHD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | DAZN 2ⓧ FHD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48858
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | DAZN 2ⓧ Full HD HEVC
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | DAZN 2ⓧ Full HD HEVC
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48881
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | DAZN 2ⓧ HD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | DAZN 2ⓧ HD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/104700
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | DAZN 2ⓧ HD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | DAZN 2ⓧ HD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/104701
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | DAZN 3ⓧ FHD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | DAZN 3ⓧ FHD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48880
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | DAZN 4ⓧ FHD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | DAZN 4ⓧ FHD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48882
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | eSport 3ⓧ FHD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | eSport 3ⓧ FHD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/115833
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | eSport 3ⓧ HD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | eSport 3ⓧ HD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/115834
-#EXTINF:0 tvg-id="Eurosport1.fr" group-title="|ES| DEPORTES",ES | Eurosport 1ⓧ FHD
+#EXTINF:0 tvg-id="Eurosport1.fr" group-title="SPAIN SPORT",ES | Eurosport 1ⓧ FHD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48841
-#EXTINF:0 tvg-id="Eurosport1.fr" group-title="|ES| DEPORTES",ES | Eurosport 1ⓧ Full HD HEVC
+#EXTINF:0 tvg-id="Eurosport1.fr" group-title="SPAIN SPORT",ES | Eurosport 1ⓧ Full HD HEVC
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48838
-#EXTINF:0 tvg-id="Eurosport1.fr" group-title="|ES| DEPORTES",ES | Eurosport 1ⓧ HD
+#EXTINF:0 tvg-id="Eurosport1.fr" group-title="SPAIN SPORT",ES | Eurosport 1ⓧ HD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48662
-#EXTINF:0 tvg-id="Eurosport1.fr" group-title="|ES| DEPORTES",ES | Eurosport 1ⓧ SD
+#EXTINF:0 tvg-id="Eurosport1.fr" group-title="SPAIN SPORT",ES | Eurosport 1ⓧ SD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48663
-#EXTINF:0 tvg-id="Eurosport2.fr" group-title="|ES| DEPORTES",ES | Eurosport 2ⓧ FHD
+#EXTINF:0 tvg-id="Eurosport2.fr" group-title="SPAIN SPORT",ES | Eurosport 2ⓧ FHD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/104724
-#EXTINF:0 tvg-id="Eurosport2.fr" group-title="|ES| DEPORTES",ES | Eurosport 2ⓧ HD
+#EXTINF:0 tvg-id="Eurosport2.fr" group-title="SPAIN SPORT",ES | Eurosport 2ⓧ HD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/2531
-#EXTINF:0 tvg-id="Eurosport2.fr" group-title="|ES| DEPORTES",ES | Eurosport 2ⓧ SD
+#EXTINF:0 tvg-id="Eurosport2.fr" group-title="SPAIN SPORT",ES | Eurosport 2ⓧ SD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48842
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | Garage TVⓧ
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | Garage TVⓧ
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/95974
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | Gol TVⓧ FHD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | Gol TVⓧ FHD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/502
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | Gol TVⓧ HD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | Gol TVⓧ HD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/521
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | Gol TVⓧ SD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | Gol TVⓧ SD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48828
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | LaLiga TV Barⓧ FHD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | LaLiga TV Barⓧ FHD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/49230
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | LaLiga TV Barⓧ HD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | LaLiga TV Barⓧ HD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/514
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | M Liga de Campeones 01ⓧ FHD (Solo Eventos)
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | M Liga de Campeones 01ⓧ FHD (Solo Eventos)
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48875
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | M Liga de Campeones 01ⓧ HD (Solo Eventos)
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | M Liga de Campeones 01ⓧ HD (Solo Eventos)
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48874
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | M Liga de Campeones 02ⓧ FHD (Solo Eventos)
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | M Liga de Campeones 02ⓧ FHD (Solo Eventos)
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48873
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | M Liga de Campeones 02ⓧ HD (Solo Eventos)
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | M Liga de Campeones 02ⓧ HD (Solo Eventos)
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48872
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | M Liga de Campeones 03ⓧ (Solo Eventos)
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | M Liga de Campeones 03ⓧ (Solo Eventos)
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48852
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | M Liga de Campeones 04ⓧ (Solo Eventos)
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | M Liga de Campeones 04ⓧ (Solo Eventos)
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48871
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | M Liga de Campeones 05ⓧ (Solo Eventos)
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | M Liga de Campeones 05ⓧ (Solo Eventos)
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48870
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | M Liga de Campeones 06ⓧ (Solo Eventos)
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | M Liga de Campeones 06ⓧ (Solo Eventos)
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48869
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | M Liga de Campeones 07ⓧ (Solo Eventos)
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | M Liga de Campeones 07ⓧ (Solo Eventos)
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48868
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | M Liga de Campeones 08ⓧ (Solo Eventos)
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | M Liga de Campeones 08ⓧ (Solo Eventos)
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48867
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | M Liga de Campeones 09ⓧ (Solo Eventos)
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | M Liga de Campeones 09ⓧ (Solo Eventos)
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/104717
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | M Liga de Campeones 10ⓧ (Solo Eventos)
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | M Liga de Campeones 10ⓧ (Solo Eventos)
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/104718
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | M Liga de Campeones 11ⓧ (Solo Eventos)
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | M Liga de Campeones 11ⓧ (Solo Eventos)
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/104719
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | M Liga de Campeones 12ⓧ (Solo Eventos)
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | M Liga de Campeones 12ⓧ (Solo Eventos)
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/104720
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | M Liga de Campeonesⓧ FHD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | M Liga de Campeonesⓧ FHD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48851
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | M Liga de Campeonesⓧ Full HD HEVC
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | M Liga de Campeonesⓧ Full HD HEVC
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48865
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | M Liga de Campeonesⓧ HD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | M Liga de Campeonesⓧ HD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48831
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | M Liga de Campeonesⓧ SD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | M Liga de Campeonesⓧ SD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48866
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | M. DAZN F1ⓧ FHD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | M. DAZN F1ⓧ FHD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48830
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | M. DAZN F1ⓧ Full HD HEVC
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | M. DAZN F1ⓧ Full HD HEVC
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/495
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | M. DAZN F1ⓧ HD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | M. DAZN F1ⓧ HD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48832
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | M. DAZN F1ⓧ SD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | M. DAZN F1ⓧ SD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/104702
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | Movistar Deportes 1ⓧ (Solo Eventos)
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | Movistar Deportes 1ⓧ (Solo Eventos)
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48659
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | Movistar Deportes 2ⓧ (Solo Eventos)
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | Movistar Deportes 2ⓧ (Solo Eventos)
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/93116
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | Movistar Deportes 3ⓧ (Solo Eventos)
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | Movistar Deportes 3ⓧ (Solo Eventos)
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/93117
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | Movistar Deportes 4ⓧ (Solo Eventos)
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | Movistar Deportes 4ⓧ (Solo Eventos)
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/93118
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | Movistar Deportes 5ⓧ (Solo Eventos)
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | Movistar Deportes 5ⓧ (Solo Eventos)
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/93119
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | Movistar Deportesⓧ FHD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | Movistar Deportesⓧ FHD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48864
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | Movistar Deportesⓧ Full HD HEVC
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | Movistar Deportesⓧ Full HD HEVC
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/93131
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | Movistar Deportesⓧ HD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | Movistar Deportesⓧ HD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/493
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | Movistar Deportesⓧ SD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | Movistar Deportesⓧ SD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48834
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | Movistar Golfⓧ FHD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | Movistar Golfⓧ FHD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48850
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | Movistar Golfⓧ Full HD HEVC
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | Movistar Golfⓧ Full HD HEVC
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/93132
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | Movistar Golfⓧ HD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | Movistar Golfⓧ HD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/496
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | Movistar Golfⓧ SD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | Movistar Golfⓧ SD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48661
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | Movistar LaLiga 01ⓧ (Solo Eventos)
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | Movistar LaLiga 01ⓧ (Solo Eventos)
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48855
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | Movistar LaLiga 02ⓧ (Solo Eventos)
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | Movistar LaLiga 02ⓧ (Solo Eventos)
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48829
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | Movistar LaLiga 03ⓧ (Solo Eventos)
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | Movistar LaLiga 03ⓧ (Solo Eventos)
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/74444
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | Movistar LaLiga 04ⓧ (Solo Eventos)
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | Movistar LaLiga 04ⓧ (Solo Eventos)
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/74445
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | Movistar LaLiga 05ⓧ (Solo Eventos)
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | Movistar LaLiga 05ⓧ (Solo Eventos)
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/74446
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | Movistar LaLiga 06ⓧ (Solo Eventos)
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | Movistar LaLiga 06ⓧ (Solo Eventos)
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/74447
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | Movistar LaLiga 07ⓧ (Solo Eventos)
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | Movistar LaLiga 07ⓧ (Solo Eventos)
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/74448
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | Movistar LaLiga 08ⓧ (Solo Eventos)
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | Movistar LaLiga 08ⓧ (Solo Eventos)
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/74449
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | Movistar LaLiga 09ⓧ (Solo Eventos)
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | Movistar LaLiga 09ⓧ (Solo Eventos)
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/99093
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | Movistar LaLiga 10ⓧ (Solo Eventos)
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | Movistar LaLiga 10ⓧ (Solo Eventos)
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/99094
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | Movistar LaLigaⓧ FHD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | Movistar LaLigaⓧ FHD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48853
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | Movistar LaLigaⓧ Full HD HEVC
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | Movistar LaLigaⓧ Full HD HEVC
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/93133
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | Movistar LaLigaⓧ HD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | Movistar LaLigaⓧ HD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48854
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | Movistar LaLigaⓧ SD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | Movistar LaLigaⓧ SD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/494
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | Movistar Multideporteⓧ SD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | Movistar Multideporteⓧ SD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48857
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | Movistar Multideporteⓧ SD HEVC
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | Movistar Multideporteⓧ SD HEVC
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/491
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | Movistar Torosⓧ FHD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | Movistar Torosⓧ FHD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48843
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | Movistar Torosⓧ Full HD HEVC
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | Movistar Torosⓧ Full HD HEVC
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48816
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | Movistar Torosⓧ HD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | Movistar Torosⓧ HD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48844
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | Movistar Torosⓧ SD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | Movistar Torosⓧ SD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/2447
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | Movistar Vamosⓧ FHD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | Movistar Vamosⓧ FHD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48633
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | Movistar Vamosⓧ Full HD HEVC
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | Movistar Vamosⓧ Full HD HEVC
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48820
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | Movistar Vamosⓧ HD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | Movistar Vamosⓧ HD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48785
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | Movistar Vamosⓧ SD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | Movistar Vamosⓧ SD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48786
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | Olympic Channel ENGⓧ HD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | Olympic Channel ENGⓧ HD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48856
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | Real Betis TVⓧ
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | Real Betis TVⓧ
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/122226
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | Real Madrid TV ENGⓧ FHD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | Real Madrid TV ENGⓧ FHD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/104697
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | Real Madrid TVⓧ SD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | Real Madrid TVⓧ SD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/515
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | Real Madrid TVⓧ FHD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | Real Madrid TVⓧ FHD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48837
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | Sevilla FC TVⓧ SD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | Sevilla FC TVⓧ SD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48859
-#EXTINF:0 tvg-id="Teledeporte.es" group-title="|ES| DEPORTES",ES | Teledeporteⓧ FHD
+#EXTINF:0 tvg-id="Teledeporte.es" group-title="SPAIN SPORT",ES | Teledeporteⓧ FHD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48835
-#EXTINF:0 tvg-id="Teledeporte.es" group-title="|ES| DEPORTES",ES | Teledeporteⓧ HD
+#EXTINF:0 tvg-id="Teledeporte.es" group-title="SPAIN SPORT",ES | Teledeporteⓧ HD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48664
-#EXTINF:0 tvg-id="Teledeporte.es" group-title="|ES| DEPORTES",ES | Teledeporteⓧ SD
+#EXTINF:0 tvg-id="Teledeporte.es" group-title="SPAIN SPORT",ES | Teledeporteⓧ SD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48751
-#EXTINF:0 tvg-id="Teledeporte.es" group-title="|ES| DEPORTES",ES | Teledeporteⓧ SD HEVC
+#EXTINF:0 tvg-id="Teledeporte.es" group-title="SPAIN SPORT",ES | Teledeporteⓧ SD HEVC
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/517
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | DAZN LaLigaⓧ FHD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | DAZN LaLigaⓧ FHD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/104713
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | DAZN LaLiga 2ⓧ FHD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | DAZN LaLiga 2ⓧ FHD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/104712
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | DAZN LaLigaⓧ SD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | DAZN LaLigaⓧ SD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/104711
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | DAZN LaLigaⓧ HD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | DAZN LaLigaⓧ HD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/104710
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | M Liga de Campeones 13ⓧ (Solo Eventos)
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | M Liga de Campeones 13ⓧ (Solo Eventos)
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/141654
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | LaLiga SmartBank 1ⓧ FHD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | LaLiga SmartBank 1ⓧ FHD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/141655
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | LaLiga SmartBank 2ⓧ FHD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | LaLiga SmartBank 2ⓧ FHD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/141656
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | LaLiga SmartBank 1ⓧ HD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | LaLiga SmartBank 1ⓧ HD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/141657
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | LaLiga SmartBank 2ⓧ HD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | LaLiga SmartBank 2ⓧ HD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/141658
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | Footters 1ⓧ  (Solo Eventos)
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | Footters 1ⓧ  (Solo Eventos)
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/141665
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | Footters 2ⓧ  (Solo Eventos)
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | Footters 2ⓧ  (Solo Eventos)
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/141666
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | Footters 3ⓧ  (Solo Eventos)
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | Footters 3ⓧ  (Solo Eventos)
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/141667
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | Footters 4ⓧ  (Solo Eventos)
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | Footters 4ⓧ  (Solo Eventos)
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/141668
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | Footters 5ⓧ  (Solo Eventos)
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | Footters 5ⓧ  (Solo Eventos)
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/141669
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | Footters 6ⓧ  (Solo Eventos)
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | Footters 6ⓧ  (Solo Eventos)
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/141670
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | Gol Mundialⓧ FHD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | Gol Mundialⓧ FHD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/145972
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | Gol Mundialⓧ HD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | Gol Mundialⓧ HD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/145973
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | Gol Mundialⓧ SD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | Gol Mundialⓧ SD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/145974
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | Gol Mundialⓧ 2 HD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | Gol Mundialⓧ 2 HD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/145975
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | Gol Mundialⓧ 2 FHD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | Gol Mundialⓧ 2 FHD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/145976
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | Gol Mundialⓧ 2 HD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | Gol Mundialⓧ 2 HD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/145977
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | Gol Mundialⓧ 2 SD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | Gol Mundialⓧ 2 SD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/145978
-#EXTINF:0 tvg-id="ext" group-title="|ES| DEPORTES",ES | Gol Mundialⓧ 4K
+#EXTINF:0 tvg-id="ext" group-title="SPAIN SPORT",ES | Gol Mundialⓧ 4K
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/145979
-#EXTINF:0 tvg-id="ext" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Be Madⓧ FHD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",ES | Be Madⓧ FHD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48676
-#EXTINF:0 tvg-id="ext" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Be Madⓧ SD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",ES | Be Madⓧ SD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48775
-#EXTINF:0 tvg-id="ext" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Be Madⓧ SD HEVC
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",ES | Be Madⓧ SD HEVC
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48774
-#EXTINF:0 tvg-id="ext" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Blazeⓧ HD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",ES | Blazeⓧ HD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/503
-#EXTINF:0 tvg-id="ext" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Blazeⓧ SD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",ES | Blazeⓧ SD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48778
-#EXTINF:0 tvg-id="ext" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Blazeⓧ SD HEVC
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",ES | Blazeⓧ SD HEVC
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48888
-#EXTINF:0 tvg-id="ext" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Canal Cocinaⓧ FHD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",ES | Canal Cocinaⓧ FHD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48806
-#EXTINF:0 tvg-id="ext" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Canal Cocinaⓧ SD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",ES | Canal Cocinaⓧ SD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48813
-#EXTINF:0 tvg-id="ext" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Canal Cocinaⓧ SD HEVC
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",ES | Canal Cocinaⓧ SD HEVC
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/93286
-#EXTINF:0 tvg-id="ext" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Canal Historiaⓧ FHD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",ES | Canal Historiaⓧ FHD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48760
-#EXTINF:0 tvg-id="ext" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Canal Historiaⓧ HD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",ES | Canal Historiaⓧ HD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/93277
-#EXTINF:0 tvg-id="ext" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Canal Historiaⓧ SD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",ES | Canal Historiaⓧ SD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48761
-#EXTINF:0 tvg-id="ext" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Canal Historiaⓧ SD HEVC
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",ES | Canal Historiaⓧ SD HEVC
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48840
-#EXTINF:0 tvg-id="CazayPesca.es" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Caza y Pescaⓧ FHD
+#EXTINF:0 tvg-id="CazayPesca.es" group-title="SPAIN",ES | Caza y Pescaⓧ FHD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48665
-#EXTINF:0 tvg-id="CazayPesca.es" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Caza y Pescaⓧ Full HD HEVC
+#EXTINF:0 tvg-id="CazayPesca.es" group-title="SPAIN",ES | Caza y Pescaⓧ Full HD HEVC
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/513
-#EXTINF:0 tvg-id="CazayPesca.es" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Caza y Pescaⓧ HD
+#EXTINF:0 tvg-id="CazayPesca.es" group-title="SPAIN",ES | Caza y Pescaⓧ HD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48752
-#EXTINF:0 tvg-id="CazayPesca.es" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Caza y Pescaⓧ SD
+#EXTINF:0 tvg-id="CazayPesca.es" group-title="SPAIN",ES | Caza y Pescaⓧ SD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48753
-#EXTINF:0 tvg-id="ext" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Cazavision PTⓧ HD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",ES | Cazavision PTⓧ HD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48801
-#EXTINF:0 tvg-id="ext" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Crimen+Investigacionⓧ HD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",ES | Crimen+Investigacionⓧ HD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48886
-#EXTINF:0 tvg-id="ext" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Crimen+Investigacionⓧ SD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",ES | Crimen+Investigacionⓧ SD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48765
-#EXTINF:0 tvg-id="ext" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Crimen+Investigacionⓧ SD HEVC
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",ES | Crimen+Investigacionⓧ SD HEVC
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/509
-#EXTINF:0 tvg-id="Decasa.es" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Decasa SDⓧ HEVC
+#EXTINF:0 tvg-id="Decasa.es" group-title="SPAIN",ES | Decasa SDⓧ HEVC
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48887
-#EXTINF:0 tvg-id="Decasa.es" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Decasaⓧ FHD
+#EXTINF:0 tvg-id="Decasa.es" group-title="SPAIN",ES | Decasaⓧ FHD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48672
-#EXTINF:0 tvg-id="Decasa.es" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Decasaⓧ HD
+#EXTINF:0 tvg-id="Decasa.es" group-title="SPAIN",ES | Decasaⓧ HD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/49240
-#EXTINF:0 tvg-id="Decasa.es" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Decasaⓧ SD
+#EXTINF:0 tvg-id="Decasa.es" group-title="SPAIN",ES | Decasaⓧ SD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48807
-#EXTINF:0 tvg-id="DiscoveryenEspanol.us" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Discovery Channelⓧ FHD
+#EXTINF:0 tvg-id="DiscoveryenEspanol.us" group-title="SPAIN",ES | Discovery Channelⓧ FHD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48885
-#EXTINF:0 tvg-id="DiscoveryenEspanol.us" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Discovery Channelⓧ HD
+#EXTINF:0 tvg-id="DiscoveryenEspanol.us" group-title="SPAIN",ES | Discovery Channelⓧ HD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48799
-#EXTINF:0 tvg-id="DiscoveryenEspanol.us" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Discovery Channelⓧ SD
+#EXTINF:0 tvg-id="DiscoveryenEspanol.us" group-title="SPAIN",ES | Discovery Channelⓧ SD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48795
-#EXTINF:0 tvg-id="DiscoveryenEspanol.us" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Discovery Channelⓧ SD HEVC
+#EXTINF:0 tvg-id="DiscoveryenEspanol.us" group-title="SPAIN",ES | Discovery Channelⓧ SD HEVC
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/518
-#EXTINF:0 tvg-id="ext" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | DKissⓧ SD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",ES | DKissⓧ SD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/93275
-#EXTINF:0 tvg-id="ext" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | DKissⓧ SD HEVC
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",ES | DKissⓧ SD HEVC
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/93276
-#EXTINF:0 tvg-id="ext" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | DMAXⓧ HD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",ES | DMAXⓧ HD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/93291
-#EXTINF:0 tvg-id="ext" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | DMAXⓧ SD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",ES | DMAXⓧ SD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48814
-#EXTINF:0 tvg-id="IberaliaTV.es" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Iberalia TVⓧ SD
+#EXTINF:0 tvg-id="IberaliaTV.es" group-title="SPAIN",ES | Iberalia TVⓧ SD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48691
-#EXTINF:0 tvg-id="IberaliaTV.es" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Iberalia TVⓧ SD HEVC
+#EXTINF:0 tvg-id="IberaliaTV.es" group-title="SPAIN",ES | Iberalia TVⓧ SD HEVC
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/527
-#EXTINF:0 tvg-id="ext" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Megaⓧ FHD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",ES | Megaⓧ FHD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48675
-#EXTINF:0 tvg-id="ext" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Megaⓧ HD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",ES | Megaⓧ HD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48772
-#EXTINF:0 tvg-id="ext" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Megaⓧ SD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",ES | Megaⓧ SD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48773
-#EXTINF:0 tvg-id="ext" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Nat Geo Wildⓧ FHD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",ES | Nat Geo Wildⓧ FHD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48759
-#EXTINF:0 tvg-id="ext" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Nat Geo Wildⓧ Full HD HEVC
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",ES | Nat Geo Wildⓧ Full HD HEVC
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48819
-#EXTINF:0 tvg-id="ext" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Nat Geo Wildⓧ HD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",ES | Nat Geo Wildⓧ HD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/93363
-#EXTINF:0 tvg-id="ext" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Nat Geo Wildⓧ SD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",ES | Nat Geo Wildⓧ SD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48758
-#EXTINF:0 tvg-id="ext" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | National Geographicⓧ FHD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",ES | National Geographicⓧ FHD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48666
-#EXTINF:0 tvg-id="ext" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | National Geographicⓧ Full HD HEVC
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",ES | National Geographicⓧ Full HD HEVC
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48817
-#EXTINF:0 tvg-id="ext" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | National Geographicⓧ HD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",ES | National Geographicⓧ HD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/93362
-#EXTINF:0 tvg-id="ext" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | National Geographicⓧ SD
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",ES | National Geographicⓧ SD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/519
-#EXTINF:0 tvg-id="Odisea.es" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Odiseaⓧ FHD
+#EXTINF:0 tvg-id="Odisea.es" group-title="SPAIN",ES | Odiseaⓧ FHD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48670
-#EXTINF:0 tvg-id="Odisea.es" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Odiseaⓧ HD
+#EXTINF:0 tvg-id="Odisea.es" group-title="SPAIN",ES | Odiseaⓧ HD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48762
-#EXTINF:0 tvg-id="Odisea.es" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Odiseaⓧ SD
+#EXTINF:0 tvg-id="Odisea.es" group-title="SPAIN",ES | Odiseaⓧ SD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48763
-#EXTINF:0 tvg-id="Odisea.es" group-title="|ES| DOCUMENTALES Y AFICIONES",ES | Odiseaⓧ SD HEVC
+#EXTINF:0 tvg-id="Odisea.es" group-title="SPAIN",ES | Odiseaⓧ SD HEVC
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/511
 #EXTINF:0 tvg-id="ext" group-title="|ES| MOVISTAR ALQUILER",ES | Movistar Alquiler 01ⓧ
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48808
@@ -2359,15 +1982,15 @@ http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/129177
 
 
 
-#EXTINF:-1 group-title="Rakuten TV" tvg-id="RAKUTEN.TV.ACCION" tvg-logo="https://www.socialcreator.com/srv/imgs/html/148595/rakuten%20acciOn(1).png" tvg-name="Rakuten TV Acción", Rakuten TV Acción
+#EXTINF:-1 group-title="SPAIN" tvg-id="RAKUTEN.TV.ACCION" tvg-logo="https://www.socialcreator.com/srv/imgs/html/148595/rakuten%20acciOn(1).png" tvg-name="Rakuten TV Acción", Rakuten TV Acción
 https://rakuten-actionmovies-2-es.samsung.wurl.tv/3000.m3u8
-#EXTINF:-1 group-title="Rakuten TV" tvg-id="RAKUTEN.TV.COMEDIA" tvg-logo="https://www.socialcreator.com/srv/imgs/html/148595/rakuten%20comedia(1).png" tvg-name="Rakuten TV Comedia", Rakuten TV Comedia
+#EXTINF:-1 group-title="SPAIN" tvg-id="RAKUTEN.TV.COMEDIA" tvg-logo="https://www.socialcreator.com/srv/imgs/html/148595/rakuten%20comedia(1).png" tvg-name="Rakuten TV Comedia", Rakuten TV Comedia
 https://rakuten-comedymovies-2-es.samsung.wurl.tv/3000.m3u8
-#EXTINF:-1 group-title="Rakuten TV" tvg-id="RAKUTEN.TV.ENFAMILIA" tvg-logo="https://www.socialcreator.com/srv/imgs/html/148595/rakuten%20familia(1).png" tvg-name="Rakuten TV En familia", Rakuten TV En familia
+#EXTINF:-1 group-title="SPAIN" tvg-id="RAKUTEN.TV.ENFAMILIA" tvg-logo="https://www.socialcreator.com/srv/imgs/html/148595/rakuten%20familia(1).png" tvg-name="Rakuten TV En familia", Rakuten TV En familia
 https://rakuten-family-2-es.samsung.wurl.tv/3000.m3u8
-#EXTINF:-1 group-title="Rakuten TV" tvg-id="RAKUTEN.TV.DRAMA" tvg-logo="https://www.socialcreator.com/srv/imgs/html/148595/rakuten%20drama(1).png" tvg-name="Rakuten TV Drama", Rakuten TV Drama
+#EXTINF:-1 group-title="SPAIN" tvg-id="RAKUTEN.TV.DRAMA" tvg-logo="https://www.socialcreator.com/srv/imgs/html/148595/rakuten%20drama(1).png" tvg-name="Rakuten TV Drama", Rakuten TV Drama
 https://rakuten-tvshows-2-es.samsung.wurl.tv/3000.m3u8
-#EXTINF:-1 group-title="Rakuten TV" tvg-id="RAKUTEN.TV.SPOTLIGHT" tvg-logo="https://www.socialcreator.com/srv/imgs/html/148595/rakuten%20spotlight(1).png" tvg-name="Rakuten TV Spotlight", Rakuten TV Spotlight
+#EXTINF:-1 group-title="SPAIN" tvg-id="RAKUTEN.TV.SPOTLIGHT" tvg-logo="https://www.socialcreator.com/srv/imgs/html/148595/rakuten%20spotlight(1).png" tvg-name="Rakuten TV Spotlight", Rakuten TV Spotlight
 https://rakuten-spotlight-2-es.samsung.wurl.tv/3000.m3u8
 
 
@@ -2376,405 +1999,6 @@ https://rakuten-spotlight-2-es.samsung.wurl.tv/3000.m3u8
 
 
 
-
-#EXTINF:-1 group-title="VTR", 24 HORAS
-http://45.232.211.196:1080/play/a00n
-#EXTINF:-1 group-title="VTR", A&E HD
-http://45.232.211.196:1080/play/a03v
-#EXTINF:-1 group-title="VTR", AE Mundo
-http://45.232.211.196:1080/play/a02c
-#EXTINF:-1 group-title="VTR", AMC HD
-http://45.232.211.196:1080/play/a05h
-#EXTINF:-1 group-title="VTR", ATRES SERIES HD
-http://45.232.211.196:1080/play/a04n
-#EXTINF:-1 group-title="VTR", AXN
-http://45.232.211.196:1080/play/a00x
-#EXTINF:-1 group-title="VTR", AXN HD
-http://45.232.211.196:1080/play/a03y
-#EXTINF:-1 group-title="VTR", Animal Planet
-http://45.232.211.196:1080/play/a023
-#EXTINF:-1 group-title="VTR", Animal Planet HD
-http://45.232.211.196:1080/play/a05s
-#EXTINF:-1 group-title="VTR", BabyFirst
-http://45.232.211.196:1080/play/a01y
-#EXTINF:-1 group-title="VTR", CANAL 13
-http://45.232.211.196:1080/play/a00f
-#EXTINF:-1 group-title="VTR", CHV
-http://45.232.211.196:1080/play/a00e
-#EXTINF:-1 group-title="VTR", CHV HD
-http://45.232.211.196:1080/play/a04d
-#EXTINF:-1 group-title="VTR", CNN Chile
-http://45.232.211.196:1080/play/a01o
-#EXTINF:-1 group-title="VTR", CNN Chile HD
-http://45.232.211.196:1080/play/a03t
-#EXTINF:-1 group-title="VTR", CNN Espanol
-http://45.232.211.196:1080/play/a00a
-#EXTINF:-1 group-title="VTR", Canal Estrellas
-http://45.232.211.196:1080/play/a02g
-#EXTINF:-1 group-title="VTR", Canal Institucional HD
-http://45.232.211.196:1080/play/a04a
-#EXTINF:-1 group-title="VTR", Cartoon Network
-http://45.232.211.196:1080/play/a01r
-#EXTINF:-1 group-title="VTR", Cartoon Network HD
-http://45.232.211.196:1080/play/a05l
-#EXTINF:-1 group-title="VTR", Cinecanal
-http://45.232.211.196:1080/play/a01j
-#EXTINF:-1 group-title="VTR", Cinecanal HD
-http://45.232.211.196:1080/play/a05g
-#EXTINF:-1 group-title="VTR", Cinemax
-http://45.232.211.196:1080/play/a00v
-#EXTINF:-1 group-title="VTR", Cinemax HD
-http://45.232.211.196:1080/play/a04o
-#EXTINF:-1 group-title="VTR", Clover HD
-http://45.232.211.196:1080/play/a044
-#EXTINF:-1 group-title="VTR", Comedy Central HD
-http://45.232.211.196:1080/play/a04p
-#EXTINF:-1 group-title="VTR", Discovery Channel
-http://45.232.211.196:1080/play/a022
-#EXTINF:-1 group-title="VTR", Discovery H&H HD
-http://45.232.211.196:1080/play/a04w
-#EXTINF:-1 group-title="VTR", Discovery Kids
-http://45.232.211.196:1080/play/a009
-#EXTINF:-1 group-title="VTR", Discovery Kids HD
-http://45.232.211.196:1080/play/a04v
-#EXTINF:-1 group-title="VTR", Discovery Theater HD
-http://45.232.211.196:1080/play/a04x
-#EXTINF:-1 group-title="VTR", Discovery Turbo
-http://45.232.211.196:1080/play/a018
-#EXTINF:-1 group-title="VTR", Discovery World HD
-http://45.232.211.196:1080/play/a05f
-#EXTINF:-1 group-title="VTR", Disney Channel
-http://45.232.211.196:1080/play/a021
-#EXTINF:-1 group-title="VTR", Disney HD
-http://45.232.211.196:1080/play/a04f
-#EXTINF:-1 group-title="VTR", Disney Jr
-http://45.232.211.196:1080/play/a00m
-#EXTINF:-1 group-title="VTR", Disney Junior HD
-http://45.232.211.196:1080/play/a04k
-#EXTINF:-1 group-title="VTR", E Entertainment
-http://45.232.211.196:1080/play/a025
-#EXTINF:-1 group-title="VTR", ESPN
-http://45.232.211.196:1080/play/a028
-#EXTINF:-1 group-title="VTR", ESPN 2
-http://45.232.211.196:1080/play/a00p
-#EXTINF:-1 group-title="VTR", ESPN 2 HD
-http://45.232.211.196:1080/play/a04l
-#EXTINF:-1 group-title="VTR", ESPN 2 Latin
-http://45.232.211.196:1080/play/a027
-#EXTINF:-1 group-title="VTR", ESPN 2 Latin HD
-http://45.232.211.196:1080/play/a045
-#EXTINF:-1 group-title="VTR", ESPN 3
-http://45.232.211.196:1080/play/a01a
-#EXTINF:-1 group-title="VTR", ESPN 3 HD
-http://45.232.211.196:1080/play/a04i
-#EXTINF:-1 group-title="VTR", ESPN 4
-http://45.232.211.196:1080/play/a026
-#EXTINF:-1 group-title="VTR", ESPN 4 HD
-http://45.232.211.196:1080/play/a051
-#EXTINF:-1 group-title="VTR", ESPN EXTRA HD
-http://45.232.211.196:1080/play/a05i
-#EXTINF:-1 group-title="VTR", ESPN HD
-http://45.232.211.196:1080/play/a058
-#EXTINF:-1 group-title="VTR", El Gourmet HD
-http://45.232.211.196:1080/play/a04s
-#EXTINF:-1 group-title="VTR", Enlace
-http://45.232.211.196:1080/play/a01w
-#EXTINF:-1 group-title="VTR", Esne TV
-http://45.232.211.196:1080/play/a019
-#EXTINF:-1 group-title="VTR", FOX Sports 2 HD
-http://45.232.211.196:1080/play/a052
-#EXTINF:-1 group-title="VTR", FX
-http://45.232.211.196:1080/play/a00z
-#EXTINF:-1 group-title="VTR", FX HD
-http://45.232.211.196:1080/play/a057
-#EXTINF:-1 group-title="VTR", Fox Sports 1
-http://45.232.211.196:1080/play/a00h
-#EXTINF:-1 group-title="VTR", Fox Sports 2
-http://45.232.211.196:1080/play/a02h
-#EXTINF:-1 group-title="VTR", Fox Sports 3
-http://45.232.211.196:1080/play/a02i
-#EXTINF:-1 group-title="VTR", Fox Sports 3 HD
-http://45.232.211.196:1080/play/a04j
-#EXTINF:-1 group-title="VTR", GOL TV
-http://45.232.211.196:1080/play/a029
-#EXTINF:-1 group-title="VTR", HBO
-http://45.232.211.196:1080/play/a00u
-#EXTINF:-1 group-title="VTR", HBO 2
-http://45.232.211.196:1080/play/a00i
-#EXTINF:-1 group-title="VTR", HBO 2 HD
-http://45.232.211.196:1080/play/a05q
-#EXTINF:-1 group-title="VTR", HBO Family
-http://45.232.211.196:1080/play/a00l
-#EXTINF:-1 group-title="VTR", HBO HD
-http://45.232.211.196:1080/play/a05t
-#EXTINF:-1 group-title="VTR", HBO POP HD
-http://45.232.211.196:1080/play/a042
-#EXTINF:-1 group-title="VTR", HBO Plus
-http://45.232.211.196:1080/play/a00j
-#EXTINF:-1 group-title="VTR", HBO XTREME
-http://45.232.211.196:1080/play/a00k
-#EXTINF:-1 group-title="VTR", HOLA TV HD
-http://45.232.211.196:1080/play/a04g
-#EXTINF:-1 group-title="VTR", History Channel
-http://45.232.211.196:1080/play/a01i
-#EXTINF:-1 group-title="VTR", History Channel HD
-http://45.232.211.196:1080/play/a03u
-#EXTINF:-1 group-title="VTR", I-Sat
-http://45.232.211.196:1080/play/a01l
-#EXTINF:-1 group-title="VTR", ID HD
-http://45.232.211.196:1080/play/a04q
-#EXTINF:-1 group-title="VTR", Kanal D Drama HD
-http://45.232.211.196:1080/play/a05k
-#EXTINF:-1 group-title="VTR", La Red
-http://45.232.211.196:1080/play/a00b
-#EXTINF:-1 group-title="VTR", La Red HD
-http://45.232.211.196:1080/play/a048
-#EXTINF:-1 group-title="VTR", Lifetime
-http://45.232.211.196:1080/play/a01z
-#EXTINF:-1 group-title="VTR", MEGA HD
-http://45.232.211.196:1080/play/a05d
-#EXTINF:-1 group-title="VTR", MTV
-http://45.232.211.196:1080/play/a01m
-#EXTINF:-1 group-title="VTR", MTV 00s HD
-http://45.232.211.196:1080/play/a04m
-#EXTINF:-1 group-title="VTR", MTV LIVE HD
-http://45.232.211.196:1080/play/a050
-#EXTINF:-1 group-title="VTR", Mega
-http://45.232.211.196:1080/play/a00d
-#EXTINF:-1 group-title="VTR", NTV
-http://45.232.211.196:1080/play/a00t
-#EXTINF:-1 group-title="VTR", NTV HD
-http://45.232.211.196:1080/play/a05b
-#EXTINF:-1 group-title="VTR", Nat Geo
-http://45.232.211.196:1080/play/a01h
-#EXTINF:-1 group-title="VTR", Nat Geo HD
-http://45.232.211.196:1080/play/a05e
-#EXTINF:-1 group-title="VTR", Nick HD
-http://45.232.211.196:1080/play/a047
-#EXTINF:-1 group-title="VTR", Nick Jr
-http://45.232.211.196:1080/play/a017
-#EXTINF:-1 group-title="VTR", Nick Music HD
-http://45.232.211.196:1080/play/a054
-#EXTINF:-1 group-title="VTR", Nickelodeon
-http://45.232.211.196:1080/play/a01g
-#EXTINF:-1 group-title="VTR", Paramount HD
-http://45.232.211.196:1080/play/a05m
-#EXTINF:-1 group-title="VTR", Pasiones HD
-http://45.232.211.196:1080/play/a04e
-#EXTINF:-1 group-title="VTR", Playboy HD
-http://45.232.211.196:1080/play/a055
-#EXTINF:-1 group-title="VTR", RCN HD
-http://45.232.211.196:1080/play/a059
-#EXTINF:-1 group-title="VTR", STAR CHANNEL
-http://45.232.211.196:1080/play/a01p
-#EXTINF:-1 group-title="VTR", STAR CHANNEL 2 HD
-http://45.232.211.196:1080/play/a04y
-#EXTINF:-1 group-title="VTR", STAR CHANNEL HD
-http://45.232.211.196:1080/play/a046
-#EXTINF:-1 group-title="VTR", Sony
-http://45.232.211.196:1080/play/a00w
-#EXTINF:-1 group-title="VTR", Sony HD
-http://45.232.211.196:1080/play/a03w
-#EXTINF:-1 group-title="VTR", Space
-http://45.232.211.196:1080/play/a00y
-#EXTINF:-1 group-title="VTR", Space HD
-http://45.232.211.196:1080/play/a03z
-#EXTINF:-1 group-title="VTR", Studio Universal
-http://45.232.211.196:1080/play/a00o
-#EXTINF:-1 group-title="VTR", Studio Universal HD
-http://45.232.211.196:1080/play/a05n
-#EXTINF:-1 group-title="VTR", Sun Channel HD
-http://45.232.211.196:1080/play/a04u
-#EXTINF:-1 group-title="VTR", SyFy
-http://45.232.211.196:1080/play/a020
-#EXTINF:-1 group-title="VTR", TCM
-http://45.232.211.196:1080/play/a01q
-#EXTINF:-1 group-title="VTR", TLC
-http://45.232.211.196:1080/play/a02e
-#EXTINF:-1 group-title="VTR", TNT
-http://45.232.211.196:1080/play/a01s
-#EXTINF:-1 group-title="VTR", TNT HD
-http://45.232.211.196:1080/play/a04h
-#EXTINF:-1 group-title="VTR", TNT SPORTS 2
-http://45.232.211.196:1080/play/a00g
-#EXTINF:-1 group-title="VTR", TNT SPORTS 3
-http://45.232.211.196:1080/play/a02b
-#EXTINF:-1 group-title="VTR", TNT SPORTS HD
-http://45.232.211.196:1080/play/a040
-#EXTINF:-1 group-title="VTR", TNT Series HD
-http://45.232.211.196:1080/play/a056
-#EXTINF:-1 group-title="VTR", TRUTV HD
-http://45.232.211.196:1080/play/a04r
-#EXTINF:-1 group-title="VTR", TV+ HD
-http://45.232.211.196:1080/play/a05c
-#EXTINF:-1 group-title="VTR", TVE
-http://45.232.211.196:1080/play/a01x
-#EXTINF:-1 group-title="VTR", TVN
-http://45.232.211.196:1080/play/a00c
-#EXTINF:-1 group-title="VTR", TVN HD
-http://45.232.211.196:1080/play/a04c
-#EXTINF:-1 group-title="VTR", Telemundo
-http://45.232.211.196:1080/play/a02j
-#EXTINF:-1 group-title="VTR", TyC
-http://45.232.211.196:1080/play/a02a
-#EXTINF:-1 group-title="VTR", UCL HD
-http://45.232.211.196:1080/play/a053
-#EXTINF:-1 group-title="VTR", UNIVERSAL CHANNEL HD
-http://45.232.211.196:1080/play/a04z
-#EXTINF:-1 group-title="VTR", Universal
-http://45.232.211.196:1080/play/a01k
-#EXTINF:-1 group-title="VTR", ViaX
-http://45.232.211.196:1080/play/a02f
-#EXTINF:-1 group-title="VTR", Warner
-http://45.232.211.196:1080/play/a024
-#EXTINF:-1 group-title="VTR", Warner Channel HD
-http://45.232.211.196:1080/play/a03x
-#EXTINF:-1 group-title="VTR", Win Sports HD
-http://45.232.211.196:1080/play/a043
-#EXTINF:-1 group-title="VTR", Win Sports+ HD
-http://45.232.211.196:1080/play/a05r
-#EXTINF:-1 group-title="VTR", Zona Latina
-http://45.232.211.196:1080/play/a01n
-#EXTINF:-1 group-title="VTR", 24 Horas
-http://45.232.210.1:8062/play/a08l/index.m3u8
-#EXTINF:-1 group-title="VTR", AE Mundo
-http://45.232.210.1:8062/play/a08y/index.m3u8
-#EXTINF:-1 group-title="VTR", Animal Planet
-http://45.232.210.1:8062/play/a08p/index.m3u8
-#EXTINF:-1 group-title="VTR", AXN
-http://45.232.210.1:8062/play/a0b6/index.m3u8
-#EXTINF:-1 group-title="VTR", Canal 13
-http://45.232.210.1:8062/play/a088/index.m3u8
-#EXTINF:-1 group-title="VTR", Canal de Las estrellas
-http://45.232.210.1:8062/play/a093/index.m3u8
-#EXTINF:-1 group-title="VTR", Cartoon Network
-http://45.232.210.1:8062/play/a09m/index.m3u8
-#EXTINF:-1 group-title="VTR", CDF Basico
-http://45.232.210.1:8062/play/a08x/index.m3u8
-#EXTINF:-1 group-title="VTR", CDF HD
-http://45.232.210.1:8062/play/a05l/index.m3u8
-#EXTINF:-1 group-title="VTR", CDF PREMIUM
-http://45.232.210.1:8062/play/a08a/index.m3u8
-#EXTINF:-1 group-title="VTR", CHV
-http://45.232.210.1:8062/play/a087/index.m3u8
-#EXTINF:-1 group-title="VTR", CHV HD
-http://45.232.210.1:8062/play/a07d/index.m3u8
-#EXTINF:-1 group-title="VTR", Cinecanal
-http://45.232.210.1:8062/play/a09c/index.m3u8
-#EXTINF:-1 group-title="VTR", Cinemax
-http://45.232.210.1:8062/play/a0b4/index.m3u8
-#EXTINF:-1 group-title="VTR", CNN Chile
-http://45.232.210.1:8062/play/a09j/index.m3u8
-#EXTINF:-1 group-title="VTR", CNN Espanol
-http://45.232.210.1:8062/play/a083/index.m3u8
-#EXTINF:-1 group-title="VTR", Discovery Channel
-http://45.232.210.1:8062/play/a08o/index.m3u8
-#EXTINF:-1 group-title="VTR", Discovery ID
-http://45.232.210.1:8062/play/a09v/index.m3u8
-#EXTINF:-1 group-title="VTR", Discovery Kids
-http://45.232.210.1:8062/play/a082/index.m3u8
-#EXTINF:-1 group-title="VTR", Discovery Turbo
-http://45.232.210.1:8062/play/a0bh/index.m3u8
-#EXTINF:-1 group-title="VTR", Disney Channel
-http://45.232.210.1:8062/play/a08n/index.m3u8
-#EXTINF:-1 group-title="VTR", Disney Jr
-http://45.232.210.1:8062/play/a08j/index.m3u8
-#EXTINF:-1 group-title="VTR", E Entertainment
-http://45.232.210.1:8062/play/a08r/index.m3u8
-#EXTINF:-1 group-title="VTR", Enlace
-http://45.232.210.1:8062/play/a09r/index.m3u8
-#EXTINF:-1 group-title="VTR", ESPN
-http://45.232.210.1:8062/play/a08t/index.m3u8
-#EXTINF:-1 group-title="VTR", ESPN 2
-http://45.232.210.1:8062/play/a08u/index.m3u8
-#EXTINF:-1 group-title="VTR", ESPN 3
-http://45.232.210.1:8062/play/a0bj/index.m3u8
-#EXTINF:-1 group-title="VTR", Fox Channel
-http://45.232.210.1:8062/play/a09e/index.m3u8
-#EXTINF:-1 group-title="VTR", HBO
-http://45.232.210.1:8062/play/a0b3/index.m3u8
-#EXTINF:-1 group-title="VTR", HBO 2
-http://45.232.210.1:8062/play/a08f/index.m3u8
-#EXTINF:-1 group-title="VTR", HBO Family
-http://45.232.210.1:8062/play/a08i/index.m3u8
-#EXTINF:-1 group-title="VTR", HBO Plus
-http://45.232.210.1:8062/play/a08g/index.m3u8
-#EXTINF:-1 group-title="VTR", Fox Sports
-http://45.232.210.1:8062/play/a08s/index.m3u8
-#EXTINF:-1 group-title="VTR", History Channel
-http://45.232.210.1:8062/play/a09b/index.m3u8
-#EXTINF:-1 group-title="VTR", Fox Sports 2
-http://45.232.210.1:8062/play/a094/index.m3u8
-#EXTINF:-1 group-title="VTR", Home and Health
-http://45.232.210.1:8062/play/a09z/index.m3u8
-#EXTINF:-1 group-title="VTR", Fox Sports 3
-http://45.232.210.1:8062/play/a095/index.m3u8
-#EXTINF:-1 group-title="VTR", I-Sat
-http://45.232.210.1:8062/play/a09f/index.m3u8
-#EXTINF:-1 group-title="VTR", Fox Sports Premium
-http://45.232.210.1:8062/play/a08b/index.m3u8
-#EXTINF:-1 group-title="VTR", La Red
-http://45.232.210.1:8062/play/a084/index.m3u8
-#EXTINF:-1 group-title="VTR", FX
-http://45.232.210.1:8062/play/a0b8/index.m3u8
-#EXTINF:-1 group-title="VTR", Max Prime
-http://45.232.210.1:8062/play/a08h/index.m3u8
-#EXTINF:-1 group-title="VTR", Mega
-http://45.232.210.1:8062/play/a086/index.m3u8
-#EXTINF:-1 group-title="VTR", MTV
-http://45.232.210.1:8062/play/a09g/index.m3u8
-#EXTINF:-1 group-title="VTR", Nat Geo
-http://45.232.210.1:8062/play/a09a/index.m3u8
-#EXTINF:-1 group-title="VTR", Nick Jr
-http://45.232.210.1:8062/play/a0bg/index.m3u8
-#EXTINF:-1 group-title="VTR", Nickelodeon
-http://45.232.210.1:8062/play/a098/index.m3u8
-#EXTINF:-1 group-title="VTR", RCN Novelas
-http://45.232.210.1:8062/play/a09u/index.m3u8
-#EXTINF:-1 group-title="VTR", Sin Limites
-http://45.232.210.1:8062/play/a0a9/index.m3u8
-#EXTINF:-1 group-title="VTR", Sony
-http://45.232.210.1:8062/play/a0b5/index.m3u8
-#EXTINF:-1 group-title="VTR", Space
-http://45.232.210.1:8062/play/a0b7/index.m3u8
-#EXTINF:-1 group-title="VTR", TBS
-http://45.232.210.1:8062/play/a09y/index.m3u8
-#EXTINF:-1 group-title="VTR", TCM
-http://45.232.210.1:8062/play/a09k/index.m3u8
-#EXTINF:-1 group-title="VTR", Telemundo
-http://45.232.210.1:8062/play/a096/index.m3u8
-#EXTINF:-1 group-title="VTR", TNT
-http://45.232.210.1:8062/play/a09n/index.m3u8
-#EXTINF:-1 group-title="VTR", Travel and Living
-http://45.232.210.1:8062/play/a091/index.m3u8
-#EXTINF:-1 group-title="VTR", TVE
-http://45.232.210.1:8062/play/a09s/index.m3u8
-#EXTINF:-1 group-title="VTR", TVN
-http://45.232.210.1:8062/play/a085/index.m3u8
-#EXTINF:-1 group-title="VTR", Universal
-http://45.232.210.1:8062/play/a09d/index.m3u8
-#EXTINF:-1 group-title="VTR", ViaX
-http://45.232.210.1:8062/play/a092/index.m3u8
-#EXTINF:-1 group-title="VTR", Warner
-http://45.232.210.1:8062/play/a08q/index.m3u8
-#EXTINF:-1 group-title="VTR", TNT HD
-http://45.232.210.1:8062/play/tnthd/index.m3u8
-#EXTINF:-1 group-title="VTR", CANAL 13 HD
-http://45.232.210.1:8062/play/a07g/index.m3u8
-#EXTINF:-1 group-title="VTR", MEGA HD
-http://45.232.210.1:8062/play/a07f/index.m3u8
-#EXTINF:-1 group-title="VTR", LA RED HD
-http://45.232.210.1:8062/play/a07e/index.m3u8
-#EXTINF:-1 group-title="VTR", NTV
-http://45.232.210.1:8062/play/a0cl/index.m3u8
-#EXTINF:-1 group-title="VTR", TVEDUCA
-http://45.232.210.1:8062/play/a0c9/index.m3u8
-#EXTINF:-1 group-title="VTR", UCV
-http://45.232.210.1:8062/play/a07k/index.m3u8
-#EXTINF:-1 group-title="VTR", Venus
-http://45.232.210.1:8062/play/a0ca/index.m3u8
-#EXTINF:-1 group-title="VTR", Zona Latina
-http://45.232.210.1:8062/play/a09h/index.m3u8
 
 
 
