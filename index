@@ -1533,6 +1533,13 @@
 "url":"https://raw.githubusercontent.com/inerte1978/inerte1978/13ab848e7e6aee68564f3466d0816b8e575719ad/channels.txt",
 "import": true
 },
+{
+"name":"TV RESPALDO 7",
+"image":"https://t3.ftcdn.net/jpg/03/44/01/08/360_F_344010875_ue8VwwMUsziXgBN6PtmjTCf9pGYDvBNg.jpg",
+"info": "This list does not host its own content, it just collects existing links",
+"url":"https://raw.githubusercontent.com/emanuelbecchero/EmaList/c20c39ef98747611a3605a4bbd3241353e00438d/Lista.m3u",
+"import": true
+},
 ]
 }
 ]
