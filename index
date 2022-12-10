@@ -1569,6 +1569,14 @@
 "import": true
 },
 {
+"name":"TV RESPALDO 8",
+"image":"https://t3.ftcdn.net/jpg/03/44/01/08/360_F_344010875_ue8VwwMUsziXgBN6PtmjTCf9pGYDvBNg.jpg",
+"info": "This list does not host its own content, it just collects existing links",
+"url":"https://raw.githubusercontent.com/markymac5/Mcast/main/PLAYLIST_ALL.m3u",
+"import": true
+},
+
+{
 "name":"TV RESPALDO UK",
 "image":"https://t3.ftcdn.net/jpg/03/44/01/08/360_F_344010875_ue8VwwMUsziXgBN6PtmjTCf9pGYDvBNg.jpg",
 "info": "This list does not host its own content, it just collects existing links",
