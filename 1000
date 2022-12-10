@@ -24,6 +24,8 @@ https://multimedia.eitb.eus/live-content/oka3hd-hls/master.m3u8
 https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
 #EXTINF: -1 tvg-id="ETB2.TV" tvg-name="ETB 2" tvg-chno="67" tvg-logo="https://graph.facebook.com/eitb/picture?width=200&height=200" , ETB 2
 https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
+#EXTINF:0 tvg-id="Navarra TV" group-title="", Navarra TVⓧ
+http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/93852
 #EXTINF: -1 tvg-name="Euronews" tvg-chno="20" tvg-logo="https://graph.facebook.com/es.euronews/picture?width=200&height=200" , Euronews
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF: -1 tvg-name="El País" tvg-chno="23" tvg-logo="https://graph.facebook.com/elpais/picture?width=200&height=200" , El País
@@ -1252,19 +1254,19 @@ http://fleedeed.top:8080/861665542246254021/9481665542246254/19657
 http://fleedeed.top:8080/861665542246254021/9481665542246254/19658
 #EXTINF:-1 group-title="USA FOX" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png" ,USA: FOX YOUNGSTOWN
 http://fleedeed.top:8080/861665542246254021/9481665542246254/19659
-#EXTINF:-1 group-title="ana" tvg-logo="https://pbs.twimg.com/profile_images/1590123392484737028/r2OGGZpr_400x400.jpg" tvg-id="Gol Mundial HD" ,ES: GOL MUNDIAL 1 FHD
+#EXTINF:-1 group-title="Gol Mundial" tvg-logo="https://pbs.twimg.com/profile_images/1590123392484737028/r2OGGZpr_400x400.jpg" tvg-id="Gol Mundial HD" ,ES: GOL MUNDIAL 1 FHD
 http://goodtv.nicefin.xyz:80/miguelangel/miguelangel/333642
-#EXTINF:-1 group-title="ana" tvg-logo="https://pbs.twimg.com/profile_images/1590123392484737028/r2OGGZpr_400x400.jpg" tvg-id="Gol Mundial HD" ,ES: GOL MUNDIAL 1 HD
+#EXTINF:-1 group-title="Gol Mundial" tvg-logo="https://pbs.twimg.com/profile_images/1590123392484737028/r2OGGZpr_400x400.jpg" tvg-id="Gol Mundial HD" ,ES: GOL MUNDIAL 1 HD
 http://goodtv.nicefin.xyz:80/miguelangel/miguelangel/333643
-#EXTINF:-1 group-title="ana" tvg-logo="https://pbs.twimg.com/profile_images/1590123392484737028/r2OGGZpr_400x400.jpg" tvg-id="Gol Mundial HD" ,ES: GOL MUNDIAL 1 SD
+#EXTINF:-1 group-title="Gol Mundial" tvg-logo="https://pbs.twimg.com/profile_images/1590123392484737028/r2OGGZpr_400x400.jpg" tvg-id="Gol Mundial HD" ,ES: GOL MUNDIAL 1 SD
 http://goodtv.nicefin.xyz:80/miguelangel/miguelangel/333644
-#EXTINF:-1 group-title="ana" tvg-logo="https://pbs.twimg.com/profile_images/1590123392484737028/r2OGGZpr_400x400.jpg" ,ES: GOL MUNDIAL 2 FHD
+#EXTINF:-1 group-title="Gol Mundial" tvg-logo="https://pbs.twimg.com/profile_images/1590123392484737028/r2OGGZpr_400x400.jpg" ,ES: GOL MUNDIAL 2 FHD
 http://goodtv.nicefin.xyz:80/miguelangel/miguelangel/333645
-#EXTINF:-1 group-title="ana" tvg-logo="https://pbs.twimg.com/profile_images/1590123392484737028/r2OGGZpr_400x400.jpg" ,ES: GOL MUNDIAL 2 HD
+#EXTINF:-1 group-title="Gol Mundial" tvg-logo="https://pbs.twimg.com/profile_images/1590123392484737028/r2OGGZpr_400x400.jpg" ,ES: GOL MUNDIAL 2 HD
 http://goodtv.nicefin.xyz:80/miguelangel/miguelangel/333646
-#EXTINF:-1 group-title="ana" tvg-logo="https://pbs.twimg.com/profile_images/1590123392484737028/r2OGGZpr_400x400.jpg" ,ES: GOL MUNDIAL 2 SD
+#EXTINF:-1 group-title="Gol Mundial" tvg-logo="https://pbs.twimg.com/profile_images/1590123392484737028/r2OGGZpr_400x400.jpg" ,ES: GOL MUNDIAL 2 SD
 http://goodtv.nicefin.xyz:80/miguelangel/miguelangel/333647
-#EXTINF:-1 group-title="ana" tvg-logo="https://pbs.twimg.com/profile_images/1590123392484737028/r2OGGZpr_400x400.jpg" tvg-id="Gol Mundial HD" ,ES: GOL MUNDIAL 1 HD(OP1)
+#EXTINF:-1 group-title="Gol Mundial" tvg-logo="https://pbs.twimg.com/profile_images/1590123392484737028/r2OGGZpr_400x400.jpg" tvg-id="Gol Mundial HD" ,ES: GOL MUNDIAL 1 HD(OP1)
 http://goodtv.nicefin.xyz:80/miguelangel/miguelangel/333713
 
 #EXTINF:0 tvg-id="ext" group-title="|ES| CINE Y SERIES ",ES | #0ⓧ FHD
@@ -1490,30 +1492,7 @@ http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48638
 #EXTINF:0 tvg-id="ext" group-title="|ES| CINE Y SERIES ",ES | TNTⓧ SD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48711
 
-#EXTINF:0 tvg-id="ext" group-title="|ES| MUSICALES",ES | 1 Music Hungriaⓧ
-http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/94231
-#EXTINF:0 tvg-id="ext" group-title="|ES| MUSICALES",ES | 4FUN TV Poloniaⓧ
-http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/94227
-#EXTINF:0 tvg-id="ext" group-title="|ES| MUSICALES",ES | Activa TV Españaⓧ
-http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/94216
-#EXTINF:0 tvg-id="ext" group-title="|ES| MUSICALES",ES | Armada TVⓧ
-http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/93482
-#EXTINF:0 tvg-id="ext" group-title="|ES| MUSICALES",ES | Cadena Elite Españaⓧ
-http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/94217
-#EXTINF:0 tvg-id="ext" group-title="|ES| MUSICALES",ES | Classicaⓧ HD
-http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/93358
-#EXTINF:0 tvg-id="ext" group-title="|ES| MUSICALES",ES | First Music Channel Bielorrusiaⓧ
-http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/94236
-#EXTINF:0 tvg-id="ext" group-title="|ES| MUSICALES",ES | Hit Music Hungriaⓧ
-http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/94232
-#EXTINF:0 tvg-id="ext" group-title="|ES| MUSICALES",ES | m2o Italiaⓧ
-http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/94229
-#EXTINF:0 tvg-id="ext" group-title="|ES| MUSICALES",ES | Melody Channel Colombiaⓧ
-http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/94252
-#EXTINF:0 tvg-id="MezzoLiveHD.fr" group-title="|ES| MUSICALES",ES | Mezzo Liveⓧ FHD
-http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48686
-#EXTINF:0 tvg-id="Mezzo.fr" group-title="|ES| MUSICALES",ES | Mezzoⓧ SD
-http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48660
+
 #EXTINF:0 tvg-id="ext" group-title="|ES| MUSICALES",ES | Movistar Festⓧ FHD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/115839
 #EXTINF:0 tvg-id="ext" group-title="|ES| MUSICALES",ES | Movistar Festⓧ Full HD HEVC
@@ -1528,30 +1507,7 @@ http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48646
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/93360
 #EXTINF:0 tvg-id="ext" group-title="|ES| MUSICALES",ES | MTV Hits Europeⓧ SD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/2597
-#EXTINF:0 tvg-id="ext" group-title="|ES| MUSICALES",ES | Ocko Chequiaⓧ
-http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/94228
-#EXTINF:0 tvg-id="ext" group-title="|ES| MUSICALES",ES | ON TV Portugalⓧ
-http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/94230
-#EXTINF:0 tvg-id="ext" group-title="|ES| MUSICALES",ES | Onda Digital Perúⓧ
-http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/94246
-#EXTINF:0 tvg-id="ext" group-title="|ES| MUSICALES",ES | Portal Foxmix Colombiaⓧ
-http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/94251
-#EXTINF:0 tvg-id="ext" group-title="|ES| MUSICALES",ES | Power TV Turquíaⓧ
-http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/94233
-#EXTINF:0 tvg-id="ext" group-title="|ES| MUSICALES",ES | QMusic Holandaⓧ
-http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/94226
-#EXTINF:0 tvg-id="ext" group-title="|ES| MUSICALES",ES | Radio 21 Rock'n Pop Alemaniaⓧ
-http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/94234
-#EXTINF:0 tvg-id="ext" group-title="|ES| MUSICALES",ES | Retro Plus TV Chileⓧ
-http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/94240
-#EXTINF:0 tvg-id="ext" group-title="|ES| MUSICALES",ES | Telemúsica Colombiaⓧ
-http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/94250
-#EXTINF:0 tvg-id="ext" group-title="|ES| MUSICALES",ES | Top Latino TV Perúⓧ
-http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/94243
-#EXTINF:0 tvg-id="ext" group-title="|ES| MUSICALES",ES | Urban Revolution Españaⓧ
-http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/94218
-#EXTINF:0 tvg-id="ext" group-title="|ES| MUSICALES",ES | V2Beat TVⓧ
-http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/94221
+
 #EXTINF:0 tvg-id="ext" group-title="|ES| CANALES REGIONALES",ES | 101 TV Málagaⓧ FHD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/93391
 #EXTINF:0 tvg-id="ext" group-title="|ES| CANALES REGIONALES",ES | 25 TV Cataluñaⓧ
@@ -1897,10 +1853,6 @@ http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/104695
 #EXTINF:0 tvg-id="XTRM.es" group-title="|ES| ENTRETENIMIENTO",ES | XTRMⓧ FHD
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/48689
 
-#EXTINF:0 tvg-id="ext" group-title="|ES| RELIGIOSOS",ES | Sunnah TVⓧ
-http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/95118
-#EXTINF:0 tvg-id="ext" group-title="|ES| RELIGIOSOS",ES | TBN Españaⓧ
-http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/95109
 #EXTINF:0 tvg-id="ext" group-title="|ES| CANALES INTERNACIONALES",ES | ABC Australia ENⓧ
 http://platinumxmedia.xyz:8080/geniptvservice/beCLtjVyxqGN/95972
 #EXTINF:0 tvg-id="ext" group-title="|ES| CANALES INTERNACIONALES",ES | ABC TV Paraguayⓧ
