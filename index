@@ -1363,12 +1363,7 @@
 "url":"https://pastebin.com/CuJ8H9wi",
 "import": true
 },
-{
-"name":"Cine VOD",
-"image": "https://www.eltiempo.com/files/image_640_428/uploads/2021/10/29/617c82b007708.jpeg",
-"url":"https://raw.githubusercontent.com/Jayoir/1/main/VOD.txt",
-"import": true
-},
+
 {
 "name":"Cine Respaldo ext1",
 "image": "https://www.eltiempo.com/files/image_640_428/uploads/2021/10/29/617c82b007708.jpeg",
@@ -1579,6 +1574,13 @@
 "image":"https://t3.ftcdn.net/jpg/03/44/01/08/360_F_344010875_ue8VwwMUsziXgBN6PtmjTCf9pGYDvBNg.jpg",
 "info": "This list does not host its own content, it just collects existing links",
 "url":"https://raw.githubusercontent.com/markymac5/Mcast/main/PLAYLIST_ALL.m3u",
+"import": true
+},
+{
+"name":"TV RESPALDO 9",
+"image":"https://t3.ftcdn.net/jpg/03/44/01/08/360_F_344010875_ue8VwwMUsziXgBN6PtmjTCf9pGYDvBNg.jpg",
+"info": "This list does not host its own content, it just collects existing links",
+"url":"https://raw.githubusercontent.com/D4NIPTV/D4N-IPTV.m3u/3f917f6394134920a8be4d0db2a35e0c9a5a9d3d/D4NIPTV91222.m3u",
 "import": true
 },
 
