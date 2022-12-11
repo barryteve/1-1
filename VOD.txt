@@ -1382,7 +1382,10 @@ https://emeskyu15.emeskyu.workers.dev/0:/Riddick.2013.mkv
 https://emeskyu15.emeskyu.workers.dev/0:/The.Chronicles.of.Riddick.2004.mkv
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/dqKazfP.png" group-title="VOD Full Movies (Foreign)",•The Last Witch Hunter (2015)
 https://emeskyu15.emeskyu.workers.dev/0:/The.Last.Witch.Hunter.2015.mkv
-
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/OSBuhA1.png" group-title="VOD Full Movies (Foreign)",•xXx (2002)
+https://emeskyu15.emeskyu.workers.dev/0:/xXx.2002.mkv
+#EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/6UjdcHV.png" group-title="VOD Full Movies (Foreign)",•xXx: Return of Xander Cage (2017)
+https://emeskyu15.emeskyu.workers.dev/0:/xXx.Return.of.Xander.Cage.2017.mkv
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/oLmNrCX.png" group-title="VOD Full Movies (Foreign)",•Rurouni Kenshin Part I: Origins (2012)
 https://emeskyu15.emeskyu.workers.dev/0:/Rurouni.Kenshin.2012.mkv
 #EXTINF:-1  tvg-name="" tvg-id="" tvg-logo="https://i.imgur.com/pvZ7pak.png" group-title="VOD Full Movies (Foreign)",•Rurouni Kenshin Part II: Kyoto Inferno (2014)
