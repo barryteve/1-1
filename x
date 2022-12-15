@@ -5,7 +5,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01970-mypadeldigitals-mypadeltv-sam
 http://apptelspro.org:8080/Shu3jYphSHjM/69Yv3Uz94qBt/187925
 
 
-#EXTINF:-1 tvg-id="ELLAS #V HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" ,ELLAS #V HD 
+#EXTINF:-1 tvg-id="ELLAS #V HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mev.png" ,ELLAS 1080
 http://127.0.0.1:6878/ace/manifest.m3u8?id=107acd31600d0fdcdbac2065171c39042f3369c7
-#EXTINF:-1 tvg-id="#Ellas 720" tvg-logo="https://raw.githubusercontent.com/davidmuma/log_dobleM/master/acestream.png" ,#Ellas 720 
+#EXTINF:-1 tvg-id="#Ellas 720" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mev.png" ,Ellas 720 
 http://127.0.0.1:6878/ace/manifest.m3u8?id=71e9e4c66a271ff58beb76792e01eeb6a1dde746
