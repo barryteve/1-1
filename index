@@ -1445,13 +1445,7 @@
 "info": "This list does not host its own content, it just collects existing links",
 "groups":
 [
-{
-"name": "Amazon Prime Channels",
-"image": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/032018/untitled-1_159.png",
-"info": "This list does not host its own content, it just collects existing links",
-"url": "https://raw.githubusercontent.com/Jayoir/1/main/amaz1.txt",
-"import": true
-},
+
 {
 "name": "Netflix Channels",
 "image": "https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/102014/netflix_2014.png?itok=qtd05Dk3",
