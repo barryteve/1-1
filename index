@@ -1518,14 +1518,12 @@
 }
 ]
 },
-
 {
 "name":"TV RESPALDO",
 "image":"https://t3.ftcdn.net/jpg/03/44/01/08/360_F_344010875_ue8VwwMUsziXgBN6PtmjTCf9pGYDvBNg.jpg",
 "info": "This list does not host its own content, it just collects existing links",
 "groups":
 [
-
 {
 "name":"TV RESPALDO IPTV",
 "image":"https://t3.ftcdn.net/jpg/03/44/01/08/360_F_344010875_ue8VwwMUsziXgBN6PtmjTCf9pGYDvBNg.jpg",
@@ -1533,7 +1531,20 @@
 "url":"https://raw.githubusercontent.com/Jayoir/1/main/IPTV_DDGARCIA.txt",
 "import": true
 },
-
+{
+"name":"TV RESPALDO IPTV 2",
+"image":"https://t3.ftcdn.net/jpg/03/44/01/08/360_F_344010875_ue8VwwMUsziXgBN6PtmjTCf9pGYDvBNg.jpg",
+"info": "This list does not host its own content, it just collects existing links",
+"url":"https://raw.githubusercontent.com/Jayoir/1/main/tv_channels_rocky21_plus.txt",
+"import": true
+},
+{
+"name":"TV RESPALDO Acestream",
+"image":"https://t3.ftcdn.net/jpg/03/44/01/08/360_F_344010875_ue8VwwMUsziXgBN6PtmjTCf9pGYDvBNg.jpg",
+"info": "This list does not host its own content, it just collects existing links",
+"url":"https://raw.githubusercontent.com/agentesonoesmio/Consejos-para-pelo-largo-y-rizado/main/Xavipelofrondoso.m3u8",
+"import": true
+},
 {
 "name":"TV RESPALDO 4",
 "image":"https://t3.ftcdn.net/jpg/03/44/01/08/360_F_344010875_ue8VwwMUsziXgBN6PtmjTCf9pGYDvBNg.jpg",
@@ -1548,7 +1559,6 @@
 "url":"https://raw.githubusercontent.com/vicentegithublista/vicen/377af921d9f4d49fe1bc81f6c9b827b5a496af86/rumania.m3u",
 "import": true
 },
-
 {
 "name":"TV RESPALDO 7",
 "image":"https://t3.ftcdn.net/jpg/03/44/01/08/360_F_344010875_ue8VwwMUsziXgBN6PtmjTCf9pGYDvBNg.jpg",
@@ -1557,15 +1567,6 @@
 "import": true
 },
 
-
-
-{
-"name":"TV RESPALDO Acestream",
-"image":"https://t3.ftcdn.net/jpg/03/44/01/08/360_F_344010875_ue8VwwMUsziXgBN6PtmjTCf9pGYDvBNg.jpg",
-"info": "This list does not host its own content, it just collects existing links",
-"url":"https://raw.githubusercontent.com/agentesonoesmio/Consejos-para-pelo-largo-y-rizado/main/Xavipelofrondoso.m3u8",
-"import": true
-},
 {
 "name":"TV RESPALDO 2 BIS",
 "image":"https://t3.ftcdn.net/jpg/03/44/01/08/360_F_344010875_ue8VwwMUsziXgBN6PtmjTCf9pGYDvBNg.jpg",
@@ -1573,13 +1574,7 @@
 "url":"https://raw.githubusercontent.com/Jayoir/1/main/tv_channels_Rodriguez26.txt",
 "import": true
 },
-{
-"name":"TV RESPALDO IPTV",
-"image":"https://t3.ftcdn.net/jpg/03/44/01/08/360_F_344010875_ue8VwwMUsziXgBN6PtmjTCf9pGYDvBNg.jpg",
-"info": "This list does not host its own content, it just collects existing links",
-"url":"https://raw.githubusercontent.com/Jayoir/1/main/tv_channels_rocky21_plus.txt",
-"import": true
-},
+
 {
 "name":"TV RESPALDO UK",
 "image":"https://t3.ftcdn.net/jpg/03/44/01/08/360_F_344010875_ue8VwwMUsziXgBN6PtmjTCf9pGYDvBNg.jpg",
@@ -1587,7 +1582,6 @@
 "url":"https://raw.githubusercontent.com/markymac5/Mcast/b7706e96d2ab7fcf71ce5ed074ae7c051bdf143f/PLAYLIST_ALL.m3u",
 "import": true
 }
-
 ]
 },
 {
