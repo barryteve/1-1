@@ -508,21 +508,3 @@ http://tribaliptv.com:8080/Gustavo/123456/5220
 http://tribaliptv.com:8080/Gustavo/123456/5221
 #EXTINF:-1 tvg-id="TRECE" tvg-name="TRECE tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/2880px-Trece.svg.png" group-title="ENTRETENIMIENTO",TRECE tv
 http://tribaliptv.com:8080/Gustavo/123456/5222
-#EXTINF:-1 tvg-id="" tvg-name="Canal Sur Andalucía" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" group-title="AUTONOMICAS",Canal Sur Andalucía
-http://tribaliptv.com:8080/Gustavo/123456/10966
-#EXTINF:-1 tvg-id="" tvg-name="Canal Sur 2 Andalucía" tvg-logo="https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" group-title="AUTONOMICAS",Canal Sur 2 Andalucía
-http://tribaliptv.com:8080/Gustavo/123456/10967
-#EXTINF:-1 tvg-id="" tvg-name="101TV Málaga" tvg-logo="https://graph.facebook.com/101tvmalaga/picture?width=200&height=200" group-title="AUTONOMICAS",101TV Málaga
-http://tribaliptv.com:8080/Gustavo/123456/10968
-#EXTINF:-1 tvg-id="" tvg-name="El Correo de Andalucía" tvg-logo="https://graph.facebook.com/elcorreoweb/picture?width=200&height=200" group-title="AUTONOMICAS",El Correo de Andalucía
-http://tribaliptv.com:8080/Gustavo/123456/10969
-#EXTINF:-1 tvg-id="" tvg-name="Onda Cádiz" tvg-logo="https://graph.facebook.com/ondacadiz/picture?width=200&height=200" group-title="AUTONOMICAS",Onda Cádiz
-http://tribaliptv.com:8080/Gustavo/123456/10970
-#EXTINF:-1 tvg-id="" tvg-name="Mijas 3.40 TV" tvg-logo="https://graph.facebook.com/Mijas340/picture?width=200&height=200" group-title="AUTONOMICAS",Mijas 3.40 TV
-http://tribaliptv.com:8080/Gustavo/123456/10971
-#EXTINF:-1 tvg-id="" tvg-name="Córdoba TV" tvg-logo="https://graph.facebook.com/cordobatvonline/picture?width=200&height=200" group-title="AUTONOMICAS",Córdoba TV
-http://tribaliptv.com:8080/Gustavo/123456/10972
-#EXTINF:-1 tvg-id="" tvg-name="PTV Málaga" tvg-logo="https://graph.facebook.com/PTV.Malaga/picture?width=200&height=200" group-title="AUTONOMICAS",PTV Málaga
-http://tribaliptv.com:8080/Gustavo/123456/10973
-#EXTINF:-1 tvg-id="" tvg-name="M95 Marbella" tvg-logo="https://graph.facebook.com/m95tvmarbella/picture?width=200&height=200" group-title="AUTONOMICAS",M95 Marbella
-http://tribaliptv.com:8080/Gustavo/123456/10974
