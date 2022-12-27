@@ -1379,12 +1379,7 @@
 "url":"https://raw.githubusercontent.com/richardguiri/p/main/p",
 "import": true
 },
-{
-"name":"Cine Inglés Subtitulado",
-"image": "https://www.eltiempo.com/files/image_640_428/uploads/2021/10/29/617c82b007708.jpeg",
-"url":"https://raw.githubusercontent.com/emanuelbecchero/EmaList/c20c39ef98747611a3605a4bbd3241353e00438d/Lista.m3u",
-"import": true
-},
+
 {
 "name":"Marvel",
 "image": "https://i.pinimg.com/originals/b5/de/08/b5de08b9050e254b008dcc13d28ac42e.jpg",
