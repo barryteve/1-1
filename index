@@ -1446,13 +1446,7 @@
 "url": "https://raw.githubusercontent.com/Jayoir/1/main/hbo.txt",
 "import": true
 },
-{
-"name": "SKY Channels (Inglés)",
-"image": "https://logos-world.net/wp-content/uploads/2021/02/Sky-Logo-1995-1997.png",
-"info": "This list does not host its own content, it just collects existing links",
-"url": "https://raw.githubusercontent.com/Jayoir/1/main/sky.txt",
-"import": true
-},
+
 {
 "name": "Universal Channels",
 "image": "https://1000marcas.net/wp-content/uploads/2021/04/Universal-Logo-1024x640.jpg",
@@ -1533,10 +1527,10 @@
 [
 
 {
-"name":"TV RESPALDO 2",
+"name":"TV RESPALDO IPTV",
 "image":"https://t3.ftcdn.net/jpg/03/44/01/08/360_F_344010875_ue8VwwMUsziXgBN6PtmjTCf9pGYDvBNg.jpg",
 "info": "This list does not host its own content, it just collects existing links",
-"url":"https://raw.githubusercontent.com/ddgarciaf02/acestreamids/main/channels.txt",
+"url":"https://raw.githubusercontent.com/Jayoir/1/main/IPTV_DDGARCIA.txt",
 "import": true
 },
 {
