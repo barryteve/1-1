@@ -1441,6 +1441,13 @@
 "import": true
 },
 {
+"name": "SKY Channels (Inglés)",
+"image": "https://logos-world.net/wp-content/uploads/2021/02/Sky-Logo-1995-1997.png",
+"info": "This list does not host its own content, it just collects existing links",
+"url": "https://raw.githubusercontent.com/Jayoir/1/main/sky.txt",
+"import": true
+},
+{
 "name": "Universal Channels",
 "image": "https://1000marcas.net/wp-content/uploads/2021/04/Universal-Logo-1024x640.jpg",
 "info": "This list does not host its own content, it just collects existing links",
