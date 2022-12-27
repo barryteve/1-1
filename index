@@ -1580,16 +1580,9 @@
 "import": true
 },
 
-{
-"name":"TV RESPALDO 2 BIS",
-"image":"https://t3.ftcdn.net/jpg/03/44/01/08/360_F_344010875_ue8VwwMUsziXgBN6PtmjTCf9pGYDvBNg.jpg",
-"info": "This list does not host its own content, it just collects existing links",
-"url":"https://raw.githubusercontent.com/Jayoir/1/main/tv_channels_Rodriguez26.txt",
-"import": true
-},
 
 {
-"name":"TV RESPALDO UK",
+"name":"TV extranjeros",
 "image":"https://t3.ftcdn.net/jpg/03/44/01/08/360_F_344010875_ue8VwwMUsziXgBN6PtmjTCf9pGYDvBNg.jpg",
 "info": "This list does not host its own content, it just collects existing links",
 "url":"https://raw.githubusercontent.com/markymac5/Mcast/b7706e96d2ab7fcf71ce5ed074ae7c051bdf143f/PLAYLIST_ALL.m3u",
