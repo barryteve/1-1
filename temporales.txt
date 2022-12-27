@@ -1,0 +1,21 @@
+{
+"name":"DAZN 1 1080 ant",
+"image": "https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png",
+"url":"acestream://d4d4200a1e52fc23940b2dde915600af7e9a6b05",
+"isHost": false
+},
+
+{
+"name":"DAZN 1 720 ant",
+"image": "https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png",
+"url":"acestream://84af46abab9de02bdd22818747738cfa5438132e",
+"isHost": false
+},
+{
+
+{
+"name": "Copa del Rey",
+"image":"https://phantom-marca.unidadeditorial.es/bdf0c163a63fb3f0add2502109ff0028/f/jpg/assets/multimedia/imagenes/2020/12/18/16082835869886.jpg",
+"url": "https://raw.githubusercontent.com/Jayoir/1/main/1001",
+"import":true
+},

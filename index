@@ -6,12 +6,7 @@
 "image":"https://c.tenor.com/q80_DoRce1MAAAAd/tv-no-signal.gif",
 "groups":
 [
-{
-"name": "Copa del Rey",
-"image":"https://phantom-marca.unidadeditorial.es/bdf0c163a63fb3f0add2502109ff0028/f/jpg/assets/multimedia/imagenes/2020/12/18/16082835869886.jpg",
-"url": "https://raw.githubusercontent.com/Jayoir/1/main/1001",
-"import":true
-},
+
 {
 "name":"AceSport Eventos",
 "image":"https://www.technipages.com/wp-content/uploads/2020/01/Ace-Stream-600x360.jpg",
@@ -1385,7 +1380,7 @@
 "import": true
 },
 {
-"name":"Cine Respaldo ext2",
+"name":"Cine Inglés Subtitulado",
 "image": "https://www.eltiempo.com/files/image_640_428/uploads/2021/10/29/617c82b007708.jpeg",
 "url":"https://raw.githubusercontent.com/emanuelbecchero/EmaList/c20c39ef98747611a3605a4bbd3241353e00438d/Lista.m3u",
 "import": true
@@ -1528,13 +1523,7 @@
 "info": "This list does not host its own content, it just collects existing links",
 "groups":
 [
-{
-"name":"TV RESPALDO 1",
-"image":"https://t3.ftcdn.net/jpg/03/44/01/08/360_F_344010875_ue8VwwMUsziXgBN6PtmjTCf9pGYDvBNg.jpg",
-"info": "This list does not host its own content, it just collects existing links",
-"url":"https://raw.githubusercontent.com/abrahamGalvin/IPTVDURO/369d193f1cfed7706dc56ee77226915412f179ac/listaduro",
-"import": true
-},
+
 {
 "name":"TV RESPALDO 2",
 "image":"https://t3.ftcdn.net/jpg/03/44/01/08/360_F_344010875_ue8VwwMUsziXgBN6PtmjTCf9pGYDvBNg.jpg",
@@ -1598,7 +1587,13 @@
 "url":"https://raw.githubusercontent.com/Jayoir/1/main/VOD.txt",
 "import": true
 },
-
+{
+"name":"TV RESPALDO 1 BIS",
+"image":"https://t3.ftcdn.net/jpg/03/44/01/08/360_F_344010875_ue8VwwMUsziXgBN6PtmjTCf9pGYDvBNg.jpg",
+"info": "This list does not host its own content, it just collects existing links",
+"url":"https://raw.githubusercontent.com/agentesonoesmio/Consejos-para-pelo-largo-y-rizado/main/Xavipelofrondoso.m3u8",
+"import": true
+},
 {
 "name":"TV RESPALDO UK",
 "image":"https://t3.ftcdn.net/jpg/03/44/01/08/360_F_344010875_ue8VwwMUsziXgBN6PtmjTCf9pGYDvBNg.jpg",
