@@ -19,3 +19,11 @@
 "url": "https://raw.githubusercontent.com/Jayoir/1/main/1001",
 "import":true
 },
+
+{
+"name": "SKY Channels (Inglés)",
+"image": "https://logos-world.net/wp-content/uploads/2021/02/Sky-Logo-1995-1997.png",
+"info": "This list does not host its own content, it just collects existing links",
+"url": "https://raw.githubusercontent.com/Jayoir/1/main/sky.txt",
+"import": true
+},
