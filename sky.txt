@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="SKY PREMIER VIP" tvg-id="" tvg-logo="https://i.imgur.com/jG4Gq6l.png" group-title="MOVIES",SKY CINEMA HITS
+https://tv4.live/api/stream/michael.woodland.25@hotmail.com/324101/livetv.epg/sky.cinema.hits.uk.m3u8
+#EXTINF:-1 tvg-name="SKY CINEMA ACTION" tvg-id="" tvg-logo="https://i.imgur.com/bpgfiuM.png" group-title="MOVIES",SKY CINEMA FAMILY
+https://tv4.live/api/stream/michael.woodland.25@hotmail.com/324101/livetv.epg/sky.cinema.family.uk.m3u8
+#EXTINF:-1 tvg-name="SKY CINEMA ACTION" tvg-id="" tvg-logo="https://i.imgur.com/bpgfiuM.png" group-title="MOVIES",SKY CINEMA ACTION
+https://tv4.live/api/stream/michael.woodland.25@hotmail.com/324101/livetv.epg/sky.cinema.action.uk.m3u8
+#EXTINF:-1 tvg-name="SKY CIN SCI-FI HORROR" tvg-id="" tvg-logo="https://i.imgur.com/ey1O1Jp.png" group-title="MOVIES",SKY CINEMA PREMIERE
+https://tv4.live/api/stream/michael.woodland.25@hotmail.com/324101/livetv.epg/sky.cinema.premiere.uk.m3u8
+#EXTINF:-1 tvg-name="SKY CIN SCI-FI HORROR" tvg-id="" tvg-logo="https://i.imgur.com/ey1O1Jp.png" group-title="MOVIES",SKY CINEMA COMEDY
+https://tv4.live/api/stream/michael.woodland.25@hotmail.com/324101/livetv.epg/sky.cinema.comedy.uk.m3u8
+#EXTINF:-1 tvg-name="SKY CINEMA FAMILY" tvg-id="" tvg-logo="https://i.imgur.com/83Ryq7C.png" group-title="MOVIES",SKY CINEMA HORROR/SCIFI
+https://tv4.live/api/stream/michael.woodland.25@hotmail.com/324101/livetv.epg/sky.cinema.sci.fihorror.uk.m3u8
+#EXTINF:-1 tvg-name="TNT" tvg-id="" tvg-logo="https://i.img" group-title="MOVIES",SKY DRAMA AND ROMANCE
+https://tv4.live/api/stream/michael.woodland.25@hotmail.com/324101/livetv.epg/sky.cinema.drama.uk.m3u8
+#EXTINF:-1 tvg-name="TNT" tvg-id="" tvg-logo="https://i.img" group-title="MOVIES",SKY CINEMA GREATS
+https://tv4.live/api/stream/michael.woodland.25@hotmail.com/324101/livetv.epg/sky.cinema.greats.uk.m3u8
+#EXTINF:-1 tvg-name="TNT" tvg-id="" tvg-logo="https://i.img" group-title="MOVIES",SKY CINEMA THRILLER
+https://tv4.live/api/stream/michael.woodland.25@hotmail.com/324101/livetv.epg/sky.cinema.thriller.uk.m3u8
