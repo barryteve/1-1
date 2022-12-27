@@ -1250,7 +1250,14 @@
 "import": true
 },
 {
-"name":"Pelis mp4",
+"name":"Inglés subtituladas",
+"image": "https://www.eltiempo.com/files/image_640_428/uploads/2021/10/29/617c82b007708.jpeg",
+"url":"https://raw.githubusercontent.com/Jayoir/1/main/VOD.txt",
+"import": true
+},
+
+{
+"name":"Pelis mp4 latino",
 "image": "https://www.eltiempo.com/files/image_640_428/uploads/2021/10/29/617c82b007708.jpeg",
 "url":"https://raw.githubusercontent.com/Jayoir/1/main/PELIS%20MP4.txt",
 "import": true
