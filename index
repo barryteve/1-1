@@ -1533,13 +1533,7 @@
 "url":"https://raw.githubusercontent.com/Jayoir/1/main/IPTV_DDGARCIA.txt",
 "import": true
 },
-{
-"name":"TV RESPALDO 3",
-"image":"https://t3.ftcdn.net/jpg/03/44/01/08/360_F_344010875_ue8VwwMUsziXgBN6PtmjTCf9pGYDvBNg.jpg",
-"info": "This list does not host its own content, it just collects existing links",
-"url":"https://raw.githubusercontent.com/agentesonoesmio/Nada/main/absolutamente%20nada.m3u",
-"import": true
-},
+
 {
 "name":"TV RESPALDO 4",
 "image":"https://t3.ftcdn.net/jpg/03/44/01/08/360_F_344010875_ue8VwwMUsziXgBN6PtmjTCf9pGYDvBNg.jpg",
@@ -1631,7 +1625,14 @@
 "image": "https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/ESBC2700002LO_20221214T044911.png",
 "url": "https://45e603c214f5438cae8872707b7fd678.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Samsung-es_GrjngoPeliculasDelOeste/playlist.m3u8?ads.wurl_channel=1239&ads.wurl_name=GrjngoPeliculasDelOeste&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D",
 "isHost": false
+},
+{
+"name":"Cine Clásico",
+"image": "https://images.pluto.tv/channels/61373bb45168fe000773eecd/colorLogoPNG.png" tvg-id="61373bb45168fe000773eecd",
+"url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61373bb45168fe000773eecd/master.m3u8?deviceType=samsung-"
+"isHost": false
 }
+
 ]
 }
 
