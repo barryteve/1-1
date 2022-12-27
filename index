@@ -1330,6 +1330,12 @@
 "image":"https://images.pluto.tv/channels/5e66968a70f34c0007d050be/colorLogoPNG.png",
 "url":"https://raw.githubusercontent.com/Jayoir/1/main/x1",
 "import":true
+},
+{
+"name": "Copa del Rey",
+"image":"https://phantom-marca.unidadeditorial.es/bdf0c163a63fb3f0add2502109ff0028/f/jpg/assets/multimedia/imagenes/2020/12/18/16082835869886.jpg",
+"url": "https://raw.githubusercontent.com/Jayoir/1/main/1001",
+"import":true
 }
 ]
 },
