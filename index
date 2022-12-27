@@ -1548,13 +1548,7 @@
 "url":"https://raw.githubusercontent.com/vicentegithublista/vicen/377af921d9f4d49fe1bc81f6c9b827b5a496af86/rumania.m3u",
 "import": true
 },
-{
-"name":"TV RESPALDO 6",
-"image":"https://t3.ftcdn.net/jpg/03/44/01/08/360_F_344010875_ue8VwwMUsziXgBN6PtmjTCf9pGYDvBNg.jpg",
-"info": "This list does not host its own content, it just collects existing links",
-"url":"https://raw.githubusercontent.com/inerte1978/inerte1978/13ab848e7e6aee68564f3466d0816b8e575719ad/channels.txt",
-"import": true
-},
+
 {
 "name":"TV RESPALDO 7",
 "image":"https://t3.ftcdn.net/jpg/03/44/01/08/360_F_344010875_ue8VwwMUsziXgBN6PtmjTCf9pGYDvBNg.jpg",
@@ -1562,29 +1556,11 @@
 "url":"https://raw.githubusercontent.com/emanuelbecchero/EmaList/c20c39ef98747611a3605a4bbd3241353e00438d/Lista.m3u",
 "import": true
 },
+
+
+
 {
-"name":"TV RESPALDO 8",
-"image":"https://t3.ftcdn.net/jpg/03/44/01/08/360_F_344010875_ue8VwwMUsziXgBN6PtmjTCf9pGYDvBNg.jpg",
-"info": "This list does not host its own content, it just collects existing links",
-"url":"https://raw.githubusercontent.com/markymac5/Mcast/main/PLAYLIST_ALL.m3u",
-"import": true
-},
-{
-"name":"TV RESPALDO 9",
-"image":"https://t3.ftcdn.net/jpg/03/44/01/08/360_F_344010875_ue8VwwMUsziXgBN6PtmjTCf9pGYDvBNg.jpg",
-"info": "This list does not host its own content, it just collects existing links",
-"url":"https://raw.githubusercontent.com/D4NIPTV/D4N-IPTV.m3u/3f917f6394134920a8be4d0db2a35e0c9a5a9d3d/D4NIPTV91222.m3u",
-"import": true
-},
-{
-"name":"TV RESPALDO 10",
-"image":"https://t3.ftcdn.net/jpg/03/44/01/08/360_F_344010875_ue8VwwMUsziXgBN6PtmjTCf9pGYDvBNg.jpg",
-"info": "This list does not host its own content, it just collects existing links",
-"url":"https://raw.githubusercontent.com/Jayoir/1/main/VOD.txt",
-"import": true
-},
-{
-"name":"TV RESPALDO 1 BIS",
+"name":"TV RESPALDO Acestream",
 "image":"https://t3.ftcdn.net/jpg/03/44/01/08/360_F_344010875_ue8VwwMUsziXgBN6PtmjTCf9pGYDvBNg.jpg",
 "info": "This list does not host its own content, it just collects existing links",
 "url":"https://raw.githubusercontent.com/agentesonoesmio/Consejos-para-pelo-largo-y-rizado/main/Xavipelofrondoso.m3u8",
@@ -1594,7 +1570,7 @@
 "name":"TV RESPALDO 2 BIS",
 "image":"https://t3.ftcdn.net/jpg/03/44/01/08/360_F_344010875_ue8VwwMUsziXgBN6PtmjTCf9pGYDvBNg.jpg",
 "info": "This list does not host its own content, it just collects existing links",
-"url":"https://raw.githubusercontent.com/agentesonoesmio/Consejos-para-pelo-largo-y-rizado/main/Xavipelofrondoso.m3u8",
+"url":"https://raw.githubusercontent.com/Jayoir/1/main/tv_channels_Rodriguez26.txt",
 "import": true
 },
 {

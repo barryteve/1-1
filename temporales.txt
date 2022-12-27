@@ -27,3 +27,19 @@
 "url": "https://raw.githubusercontent.com/Jayoir/1/main/sky.txt",
 "import": true
 },
+
+{
+"name":"TV RESPALDO 3",
+"image":"https://t3.ftcdn.net/jpg/03/44/01/08/360_F_344010875_ue8VwwMUsziXgBN6PtmjTCf9pGYDvBNg.jpg",
+"info": "This list does not host its own content, it just collects existing links",
+"url":"https://raw.githubusercontent.com/agentesonoesmio/Nada/main/absolutamente%20nada.m3u",
+"import": true
+},
+
+{
+"name":"PELIS INGLES",
+"image":"https://t3.ftcdn.net/jpg/03/44/01/08/360_F_344010875_ue8VwwMUsziXgBN6PtmjTCf9pGYDvBNg.jpg",
+"info": "This list does not host its own content, it just collects existing links",
+"url":"https://raw.githubusercontent.com/Jayoir/1/main/VOD.txt",
+"import": true
+},
