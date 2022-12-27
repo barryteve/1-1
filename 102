@@ -1,14 +1,12 @@
 #EXTM3U
 #EXTINF: -1 tvg-id="M+ LaLiga HD" tvg-name="Movistar LaLiga 1080 MultiAudio" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="La Liga", Movistar LaLiga 1080 MultiAudio
 acestream://684e5c085484e8ea79858713eeb7a3668baca29e
-
 #EXTINF: -1 tvg-id="LaLiga TV Bar HD" tvg-name="LaLiga Tv Bar 1080" tvg-logo="https://i.ibb.co/ykCff9y/La-Liga-Bar.jpg" group-title="La Liga", LaLiga Tv Bar 1080
 acestream://01b333b9369c662775902638ef8cffac346a0f61
 #EXTINF: -1 tvg-id="LALIGATV BAR" tvg-name="LaLiga Tv Bar 720" tvg-logo="https://i.ibb.co/ykCff9y/La-Liga-Bar.jpg" group-title="La Liga", LaLiga Tv Bar 720
 acestream://fce88ddb0aca4a0869ecd23bdf0bddc288d95260
 #EXTINF: -1 tvg-id="M+ LaLiga HD" tvg-name="La Liga - 720c" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="La Liga", La Liga - 720c
 acestream://87c317f519b24d8b1de5b5c9bfc6b1da0f6269a0
-
 #EXTINF: -1 tvg-id="M+ LaLiga HD" tvg-name="Movistar LaLiga 1080" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="La Liga", Movistar LaLiga 1080
 acestream://c22bfcc2a70b2a3f447d9b30c52e617946b03888
 #EXTINF: -1 tvg-id="M+ LaLiga HD" tvg-name="Movistar LaLiga 720" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="La Liga", Movistar LaLiga 720
@@ -17,7 +15,6 @@ acestream://df139bbcd7ae6825b46d5955c52d639f1215346a
 acestream://4229d640fecf3c0897674241bcf851b67f4310e3
 #EXTINF: -1 tvg-id="MovistarLaLiga2.es" tvg-name="Movistar LaLiga 2 720" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll2.png" group-title="La Liga", Movistar LaLiga 2 720
 acestream://a92af592ba7f8f2f087ee34b91662db47705ca52
-
 #EXTINF: -1 tvg-id="DAZN LaLigaHD" tvg-name="DAZN LaLiga 1080 multiaudio" tvg-logo="https://satcesc.com/wp-content/uploads/2005/02/DAZN-LaLiga.jpg" group-title="La Liga", DAZN LaLiga 1080 multiaudio
 acestream://fee5612d57824b6e8db780f210ec54093056dc3a
 #EXTINF: -1 tvg-id="DAZN LaLigaHD" tvg-name="DAZN LaLiga 1080" tvg-logo="https://satcesc.com/wp-content/uploads/2005/02/DAZN-LaLiga.jpg" group-title="La Liga", DAZN LaLiga 1080
