@@ -20,7 +20,7 @@
 {
 "name":"M. LaLiga 1080 Multiaudio",
 "image": "https://www.mundoplus.tv/wiki/_media/logos/mll.png",
-"url":"acestream://167e3b44a520cd76d4372f6d30fe6d7ccd524175",
+"url":"acestream://1e0214a06000e6f4847dd30cdc2fb839527be862",
 "isHost": false
 },
 {
@@ -38,21 +38,10 @@
 {
 "name":"M. LaLiga 720",
 "image": "https://www.mundoplus.tv/wiki/_media/logos/mll.png",
-"url":"acestream://df139bbcd7ae6825b46d5955c52d639f1215346a",
+"url":"acestream://5c668adaf86ed6af2488e28d9f3a4e3b0e909664",
 "isHost": false
 },
-{
-"name":"M. LaLiga 1080",
-"image": "https://www.mundoplus.tv/wiki/_media/logos/mll.png",
-"url":"acestream://87c317f519b24d8b1de5b5c9bfc6b1da0f6269a0",
-"isHost": false
-},
-{
-"name":"M. LaLiga 1080",
-"image": "https://www.mundoplus.tv/wiki/_media/logos/mll.png",
-"url":"acestream://08c830da1f7c5c8897d81dd4f80dbc9d0587a94c",
-"isHost": false
-},
+
 {
 "name":"M. LaLiga TV2 1080",
 "image": "https://www.mundoplus.tv/wiki/_media/logos/mllm2.png",
@@ -96,6 +85,12 @@
 "isHost": false
 },
 {
+"name":"DAZN LaLiga 2 720",
+"image": "https://www.mundoplus.tv/wiki/_media/logos/daznll2.png",
+"url":"acestream://d83a3242e10ecffc31a16a02890de199a65dd8d9",
+"isHost": false
+},
+{
 "name":"LaLiga Smart 1 1080 LM",
 "image":"https://static1.diariosur.es/www/multimedia/201907/30/media/cortadas/liga-smart-bank-kHMB-U80877895812lSF-1248x770@RC.jpg",
 "url":"acestream://7791ba828c0226d8f54cef1611889d29fb333247",
@@ -119,40 +114,11 @@
 "url":"acestream://d9cf1776ec4443e88aab3ca4b57647b00b4e439e",
 "isHost": false
 },
-{
-"name":"LaLiga Smart 1 1080",
-"image":"https://static1.diariosur.es/www/multimedia/201907/30/media/cortadas/liga-smart-bank-kHMB-U80877895812lSF-1248x770@RC.jpg",
-"url":"acestream://d4fa689e575f7626c8b136c9ad8685b945d3cccf",
-"isHost": false
-},
-{
-"name":"LaLiga Smart 1 720",
-"image":"https://static1.diariosur.es/www/multimedia/201907/30/media/cortadas/liga-smart-bank-kHMB-U80877895812lSF-1248x770@RC.jpg",
-"url":"acestream://24b85e8cdd5031e6752a8da2d1c8bbee19b0b3b3",
-"isHost": false
-},
-{
-"name":"LaLiga Smart 1 1080",
-"image":"https://static1.diariosur.es/www/multimedia/201907/30/media/cortadas/liga-smart-bank-kHMB-U80877895812lSF-1248x770@RC.jpg",
-"url":"acestream://3b50977af3acb17ecd8e463a94888dfbaea028d2",
-"isHost": false
-},
-{
-"name":"LaLiga Smart 2 1080",
-"image":"https://static1.diariosur.es/www/multimedia/201907/30/media/cortadas/liga-smart-bank-kHMB-U80877895812lSF-1248x770@RC.jpg",
-"url":"acestream://d475208e72b5a343080afa0724c7b7c42264b9a0",
-"isHost": false
-},
-{
-"name":"LaLiga Smart 2 Opc3",
-"image":"https://static1.diariosur.es/www/multimedia/201907/30/media/cortadas/liga-smart-bank-kHMB-U80877895812lSF-1248x770@RC.jpg",
-"url":"acestream://4229d640fecf3c0897674241bcf851b67f4310e3",
-"isHost": false
-},
+
 {
 "name":"LaLiga Smart 3 720",
 "image":"https://static1.diariosur.es/www/multimedia/201907/30/media/cortadas/liga-smart-bank-kHMB-U80877895812lSF-1248x770@RC.jpg",
-"url":"acestream://1000c018cf4afb7357f10e438e966d23340e4295",
+"url":"acestream://1104426e14b649eb23fee16698768544285de478",
 "isHost": false
 },
 {
@@ -170,7 +136,7 @@
 {
 "name":"GOL tv 1080",
 "image": "https://statics.goltelevision.com/shared/assets/logos/og-image2.jpg",
-"url":"acestream://49c35606668ebf7a895434ec4c9243a163d87718",
+"url":"acestream://d4627f7b6b237a8556819445b3283d866caceca2",
 "isHost": false
 }
 ]
@@ -183,7 +149,7 @@
 {
 "name":"M.L.Camp 1080 Multiaudio",
 "image": "https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=73a021&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmlc.png",
-"url":"acestream://aedf221240a0f8513d90b555bf1b6e5306ac1e76",
+"url":"acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b",
 "isHost": false
 },
 {
@@ -195,49 +161,33 @@
 {
 "name":"M.L.Camp 720",
 "image": "https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=73a021&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmlc.png",
-"url":"acestream://f8d89bf80b813631e6eb85fc8c185b00fe9ab88d",
+"url":"acestream://444b51b2606cba9efb1b4ff56bf652cbc02a5f47",
 "isHost": false
 },
 {
-"name":"M.L.Camp 1080",
+"name":"M.L.Camp 2 1080",
 "image": "https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=73a021&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmlc.png",
 "url":"acestream://3a3858cae88f14bbe00f54ba6c9ebf7b1de1e9b6",
 "isHost": false
 },
-{
-"name":"M.L.Camp2 1080",
-"image": "https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=399bb7&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmlc2.png",
-"url":"acestream://9b76d0739f87555ccd3f42fc8e548762a0b94c28",
-"isHost": false
-},
+
 {
 "name":"M.L.Camp2 720",
 "image": "https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=399bb7&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmlc2.png",
-"url":"acestream://04b36c831975b5514b63d6aaa97962bc2a495dd3",
+"url":"acestream://2d584c7335ff44f97c3cf64947892ef30fde715c",
 "isHost": false
 },
-{
-"name":"M.L.Camp2 1080",
-"image": "https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=399bb7&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmlc2.png",
-"url":"acestream://b373a2d2aa4d1aeb7e0d7fcdbe2ce28edf35bb13",
-"isHost": false
-},
-{
-"name":"M.L.Camp2 Opc3",
-"image": "https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=399bb7&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmlc2.png",
-"url":"acestream://91dce080463a5c6ee931fc5489a75ab54a5cb071",
-"isHost": false
-},
+
 {
 "name":"M.L.Camp3 1080",
 "image": "https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=63&h=47&tok=8fad81&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmlc3.png",
-"url":"acestream://f2b785193cfa99c581287be39e2fb5a73827957b",
+"url":"acestream://ecf4ec41200785812c140e3d1050b412f1519fa7",
 "isHost": false
 },
 {
 "name":"M.L.Camp3 720",
 "image": "https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=63&h=47&tok=8fad81&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmlc3.png",
-"url":"acestream://f588f41735c0c8ec0c412ef25ca5e5ac3b3626b9",
+"url":"acestream://d59fe9978eed49f256b312a60671b5bce43d3f24",
 "isHost": false
 },
 {
@@ -249,31 +199,21 @@
 {
 "name":"M.L.Camp4 720",
 "image": "https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=2d0575&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmlc4.png",
-"url":"acestream://8a9018cccaa36014ab0f050e5132d5ee264f7737",
+"url":"acestream://1a1b528109edead1904e3dbff575637a452dd1fa",
 "isHost": false
 },
-{
-"name":"M.L.Camp4 1080",
-"image": "https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=2d0575&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmlc4.png",
-"url":"acestream://297fab10d7364ca1991fa43fcff469573688ce7a",
-"isHost": false
-},
+
 {
 "name":"M.L.Camp5 720",
 "image": "https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=c6b10d&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmlc5.png",
-"url":"acestream://662cceb5a2b23f2150172df24247fa220d8d95d4",
+"url":"acestream://4b4a77f005ea45e57276ff9d90c3830b3c59010d",
 "isHost": false
 },
-{
-"name":"M.L.Camp5 720",
-"image": "https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=c6b10d&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmlc5.png",
-"url":"acestream://8446f55486c0d8c39c7dda19f8dfb071ddca4c94",
-"isHost": false
-},
+
 {
 "name":"M.L.Camp6 720",
 "image": "https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=75b4af&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmlc6.png",
-"url":"acestream://a2e878fbab5dff0e2cda01e74a88c7b32eb67913",
+"url":"acestream://e9950ec551124c490ecbc2526a83d2c5a4516293",
 "isHost": false
 },
 {
@@ -411,16 +351,11 @@
 "url":"acestream://0e18315b703248bb01eab6b9d3f0cb2cd893601f",
 "isHost": false
 },
-{
-"name":"#Vamos 1080",
-"image": "https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=c42857&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fvamos.png",
-"url":"acestream://87a043de5d4cd60c731bc00d09f13bad8d882164",
-"isHost": false
-},
+
 {
 "name":"#Vamos Ellas",
 "image": "https://www.mundoplus.tv/wiki/_media/logos/mev.png",
-"url":"acestream://107acd31600d0fdcdbac2065171c39042f3369c7",
+"url":"acestream://71e9e4c66a271ff58beb76792e01eeb6a1dde746",
 "isHost": false
 },
 {
@@ -504,7 +439,7 @@
 {
 "name":"M. Deportes 1080",
 "image": "https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=fdf4c9&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmde.png",
-"url":"acestream://49acacbbbcf33be6e843958ceedc7da8dd4f1486",
+"url":"acestream://8f75fa54b498ce6889068f56f7a343b72bbcfcc0",
 "isHost": false
 },
 {
@@ -513,40 +448,35 @@
 "url":"acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa",
 "isHost": false
 },
-{
-"name":"M. Deportes 1080",
-"image": "https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=fdf4c9&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmde.png",
-"url":"acestream://d580d53613be09c7a5388d808509f6c97ec07df2",
-"isHost": false
-},
+
 {
 "name":"M. Deportes 2 1080",
 "image": "https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=e194d0&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmdem2.png",
-"url":"acestream://c47f756750190e4b2a9eefe8afdac48a2203b8d6",
+"url":"acestream://f4cbec08c5a2f3bdbb7a0b8693a3936cd93ae2b5",
 "isHost": false
 },
 {
 "name":"M. Deportes 3 1080",
 "image": "https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=ff9e95&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmdem3.png",
-"url":"acestream://85bd65161dfd8c4033194da3c978c0450c9111db",
+"url":"acestream://ecf2096f9f612a70638d644fb621472a3ddaeb20",
 "isHost": false
 },
 {
 "name":"M. Deportes 4 1080",
 "image": "https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=f897b7&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmdem4.png",
-"url":"acestream://0c8935087510ee1c5117243a6cc46f9d6d795faf",
+"url":"acestream://08db089084ddbaceba7c239817407bf99708b9ad",
 "isHost": false
 },
 {
 "name":"M. Deportes 5 1080",
 "image": "https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=72&h=54&tok=5153c2&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmdem5.png",
-"url":"acestream://478833f6390f04e95c6d94180a784b78ad540d2f",
+"url":"acestream://ada5b10ab38ea2ad9f4fc8ccacad89d70af48c3c",
 "isHost": false
 },
 {
 "name":"M. Deportes 6 720",
 "image": "https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=cdf512&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmdem6.png",
-"url":"",
+"url":"acestream://f41bd6f3eed3fa2f561e39a9865df8ab354bf486",
 "isHost": false
 },
 {
@@ -576,27 +506,17 @@
 {
 "name":"EuroSport 1 1080",
 "image": "https://satcesc.com/wp-content/uploads/2016/02/eurosport1-hd.jpg",
-"url":"acestream://40da37534656efcc6179c1b7693335d5e8212e43",
+"url":"acestream://c9ee7c95e7a2e9cd0e848b1f70848453652bebc2",
 "isHost": false
 },
-{
-"name":"EuroSport 1 1080",
-"image": "https://satcesc.com/wp-content/uploads/2016/02/eurosport1-hd.jpg",
-"url":"acestream://f8a77a75bf7572e360556339794d3d13fca8caa9",
-"isHost": false
-},
+
 {
 "name":"EuroSport 2 1080",
 "image" : "https://4.bp.blogspot.com/-1bHZ8b5ZnW0/VzDh6KfzayI/AAAAAAAABsI/lKDWcPmyBSk7etoAj2DVr7nvQ5SsMPwzgCLcB/s1600/fhuxmcp92wg1w4y9pd2v4zjz3xs1vmjm.jpg",
-"url":"acestream://1954779c721fc7d87eb6d7df7ab11bf751cebb3b",
+"url":"acestream://d6622ca93e54e493a6910248f8fe1f03aa85bf01",
 "isHost": false
 },
-{
-"name":"EuroSport 2 1080",
-"image" : "https://4.bp.blogspot.com/-1bHZ8b5ZnW0/VzDh6KfzayI/AAAAAAAABsI/lKDWcPmyBSk7etoAj2DVr7nvQ5SsMPwzgCLcB/s1600/fhuxmcp92wg1w4y9pd2v4zjz3xs1vmjm.jpg",
-"url":"acestream://b12bd6f32bbd53a2bbf182a30549fbdf747235cd",
-"isHost": false
-},
+
 {
 "name":"GOL tv 1080",
 "image": "https://statics.goltelevision.com/shared/assets/logos/og-image2.jpg",
@@ -773,30 +693,7 @@
 "url":"acestream://bc9610c2cb92a71a5c17f357d66719fa1c054ced",
 "isHost": false
 },
-{
-"name":"RTL+ SPORT EVENT 1 [DE]",
-"image": "https://billwerk.io/wp-content/uploads/sites/2/2021/11/rtl-plus-logo-billwerk-rgb-500x300-digital-media-streaming-500x250.png",
-"url":"acestream://a7319ebd54cb1db9a9db1574929ca8d305a323d3",
-"isHost": false
-},
-{
-"name":"RTL+ SPORT EVENT 4 [DE]",
-"image": "https://billwerk.io/wp-content/uploads/sites/2/2021/11/rtl-plus-logo-billwerk-rgb-500x300-digital-media-streaming-500x250.png",
-"url":"acestream://784da1ced871f6d3f6bf25f29664bfd39f6130a6",
-"isHost": false
-},
-{
-"name":"RTL+ SPORT EVENT 5 [DE]",
-"image": "https://billwerk.io/wp-content/uploads/sites/2/2021/11/rtl-plus-logo-billwerk-rgb-500x300-digital-media-streaming-500x250.png",
-"url":"acestream://81284e9a279ee23cbc4a7400bd9531f127d20fe5",
-"isHost": false
-},
-{
-"name":"RTL+ SPORT EVENT 7 [DE]",
-"image": "https://billwerk.io/wp-content/uploads/sites/2/2021/11/rtl-plus-logo-billwerk-rgb-500x300-digital-media-streaming-500x250.png",
-"url":"acestream://eec3f8107e008cec3679f76e078deeefd1348a3e",
-"isHost": false
-},
+
 {
 "name":"MAGENTA SPORT [DE] 1",
 "image": "https://images-na.ssl-images-amazon.com/images/I/31Ir7Dot8AL.png",
@@ -950,18 +847,18 @@
 {
 "name":"SPORTS TV1 PORT",
 "image": "https://1.bp.blogspot.com/-TYA71ryPkNA/XX5k570rpPI/AAAAAAAAA1U/3Di6rEiQpjwD3C73Qme58m45n-Vv5dMEQCLcBGAsYHQ/s1600/Sport%2BTV%2B1.png",
-"url":"acestream://56bb17b376ec52b5e58679d87ed2bd9e70be2175",
+"url":"acestream://c95422bc904378be0b035eba721d5e6a004f7d79",
 "isHost": false
 },
 {
 "name":"SPORTS TV2 PORT",
 "image": "https://www.thesportsdb.com/images/media/tvlogo/wwwxrx1436898851.png",
-"url":"acestream://b402a5fc3d93860c7f4a9c46463ff5469b6436f6",
+"url":"acestream://a1bd609a2d64d1ee4b81af32464b36848fe36541",
 "isHost": false
 },
 {
 "name":"SPORTS TV3 PORT",
-"image": "https://www.thesportsdb.com/images/media/tvlogo/rtwtyq1436898868.png",
+"image": "acestream://6c526d4cc3ca77cfbc10c548aa0d49944e56f3ff",
 "url":"acestream://3c81c395fc9385c650e0fba8c286935c594f7e1a",
 "isHost": false
 },
@@ -1268,19 +1165,14 @@
 {
 "name":"EuroSport 1 1080",
 "image": "https://satcesc.com/wp-content/uploads/2016/02/eurosport1-hd.jpg",
-"url":"acestream://f8a77a75bf7572e360556339794d3d13fca8caa9",
+"url":"acestream://c9ee7c95e7a2e9cd0e848b1f70848453652bebc2",
 "isHost": false
 },
+
 {
 "name":"EuroSport 2 1080",
 "image" : "https://4.bp.blogspot.com/-1bHZ8b5ZnW0/VzDh6KfzayI/AAAAAAAABsI/lKDWcPmyBSk7etoAj2DVr7nvQ5SsMPwzgCLcB/s1600/fhuxmcp92wg1w4y9pd2v4zjz3xs1vmjm.jpg",
-"url":"acestream://1954779c721fc7d87eb6d7df7ab11bf751cebb3b",
-"isHost": false
-},
-{
-"name":"EuroSport 2 1080",
-"image" : "https://4.bp.blogspot.com/-1bHZ8b5ZnW0/VzDh6KfzayI/AAAAAAAABsI/lKDWcPmyBSk7etoAj2DVr7nvQ5SsMPwzgCLcB/s1600/fhuxmcp92wg1w4y9pd2v4zjz3xs1vmjm.jpg",
-"url":"acestream://b12bd6f32bbd53a2bbf182a30549fbdf747235cd",
+"url":"acestream://d6622ca93e54e493a6910248f8fe1f03aa85bf01",
 "isHost": false
 },
 {
