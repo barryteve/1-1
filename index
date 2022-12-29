@@ -85,7 +85,6 @@
 		  "url": "https://raw.githubusercontent.com/chukyvaliente/chykydeport/main/chuky",
 		  "import":true
 		}
-        
       ]
     },
     {
@@ -94,7 +93,6 @@
       "url": "https://raw.githubusercontent.com/barryteve/1/main/201",
 	  "import":true
     },
-    
     {
       "name": "TV USA 24h IPTV",
       "image": "https://imagenesnoticias.com/wp-content/uploads/2018/10/BanderaEEUU30-465x465.jpg",
