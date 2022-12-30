@@ -1,3 +1,6 @@
+
+
+
 {
   "name": "My TV",
   "author": "Actualizada 301222",
@@ -169,6 +172,12 @@
           "image": "https://www.eltiempo.com/files/image_640_428/uploads/2021/10/29/617c82b007708.jpeg",
           "url": "https://raw.githubusercontent.com/barryteve/1/main/308",
 		  "import":true
+        },
+		{
+          "name": "English VOD",
+          "image": "https://www.eltiempo.com/files/image_640_428/uploads/2021/10/29/617c82b007708.jpeg",
+          "url": "https://raw.githubusercontent.com/bharing19/MyTv/main/VodEnglish.m3u",
+		  "import":true
         }
       ]
     },
@@ -217,57 +226,76 @@
           {
           "name": "Pluto TV",
           "image": "https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2020/03/Pluto-TV-New-Logo.png",
-          "url": "https://raw.githubusercontent.com/barryteve/1/main/404",
+          "url": "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/main/AIO.w3u",
 		  "import":true
           },
           {
           "name": "Plex TV",
           "image": "https://apk-s.io/wp-content/uploads/plex-for-android-logo.png",
-          "url": "https://raw.githubusercontent.com/barryteve/1/main/405",
+          "url": "https://i.mjh.nz/Plex/all.m3u8",
 		  "import":true
           },
           {
           "name": "Samsung TV",
           "image": "https://img.global.news.samsung.com/global/wp-content/uploads/2022/09/Samsung_TV_Plus_main1.jpg",
-          "url": "https://raw.githubusercontent.com/barryteve/1/main/406",
+          "url": "https://i.mjh.nz/SamsungTVPlus/all.m3u8",
 		  "import":true
           },
           {
           "name": "Rakuten TV",
           "image": "https://img.tuttoandroid.net/wp-content/uploads/2017/12/rakuten_logo.png",
-          "url": "https://raw.githubusercontent.com/barryteve/1/main/407",
+          "url": "https://raw.githubusercontent.com/HelmerLuzo/RakutenTV_HL/main/tv/w3u/RakutenTV_tv.w3u",
 		  "import":true
           },
           {
           "name": "Rad TV",
           "image": "https://cdn6.aptoide.com/imgs/7/6/4/76436b1bdd314d4e4a50e5509ace1114_icon.png",
-          "url": "https://raw.githubusercontent.com/barryteve/1/main/408",
+          "url": "https://raw.githubusercontent.com/HelmerLuzo/RadTV_HL/main/tv/w3u/RadTV_tv.w3u",
 		  "import":true
           },
           {
           "name": "Runtime TV",
           "image": "https://www.runtime.tv/themes/custom/run/runtime/logo.png",
-          "url": "https://raw.githubusercontent.com/barryteve/1/main/409",
+          "url": "https://raw.githubusercontent.com/HelmerLuzo/RuntimeTV_HL/main/tv/w3u/RuntimeTV_tv.w3u",
 		  "import":true
           },
           {
           "name": "Canela TV",
           "image": "https://image.roku.com/developer_channels/prod/95dcad8a035461c358f340b30b669a51f235dbb4223e3510e4c59c7069f2ccfd.png",
-          "url": "https://raw.githubusercontent.com/barryteve/1/main/410",
+          "url": "https://raw.githubusercontent.com/HelmerLuzo/CanelaTV_HL/main/tv/w3u/CanelaTV_tv.w3u",
 		  "import":true
           },
           {
           "name": "Fluxus TV Esp",
           "image": "https://koditips.com/wp-content/uploads/fluxus-tv-kodi.png",
-          "url": "https://raw.githubusercontent.com/barryteve/1/main/411",
+          "url": "https://bitbucket.org/!api/2.0/snippets/fluxustv/zXx7KB/794c6bf68209f580dddc7bdcb53e2230c7b25375/files/FTV-ESP",
 		  "import":true
           },
           {
           "name": "Fluxus TV Eng",
           "image": "https://koditips.com/wp-content/uploads/fluxus-tv-kodi.png",
-          "url": "https://raw.githubusercontent.com/barryteve/1/main/412",
+          "url": "https://bitbucket.org/!api/2.0/snippets/fluxustv/KpaEKX/70f0278409b7ef263d112247400c340ce157b523/files/FTV-ENG",
+		  "import":true
+          },
+		  {
+          "name": "VIDAA TV Hisense",
+          "image": "https://mma.prnewswire.com/media/1062941/Vidaa.jpg?p=original",
+          "url": "https://raw.githubusercontent.com/barryteve/1/main/413",
+		  "import":true
+          },
+		  {
+          "name": "Xiaomi TV",
+          "image": "https://cdn.kalingatv.com/wp-content/uploads/2019/01/Xiaomi-Logo-750x430.jpg",
+          "url": "https://raw.githubusercontent.com/barryteve/1/main/414",
+		  "import":true
+          },
+		  {
+          "name": "DISTRO TV",
+          "image": "https://i2.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/02/DistroTV-logo.png?fit=1200%2C675&ssl=1",
+          "url": "https://raw.githubusercontent.com/bharing19/DistroTV/master/DistroTv_Aug.m3u",
 		  "import":true
           }
+		  
         ]
     },
     {
@@ -339,6 +367,5 @@
     }  
   ]
 }
-
 
 
