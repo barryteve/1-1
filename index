@@ -1,7 +1,7 @@
 
-{
+  {
   "name": "My TV",
-  "author": "Actualizada 301222",
+  "author": "Actualizada 030123",
   "image": "https://c.tenor.com/q80_DoRce1MAAAAd/tv-no-signal.gif",
   "info": "This list does not host its own content, it just collects existing links. No video files are stored in this repository. The repository simply contains user-submitted links to publicly available video stream URLs, which to the best of our knowledge have been intentionally made publicly by the copyright holders. If any links in these playlists infringe on your rights as a copyright holder, they may be removed by sending a pull request or opening an issue. However, note that we have no control over the destination of the link, and just removing the link from the playlist will not remove its contents from the web. Note that linking does not directly infringe copyright because no copy is made on the site providing the link.To remove this content from the web, you should contact the web host that's actually hosting the content (not the maintainers of this repository).",
   "url": "https://raw.githubusercontent.com/Jayoir/1/main/index",
@@ -12,7 +12,14 @@
       "image": "https://www.technipages.com/wp-content/uploads/2020/01/Ace-Stream-600x360.jpg",
       "groups":
       [
-        {
+        
+		{
+          "name": "Copa del Rey",
+          "image": "https://phantom-marca.unidadeditorial.es/bdf0c163a63fb3f0add2502109ff0028/f/jpg/assets/multimedia/imagenes/2020/12/18/16082835869886.jpg",
+          "url": "https://raw.githubusercontent.com/barryteve/1/main/104",
+	  "import":true
+        },
+		{
           "name": "Deporte Español",
           "image": "https://play-lh.googleusercontent.com/E3lNJYiIjUHOAVNW7GUaw8vo1k3-3uY8d0WcpIwJreeDlRHpylk8AwQtOwR_pDB4E4o=w240-h480-rw",
           "url": "https://raw.githubusercontent.com/barryteve/1/main/105",
@@ -82,12 +89,6 @@
           "name": "MLB",
           "image": "https://images.pluto.tv/channels/5e66968a70f34c0007d050be/colorLogoPNG.png",
           "url": "https://raw.githubusercontent.com/barryteve/1/main/111",
-	  "import":true
-        },
-	{
-          "name": "Copa del Rey",
-          "image": "https://phantom-marca.unidadeditorial.es/bdf0c163a63fb3f0add2502109ff0028/f/jpg/assets/multimedia/imagenes/2020/12/18/16082835869886.jpg",
-          "url": "https://raw.githubusercontent.com/barryteve/1/main/104",
 	  "import":true
         }
       ]
@@ -362,5 +363,3 @@
     }  
   ]
 }
-
-
