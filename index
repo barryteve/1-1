@@ -306,12 +306,6 @@
           {
           "name": "TV IPTV",
           "image": "https://t3.ftcdn.net/jpg/03/44/01/08/360_F_344010875_ue8VwwMUsziXgBN6PtmjTCf9pGYDvBNg.jpg",
-          "url": "https://raw.githubusercontent.com/ddgarciaf02/acestreamids/main/channels.txt",
-	  "import":true
-          },
-		  {
-          "name": "TV IPTV 2",
-          "image": "https://t3.ftcdn.net/jpg/03/44/01/08/360_F_344010875_ue8VwwMUsziXgBN6PtmjTCf9pGYDvBNg.jpg",
           "url": "https://raw.githubusercontent.com/barryteve/1/main/205",
 	  "import":true
           }, 
