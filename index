@@ -1,8 +1,10 @@
 
   {
   "name": "Mi TV",
-  "author": "Actualizada 090123",    
+  "author": "Actualizada 110123",    
   "url": "https://raw.githubusercontent.com/Jayoir/1/main/index",
+  
+
   
   "info": "This list does not host its own content, it just collects existing links. No video files are stored in this repository. The repository simply contains user-submitted links to publicly available video stream URLs, which to the best of our knowledge have been intentionally made publicly by the copyright holders. If any links in these playlists infringe on your rights as a copyright holder, they may be removed by sending a pull request or opening an issue. However, note that we have no control over the destination of the link, and just removing the link from the playlist will not remove its contents from the web. Note that linking does not directly infringe copyright because no copy is made on the site providing the link.To remove this content from the web, you should contact the web host that's actually hosting the content (not the maintainers of this repository).",
   "image": "https://c.tenor.com/q80_DoRce1MAAAAd/tv-no-signal.gif",
@@ -16,8 +18,8 @@
       [
         
 		{
-          "name": "Copa del Rey",
-          "image": "https://phantom-marca.unidadeditorial.es/bdf0c163a63fb3f0add2502109ff0028/f/jpg/assets/multimedia/imagenes/2020/12/18/16082835869886.jpg",
+          "name": "SuperCopa España",
+          "image": "https://api.deportevalenciano.com/sites/default/files/styles/epsa_detail_thumbail/public/2023-01/Supercopa%20de%20Espan%CC%83a%202023.jpg?itok=y3Uhkno-",
           "url": "https://raw.githubusercontent.com/barryteve/1/main/104",
 	  "import":true
         },
