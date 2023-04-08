@@ -17,7 +17,7 @@
       [
         
 		{
-          "name": "⚽️ Copa del Rey 1/2 Final",
+          "name": "⚽️ Copa del Rey - Final",
           "image": "https://apuestasfree.com/wp-content/uploads/2021/11/Copa-del-Rey-logo.png",
           "url": "https://raw.githubusercontent.com/barryteve/1/main/104",
 	  "import":true
@@ -103,24 +103,6 @@
       "import":true
     },    
     {
-      "name": "TV USA 24h IPTV",
-      "image": "https://imagenesnoticias.com/wp-content/uploads/2018/10/BanderaEEUU30-465x465.jpg",
-      "url": "https://raw.githubusercontent.com/barryteve/1/main/202",
-      "import":true
-    },
-    {
-      "name": "TV UK 24h IPTV",
-      "image": "https://downloadhdwallpapers.in/wp-content/uploads/2018/06/UK-British-Flag-Waving-Animated-Gif-Pure-.gif",
-      "url": "https://raw.githubusercontent.com/barryteve/1/main/203",
-	  "import":true
-    },
-    {
-      "name": "TV DE 24h IPTV",
-      "image": "https://au.beefer.com/wp-content/uploads/german-flag-animated-gif-22.gif",
-      "url": "https://raw.githubusercontent.com/barryteve/1/main/204",
-	  "import":true
-    },
-	{
       "name": "TDT CHANNELS",
       "image": "https://www.techwikies.com/wp-content/uploads/2019/07/TDTChannels.png",
       "url": "https://www.tdtchannels.com/lists/tvradio.w3u",
