@@ -1,7 +1,7 @@
 
   {
   "name": "Mi TV",
-  "author": "Actualizada 010323",    
+  "author": "Actualizada 250523",    
   "url": "https://raw.githubusercontent.com/Jayoir/1/main/index",
   
 
@@ -16,12 +16,7 @@
       "groups":
       [
         
-		{
-          "name": "⚽️ Copa del Rey - Final",
-          "image": "https://apuestasfree.com/wp-content/uploads/2021/11/Copa-del-Rey-logo.png",
-          "url": "https://raw.githubusercontent.com/barryteve/1/main/104",
-	  "import":true
-        },
+
 		{
           "name": "Deporte Español",
           "image": "https://play-lh.googleusercontent.com/E3lNJYiIjUHOAVNW7GUaw8vo1k3-3uY8d0WcpIwJreeDlRHpylk8AwQtOwR_pDB4E4o=w240-h480-rw",
@@ -29,12 +24,6 @@
 	  "import":true
         },
 		{
-          "name": "Mov+ IPTV Deportes",
-          "image": "https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=6d80a6&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmovistarplus.png",
-          "url": "https://raw.githubusercontent.com/barryteve/1/main/112",
-	  "import":true
-        },
-	{
           "name": "⚽️ La Liga",
           "image": "https://icdn.football-espana.net/wp-content/uploads/2022/05/La-Liga-badge-1020x1020.jpg",
           "url": "https://raw.githubusercontent.com/barryteve/1/main/102",
@@ -46,6 +35,13 @@
           "url": "https://raw.githubusercontent.com/barryteve/1/main/103",
 	  "import":true
         },
+		{
+          "name": "Mov+ IPTV Deportes",
+          "image": "https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=6d80a6&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmovistarplus.png",
+          "url": "https://raw.githubusercontent.com/barryteve/1/main/112",
+	  "import":true
+        },
+
 	{
           "name": "⚽️ RFEF 1º y 2º",
           "image": "https://footters.com/wp-content/uploads/2021/08/primerarfeffootters1.jpg",
@@ -66,7 +62,7 @@
         },
         {
           "name": "F1/MotoGP/WRC",
-          "image": "https://www.hoteleuropasevilla.com/img/textareas/logo.jpg",
+          "image": "https://1000marcas.net/wp-content/uploads/2020/01/F1-Logo-2018.jpg",
           "url": "https://raw.githubusercontent.com/barryteve/1/main/107",
 	  "import":true
         },
