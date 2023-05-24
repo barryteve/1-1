@@ -282,8 +282,67 @@
     {
       "name": "Toros",
       "image": "https://www.accionnaturaliberica.com/wp-content/uploads/2020/04/movistar-plus-toros-712x356.jpg",
-      "url": "https://raw.githubusercontent.com/barryteve/1/main/113",
-	  "import":true
+      stations:
+      [
+	  {
+                "name": "TOROS HD 1* ",
+                "image": "https://telefullenvivo.com/logos/toros.png",
+                "url": "http://tv.onplas.xyz:39001/elwepaman/CphvdYcr8A/117206",
+		"online":"true"
+                  
+          },
+          {
+                "name": "TOROS HD 2** ",
+                "image": "https://i.vimeocdn.com/portrait/11136275_640x640",
+                "url" : "acestream://94e1defacf6eb242dd7bf441138c16a8e835c84d",
+		"userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
+		"online":"true"
+             
+                  
+          },
+          
+         
+          {
+                "name": "TOROS HD 3**",
+                "image": "https://i.vimeocdn.com/portrait/11136275_640x640",
+                "url": "http://protocol.solanaflix.com:8080/play/i7Gngvcwe61Mx5hmhE9FmA6jJudIEoN83Qk0CbNiGgouWdSEtS_YIsjxReTeL65F",
+                "userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
+                "online":"true"
+          },
+          
+          {
+                "name": "TOROS  HD 4*",
+                "image": "https://telefullenvivo.com/logos/toros.png",
+                "url": "http://protocol.solanaflix.com:8080/play/3dICGxKgmk2xwFgu3xiAmxmy77FFxpQTL4GZV8U6LA49E7Qr1muryJsevVoETEGf",
+		"userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
+                "online":"true"
+          },
+	   {
+                "name": "TOROS HD *",
+                "image": "https://i.vimeocdn.com/portrait/11136275_640x640",
+                "url" : "https://vod.mundotoro.tv/VOD/09042023_domingo_de_resurreccion.mp4/tracks-v1a1/mono.m3u8",
+                "referer" : "",
+                "desktop": "true",
+                "online":"true",
+                "isHost":""
+                  
+          },
+           
+           {
+                "name": "TOROS *",
+                "image": "https://i.vimeocdn.com/portrait/11136275_640x640",
+                "url": "http://nfnt.ddns.net:8080/Ash2/BMbu2xSrmb8M/341",
+		"userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
+                "online":"true"
+          },
+	   {
+                "name": "TOROS *",
+                "image": "https://i.vimeocdn.com/portrait/11136275_640x640",
+                "url": "http://45.90.105.74:25461/bbv1/4QKmSRxShA/111131",
+		"userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
+                "online":"true"
+          }]
+	  
     }  
   ]
 }
