@@ -272,43 +272,7 @@
           }		  
         ]
     },
-    {
-      "name": "TV RESPALDO",
-      "image": "https://t3.ftcdn.net/jpg/03/44/01/08/360_F_344010875_ue8VwwMUsziXgBN6PtmjTCf9pGYDvBNg.jpg",
-      "groups":
-       [
-          {
-          "name": "TV IPTV",
-          "image": "https://t3.ftcdn.net/jpg/03/44/01/08/360_F_344010875_ue8VwwMUsziXgBN6PtmjTCf9pGYDvBNg.jpg",
-          "url": "https://raw.githubusercontent.com/barryteve/1/main/205",
-	  "import":true
-          }, 
-          {
-          "name": "TV MIX",
-          "image": "https://t3.ftcdn.net/jpg/03/44/01/08/360_F_344010875_ue8VwwMUsziXgBN6PtmjTCf9pGYDvBNg.jpg",
-          "url": "https://raw.githubusercontent.com/vicentegithublista/vicen/05b3ecaf374d822ae9f526ae712db48e2b43c000/lista%2015112022.m3u",
-	  "import":true
-          },
-          {
-          "name": "TV MIX 2",
-          "image": "https://t3.ftcdn.net/jpg/03/44/01/08/360_F_344010875_ue8VwwMUsziXgBN6PtmjTCf9pGYDvBNg.jpg",
-          "url": "https://raw.githubusercontent.com/vicentegithublista/vicen/377af921d9f4d49fe1bc81f6c9b827b5a496af86/rumania.m3u",
-	  "import":true
-          },
-          {
-          "name": "TV MIX 3",
-          "image": "https://t3.ftcdn.net/jpg/03/44/01/08/360_F_344010875_ue8VwwMUsziXgBN6PtmjTCf9pGYDvBNg.jpg",
-          "url": "https://raw.githubusercontent.com/emanuelbecchero/EmaList/c20c39ef98747611a3605a4bbd3241353e00438d/Lista.m3u",
-	  "import":true
-          },
-          {
-          "name": "TV extranjeros",
-          "image": "https://t3.ftcdn.net/jpg/03/44/01/08/360_F_344010875_ue8VwwMUsziXgBN6PtmjTCf9pGYDvBNg.jpg",
-          "url": "https://raw.githubusercontent.com/markymac5/Mcast/b7706e96d2ab7fcf71ce5ed074ae7c051bdf143f/PLAYLIST_ALL.m3u",
-	  "import":true
-          }
-       ]
-    },
+    
     {
       "name": "Cine Oeste y Clásicos",
       "image": "https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/ESBC2700002LO_20221214T044911.png",
