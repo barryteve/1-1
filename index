@@ -285,7 +285,7 @@
       stations:
       [
           {
-                "name": "TOROS HD_1",
+                "name": "TOROS HD_1 Acestream",
                 "image": "https://i.vimeocdn.com/portrait/11136275_640x640",
                 "url" : "acestream://f763ab71f6f646e6c993f37e237be97baf2143ef",
 		"userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
