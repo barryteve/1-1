@@ -1,7 +1,7 @@
 
   {
   "name": "Mi TV",
-  "author": "Actualizada 250523",    
+  "author": "Actualizada 280523",    
   "url": "https://raw.githubusercontent.com/Jayoir/1/main/index",
   
 
@@ -300,7 +300,7 @@
           },          
           {
                 "name": "TOROS  HD_3",
-                "image": "https://telefullenvivo.com/logos/toros.png",
+                "image": "https://i.vimeocdn.com/portrait/11136275_640x640",
                 "url": "http://protocol.solanaflix.com:8080/play/3dICGxKgmk2xwFgu3xiAmxmy77FFxpQTL4GZV8U6LA49E7Qr1muryJsevVoETEGf",
 		"userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
                 "online":"true"
@@ -321,6 +321,7 @@
 		"userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
                 "online":"true"
           }
+	  
 
           ]
 	  
