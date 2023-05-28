@@ -285,28 +285,28 @@
       stations:
       [
           {
-                "name": "TOROS HD 2** ",
+                "name": "TOROS HD_1",
                 "image": "https://i.vimeocdn.com/portrait/11136275_640x640",
                 "url" : "acestream://f763ab71f6f646e6c993f37e237be97baf2143ef",
 		"userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
 		"online":"true" 
           },
           {
-                "name": "TOROS HD 3**",
+                "name": "TOROS HD_2",
                 "image": "https://i.vimeocdn.com/portrait/11136275_640x640",
                 "url": "http://protocol.solanaflix.com:8080/play/i7Gngvcwe61Mx5hmhE9FmA6jJudIEoN83Qk0CbNiGgouWdSEtS_YIsjxReTeL65F",
                 "userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
                 "online":"true"
           },          
           {
-                "name": "TOROS  HD 4*",
+                "name": "TOROS  HD_3",
                 "image": "https://telefullenvivo.com/logos/toros.png",
                 "url": "http://protocol.solanaflix.com:8080/play/3dICGxKgmk2xwFgu3xiAmxmy77FFxpQTL4GZV8U6LA49E7Qr1muryJsevVoETEGf",
 		"userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
                 "online":"true"
           },
 	   {
-                "name": "TOROS HD *",
+                "name": "TOROS HD_4",
                 "image": "https://i.vimeocdn.com/portrait/11136275_640x640",
                 "url" : "https://vod.mundotoro.tv/VOD/09042023_domingo_de_resurreccion.mp4/tracks-v1a1/mono.m3u8",
                 "referer" : "",
@@ -315,7 +315,7 @@
                 "isHost":""                
           },
            {
-                "name": "TOROS *",
+                "name": "TOROS HD_5",
                 "image": "https://i.vimeocdn.com/portrait/11136275_640x640",
                 "url": "http://nfnt.ddns.net:8080/Ash2/BMbu2xSrmb8M/341",
 		"userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
