@@ -32,21 +32,16 @@
         {
           "name": "⚽️ Champions League",
           "image": "https://vodafone.is/library/Myndir/Blogg/2018/UEFA-leagues._1200x500.jpg",
-          "url": "https://raw.githubusercontent.com/barryteve/1/main/103",
+          "url": "https://raw.githubusercontent.com/Jayoir/1/main/103",
 	  "import":true
         },
 
 
-	{
-          "name": "⚽️ RFEF 1º y 2º",
-          "image": "https://footters.com/wp-content/uploads/2021/08/primerarfeffootters1.jpg",
-          "url": "https://raw.githubusercontent.com/barryteve/1/main/114",
-	  "import":true
-        },
+
 	{
 	  "name": "Websport Chucky",
 	  "image": "https://pbs.twimg.com/profile_images/3433366961/233430983f4fee433ea5c62ec6613e0e_400x400.png",
-	  "url": "https://raw.githubusercontent.com/chukyvaliente/chykydeport/main/chuky",
+	  "url": "https://raw.githubusercontent.com/chukyvaliente/chykyhood/main/chukyhood",
 	  "import":true
 	},        
         {
