@@ -153,12 +153,7 @@
       "image": "https://gasteizberri.com/wp-content/uploads/2020/11/PLUTO-TV.jpg",
       "groups":
         [
-	  {
-          "name": "Canales Plataformas",
-          "image": "https://www.mundoplus.tv/wp-content/uploads/2021/04/plataformas_streaming.jpg",
-          "url": "https://raw.githubusercontent.com/barryteve/1/main/401",
-	  "import":true
-          },
+	  
           
           {
           "name": "Pluto TV",
