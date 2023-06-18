@@ -20,19 +20,19 @@
 		{
           "name": "Deporte Español",
           "image": "https://play-lh.googleusercontent.com/E3lNJYiIjUHOAVNW7GUaw8vo1k3-3uY8d0WcpIwJreeDlRHpylk8AwQtOwR_pDB4E4o=w240-h480-rw",
-          "url": "https://raw.githubusercontent.com/Jayoir/1/main/105",
+          "url": "https://raw.githubusercontent.com/barryteve/1/main/105",
 	  "import":true
         },
 		{
           "name": "⚽️ La Liga",
           "image": "https://icdn.football-espana.net/wp-content/uploads/2022/05/La-Liga-badge-1020x1020.jpg",
-          "url": "https://raw.githubusercontent.com/Jayoir/1/main/102",
+          "url": "https://raw.githubusercontent.com/barryteve/1/main/102",
 	  "import":true
         },
         {
           "name": "⚽️ Champions League",
           "image": "https://vodafone.is/library/Myndir/Blogg/2018/UEFA-leagues._1200x500.jpg",
-          "url": "https://raw.githubusercontent.com/Jayoir/1/main/103",
+          "url": "https://raw.githubusercontent.com/barryteve/1/main/103",
 	  "import":true
         },
 
@@ -41,7 +41,7 @@
 	{
 	  "name": "Websport Chucky",
 	  "image": "https://pbs.twimg.com/profile_images/3433366961/233430983f4fee433ea5c62ec6613e0e_400x400.png",
-	  "url": "https://raw.githubusercontent.com/chukyvaliente/chykyhood/main/chukyhood",
+	  "url": "https://raw.githubusercontent.com/chukyvaliente/chukyhood/main/chukyhood",
 	  "import":true
 	},        
         {
@@ -50,24 +50,14 @@
           "url": "https://raw.githubusercontent.com/barryteve/1/main/106",
 	  "import":true
         },
-        {
-          "name": "F1/MotoGP/WRC",
-          "image": "https://1000marcas.net/wp-content/uploads/2020/01/F1-Logo-2018.jpg",
-          "url": "https://raw.githubusercontent.com/barryteve/1/main/107",
-	  "import":true
-        },
+
         {
           "name": "🏀 NBA",
           "image": "https://cutewallpaper.org/26/basketball-gif-wallpaper/eanseong-kim-kimeanseong-profile-pinterest.gif",
           "url": "https://raw.githubusercontent.com/barryteve/1/main/108",
 	  "import":true
         },
-        {
-          "name": "Padel",
-          "image": "https://i.pinimg.com/236x/0b/b1/d9/0bb1d95799601287d7737f6173955a26.jpg",
-          "url": "https://raw.githubusercontent.com/barryteve/1/main/109",
-	  "import":true
-        },
+
         {
           "name": "Tenis",
           "image": "https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/93/dd/cb/93ddcbfa-6904-9e93-a664-35875347375b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024.jpg",
