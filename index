@@ -72,12 +72,7 @@
         }
       ]
     },
-    {
-      "name": "Movistar+ 24h IPTV",
-      "image": "https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=6d80a6&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmovistarplus.png",
-      "url": "https://raw.githubusercontent.com/barryteve/1/main/201",
-      "import":true
-    },    
+ 
     {
       "name": "TDT CHANNELS",
       "image": "https://www.techwikies.com/wp-content/uploads/2019/07/TDTChannels.png",
