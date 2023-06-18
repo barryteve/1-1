@@ -114,35 +114,11 @@
           "url": "https://raw.githubusercontent.com/barryteve/1/main/304",
 	  "import":true
         },
-        {
-          "name": "Pelis Latino MP4",
-          "image": "https://www.eltiempo.com/files/image_640_428/uploads/2021/10/29/617c82b007708.jpeg",
-          "url": "https://raw.githubusercontent.com/barryteve/1/main/309",
-	  "import":true
-        },
+
         {
           "name": "Cine Aces Resp ext act",
           "image": "https://www.eltiempo.com/files/image_640_428/uploads/2021/10/29/617c82b007708.jpeg",
           "url": "https://raw.githubusercontent.com/barryteve/1/main/301",
-	  "import":true
-        },
-        {
-          "name": "Marvel",
-          "image": "https://i.pinimg.com/originals/b5/de/08/b5de08b9050e254b008dcc13d28ac42e.jpg",
-          "url": "https://raw.githubusercontent.com/barryteve/1/main/302",
-	  "import":true
-        },
-        {
-          "name": "24h/7d",
-          "image": "https://i.pinimg.com/originals/b5/de/08/b5de08b9050e254b008dcc13d28ac42e.jpg",
-          "url": "https://raw.githubusercontent.com/barryteve/1/main/306",
-	  "import":true
-        },
-	
-	{
-          "name": "English VOD",
-          "image": "https://www.eltiempo.com/files/image_640_428/uploads/2021/10/29/617c82b007708.jpeg",
-          "url": "https://raw.githubusercontent.com/bharing19/MyTv/main/VodEnglish.m3u",
 	  "import":true
         }
       ]
