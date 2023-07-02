@@ -68,7 +68,7 @@
 
           ]
 	  
-    }
+    },
     {
       "name": "AceSport",
       "image": "https://www.technipages.com/wp-content/uploads/2020/01/Ace-Stream-600x360.jpg",
@@ -300,7 +300,7 @@
       "image": "https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/ESBC2700002LO_20221214T044911.png",
       "url": "https://raw.githubusercontent.com/barryteve/1/main/307",
 	  "import":true
-    },
+    }
       
   ]
 }
