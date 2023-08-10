@@ -109,12 +109,7 @@
           "url": "https://raw.githubusercontent.com/chukyvaliente/chukycine/main/chukycine",
 	  "import":true
         },
-        {
-          "name": "TIRISTARTV",
-          "image": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/92736737-fcfe-460f-aedf-9ef7869fc8d1.mp4",
-          "url": "https://raw.githubusercontent.com/tirimosqui/iconnos/main/TIRI_STARV3.w3u",
-	  "import":true
-        },
+       
 		{
           "name": "Español MP4",
           "image": "https://www.eltiempo.com/files/image_640_428/uploads/2021/10/29/617c82b007708.jpeg",
