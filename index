@@ -82,7 +82,20 @@
           "image": "https://www.technipages.com/wp-content/uploads/2020/01/Ace-Stream-600x360.jpg",
           "url": "https://raw.githubusercontent.com/barryteve/1/main/104",
 	  "import":true
+        },
+{
+          "name": "Back-up Acesport WEB",
+          "image": "https://www.technipages.com/wp-content/uploads/2020/01/Ace-Stream-600x360.jpg",
+          "url": "https://fni3mdmse77bkur5eq2p5f7kt.vercel.app/get.txt",
+	  "import":true
+        },
+{
+          "name": "Back-up Acesport 2",
+          "image": "https://www.technipages.com/wp-content/uploads/2020/01/Ace-Stream-600x360.jpg",
+          "url": "https://fni3mdmse77bkur5eq2p5f7kt.vercel.app/base.txt",
+	  "import":true
         }
+
 
       ]
     },
