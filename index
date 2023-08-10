@@ -76,7 +76,14 @@
           "image": "https://images.pluto.tv/channels/5e66968a70f34c0007d050be/colorLogoPNG.png",
           "url": "https://raw.githubusercontent.com/barryteve/1/main/111",
 	  "import":true
+        },
+	{
+          "name": "Back-up Acesport",
+          "image": "https://www.technipages.com/wp-content/uploads/2020/01/Ace-Stream-600x360.jpg",
+          "url": "https://raw.githubusercontent.com/barryteve/1/main/104",
+	  "import":true
         }
+
       ]
     },
     {
