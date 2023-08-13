@@ -1,7 +1,7 @@
 
   {
   "name": "Mi TV",
-  "author": "Actualizada 10/08/23",    
+  "author": "Actualizada 13/08/23",    
   "url": "https://raw.githubusercontent.com/Jayoir/1/main/index",
   
 
@@ -60,37 +60,32 @@
 
         {
           "name": "🏀 NBA",
-          "image": "https://cutewallpaper.org/26/basketball-gif-wallpaper/eanseong-kim-kimeanseong-profile-pinterest.gif",
+          "image": "https://c.tenor.com/VP9EJxwaAsYAAAAC/tenor.gif",
           "url": "https://raw.githubusercontent.com/barryteve/1/main/108",
 	  "import":true
         },
 
         {
-          "name": "Tenis",
+          "name": "🎾 Tenis",
           "image": "https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/93/dd/cb/93ddcbfa-6904-9e93-a664-35875347375b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024.jpg",
           "url": "https://raw.githubusercontent.com/barryteve/1/main/110",
 	  "import":true
         },
         {
-          "name": "MLB",
+          "name": "⚾ MLB",
           "image": "https://images.pluto.tv/channels/5e66968a70f34c0007d050be/colorLogoPNG.png",
           "url": "https://raw.githubusercontent.com/barryteve/1/main/111",
 	  "import":true
         },
-	{
-          "name": "Back-up Acesport",
-          "image": "https://www.technipages.com/wp-content/uploads/2020/01/Ace-Stream-600x360.jpg",
-          "url": "https://raw.githubusercontent.com/barryteve/1/main/104",
-	  "import":true
-        },
+	
 {
-          "name": "Back-up Acesport WEB",
+          "name": "Back-up Aces web",
           "image": "https://www.technipages.com/wp-content/uploads/2020/01/Ace-Stream-600x360.jpg",
           "url": "https://fni3mdmse77bkur5eq2p5f7kt.vercel.app/get.txt",
 	  "import":true
         },
 {
-          "name": "Back-up Acesport 2",
+          "name": "Back-up Aces",
           "image": "https://www.technipages.com/wp-content/uploads/2020/01/Ace-Stream-600x360.jpg",
           "url": "https://fni3mdmse77bkur5eq2p5f7kt.vercel.app/base.txt",
 	  "import":true
@@ -107,7 +102,7 @@
     }, 
  
     {
-      "name": "TDT CHANNELS",
+      "name": "TDT Channels",
       "image": "https://www.techwikies.com/wp-content/uploads/2019/07/TDTChannels.png",
       "url": "https://www.tdtchannels.com/lists/tvradio.w3u",
 	  "import":true
