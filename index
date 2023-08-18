@@ -271,22 +271,9 @@
 		"userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
 		"online":"true" 
           },
-          {
-                "name": "TOROS HD_2",
-                "image": "https://i.vimeocdn.com/portrait/11136275_640x640",
-                "url": "http://protocol.solanaflix.com:8080/play/i7Gngvcwe61Mx5hmhE9FmA6jJudIEoN83Qk0CbNiGgouWdSEtS_YIsjxReTeL65F",
-                "userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
-                "online":"true"
-          },          
-          {
-                "name": "TOROS  HD_3",
-                "image": "https://i.vimeocdn.com/portrait/11136275_640x640",
-                "url": "http://protocol.solanaflix.com:8080/play/3dICGxKgmk2xwFgu3xiAmxmy77FFxpQTL4GZV8U6LA49E7Qr1muryJsevVoETEGf",
-		"userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
-                "online":"true"
-          },
+
 	   {
-                "name": "TOROS HD_4",
+                "name": "TOROS HD_2",
                 "image": "https://i.vimeocdn.com/portrait/11136275_640x640",
                 "url" : "https://vod.mundotoro.tv/VOD/09042023_domingo_de_resurreccion.mp4/tracks-v1a1/mono.m3u8",
                 "referer" : "",
@@ -295,19 +282,14 @@
                 "isHost":""                
           },
            {
-                "name": "TOROS HD_5",
+                "name": "TOROS HD_3",
                 "image": "https://i.vimeocdn.com/portrait/11136275_640x640",
                 "url": "http://nfnt.ddns.net:8080/Ash2/BMbu2xSrmb8M/341",
 		"userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
                 "online":"true"
           },
-{
-			 "name": "TOROS HD_6",
-			"image": "https://i.vimeocdn.com/portrait/11136275_640x640",
-           "url": "http://102.165.51.185:80/live/ypamzjtt/xY2597mnGj/313200.m3u8",
-			 "userAgent": ""
-                        }, {
-			 "name": "TOROS HD_7",
+ {
+			 "name": "TOROS HD_4",
 			"image": "https://i.vimeocdn.com/portrait/11136275_640x640",
       "url": "https://coolcast2.com/embed.php?player=desktop&live=MNDT020",
 			"referer": "https://www.freeshot.live/",
