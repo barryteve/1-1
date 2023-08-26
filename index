@@ -31,6 +31,12 @@
 	  "import":true
         },
         {
+          "name": "🏀 Mundial Basket 2023",
+          "image": "https://www.zerozero.pt/img/logos/edicoes/139645_imgbank_.png",
+          "url": "https://raw.githubusercontent.com/barryteve/1/main/112",
+	  "import":true
+        },
+        {
           "name": "⚽️ Champions League",
           "image": "https://vodafone.is/library/Myndir/Blogg/2018/UEFA-leagues._1200x500.jpg",
           "url": "https://raw.githubusercontent.com/barryteve/1/main/103",
