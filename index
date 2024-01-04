@@ -1,7 +1,7 @@
 
   {
   "name": "Mi TV",
-  "author": "Actualizada 26/08/23",    
+  "author": "Actualizada 04/01/24",    
   "url": "https://raw.githubusercontent.com/Jayoir/1/main/index",
   
 
@@ -31,26 +31,17 @@
 	  "import":true
         },
         {
-          "name": "🏀 Mundial Basket 2023",
-          "image": "https://www.zerozero.pt/img/logos/edicoes/139645_imgbank_.png",
-          "url": "https://raw.githubusercontent.com/barryteve/1/main/112",
-	  "import":true
-        },
-        {
           "name": "⚽️ Champions League",
           "image": "https://vodafone.is/library/Myndir/Blogg/2018/UEFA-leagues._1200x500.jpg",
           "url": "https://raw.githubusercontent.com/barryteve/1/main/103",
 	  "import":true
         },
-	        {
+	{
           "name": "F1/MotoGP/WRC",
           "image": "https://purepng.com/public/uploads/large/purepng.com-formula-1-logoformula-1logonew2018-21529676510t61kq.png",
           "url": "https://raw.githubusercontent.com/barryteve/1/main/107",
 	  "import":true
         },
-
-
-
 	{
 	  "name": "Websport Chucky",
 	  "image": "https://pbs.twimg.com/profile_images/3433366961/233430983f4fee433ea5c62ec6613e0e_400x400.png",
@@ -63,14 +54,12 @@
           "url": "https://raw.githubusercontent.com/barryteve/1/main/106",
 	  "import":true
         },
-
         {
           "name": "🏀 NBA",
           "image": "https://media0.giphy.com/media/5h5HJRTkYEvT2o6yvJ/giphy.gif?cid=ecf05e475a721abd784f8b6739313111b6b70a55503b08ec&rid=giphy.gif",
           "url": "https://raw.githubusercontent.com/barryteve/1/main/108",
 	  "import":true
         },
-
         {
           "name": "🎾 Tenis",
           "image": "https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/93/dd/cb/93ddcbfa-6904-9e93-a664-35875347375b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1024x1024.jpg",
@@ -83,21 +72,18 @@
           "url": "https://raw.githubusercontent.com/barryteve/1/main/111",
 	  "import":true
         },
-	
-{
+	{
           "name": "Back-up Aces web",
           "image": "https://www.technipages.com/wp-content/uploads/2020/01/Ace-Stream-600x360.jpg",
           "url": "https://fni3mdmse77bkur5eq2p5f7kt.vercel.app/get.txt",
 	  "import":true
         },
-{
+	{
           "name": "Back-up Aces",
           "image": "https://www.technipages.com/wp-content/uploads/2020/01/Ace-Stream-600x360.jpg",
           "url": "https://fni3mdmse77bkur5eq2p5f7kt.vercel.app/base.txt",
 	  "import":true
         }
-
-
       ]
     },
     {
@@ -106,7 +92,6 @@
       "url": "https://raw.githubusercontent.com/barryteve/1/main/201",
       "import":true
     }, 
- 
     {
       "name": "TDT Channels",
       "image": "https://www.techwikies.com/wp-content/uploads/2019/07/TDTChannels.png",
@@ -181,9 +166,7 @@
       "name": "Plataformas de Vídeo",
       "image": "https://gasteizberri.com/wp-content/uploads/2020/11/PLUTO-TV.jpg",
       "groups":
-        [
-	  
-          
+        [         
           {
           "name": "Pluto TV",
           "image": "https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2020/03/Pluto-TV-New-Logo.png",
