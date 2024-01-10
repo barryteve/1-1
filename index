@@ -26,14 +26,14 @@
         },
         
 		{
-          "name": "⚽️ SuperCopa España",
+          "name": "⚽️ SuperCopa de España",
           "image": "https://www.lavanguardia.com/andro4all/hero/2023/12/la-supercopa-de-espana-se-emitira-exclusivamente-en-movistar-2.jpg",
           stations:
       [
           {
-               "name": "⚽️ SuperCopa España",
+               "name": "⚽️ SuperCopa de España",
           "image": "https://www.lavanguardia.com/andro4all/hero/2023/12/la-supercopa-de-espana-se-emitira-exclusivamente-en-movistar-2.jpg",
-                "url" : "acestream://4c4844564313e39a888f593511f299f5ba3cf929",
+                "url" : "acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0",
 		"userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
 		"online":"true" 
           }
