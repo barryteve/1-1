@@ -26,18 +26,42 @@
         },
         
 		{
-          "name": "⚽️ SuperCopa de España",
-          "image": "https://www.lavanguardia.com/andro4all/hero/2023/12/la-supercopa-de-espana-se-emitira-exclusivamente-en-movistar-2.jpg",
-          stations:
-      [
-          {
-               "name": "⚽️ SuperCopa de España",
-          "image": "https://www.lavanguardia.com/andro4all/hero/2023/12/la-supercopa-de-espana-se-emitira-exclusivamente-en-movistar-2.jpg",
-                "url" : "acestream://8ba764f6a3bce6eae87ec71208fad1aa3a20528d",
-		"userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
-		"online":"true" 
-          }
-]
+            "name": "COPA DEL REY ESPAÑA 2024",
+            "image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
+            "imageScale": "",
+            "info": "",
+            "stations": [
+                {
+                    "name": "COPA DEL REY 1 (1080)",
+                    "info": "528d",
+                    "image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
+                    "url": "acestream://8ba764f6a3bce6eae87ec71208fad1aa3a20528d"
+                },
+                {
+                    "name": "COPA DEL REY PLUS (1080)",
+                    "info": "496e",
+                    "image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
+                    "url": "acestream://d6cdd724a97fcf851e7ef641c28d6beb8663496e"
+                },
+                {
+                    "name": "COPA DEL REY (1080)(MULTIAUDIO)",
+                    "info": "d281",
+                    "image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
+                    "url": "acestream://3a4c8ac955d451bf3c29b45256e74aa0ea82d281"
+                },
+                {
+                    "name": "COPA DEL REY (1080)",
+                    "info": "443d",
+                    "image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
+                    "url": "acestream://7d70685696722c2b1b48a5ae1a7f92c445d9443d"
+                },
+                {
+                    "name": "COPA DEL REY (720)",
+                    "info": "1a03",
+                    "image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
+                    "url": "acestream://dab7cab5d6d177df36c3b333ca363c2266d91a03"
+                }
+            ]
         },
 		{
           "name": "⚽️ La Liga",
@@ -121,7 +145,7 @@
         {
           "name": "Cine Acestream ",
           "image": "https://www.eltiempo.com/files/image_640_428/uploads/2021/10/29/617c82b007708.jpeg",
-          "url": "https://raw.githubusercontent.com/richardguiri/p/main/p",
+          "url": "https://aficionados.vercel.app/06.0.0.Menu.MovIEs.w3u",
 		  "import":true
         },		
         {
@@ -158,17 +182,12 @@
       "groups":
       [
         {
-          "name": "Series Acestream 1",
+          "name": "Series Acestream ",
           "image": "https://seeklogo.com/images/Y/youtube-tv-shows-logo-16EB8B9C93-seeklogo.com.png",
-          "url": "https://raw.githubusercontent.com/richardguiri/s/main/s",
+          "url": "https://aficionados.vercel.app/07.Menu.SeRies.w3u",
 	  "import":true
         },
-		{
-          "name": "Series Acestream 2",
-          "image": "https://seeklogo.com/images/Y/youtube-tv-shows-logo-16EB8B9C93-seeklogo.com.png",
-          "url": "https://raw.githubusercontent.com/richardguiri/s1/main/s1",
-	  "import":true
-        },
+
         {
           "name": "Series Aces Resp Ext Act",
           "image": "https://seeklogo.com/images/Y/youtube-tv-shows-logo-16EB8B9C93-seeklogo.com.png",
@@ -263,46 +282,11 @@
       "url": "https://raw.githubusercontent.com/barryteve/1/main/307",
 	  "import":true
     },
-{
+    {
       "name": "Toros",
       "image": "https://www.accionnaturaliberica.com/wp-content/uploads/2020/04/movistar-plus-toros-712x356.jpg",
-      stations:
-      [
-          {
-                "name": "TOROS HD_1 Acestream",
-                "image": "https://i.vimeocdn.com/portrait/11136275_640x640",
-                "url" : "acestream://f763ab71f6f646e6c993f37e237be97baf2143ef",
-		"userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
-		"online":"true" 
-          },
-
-	   {
-                "name": "TOROS HD_2",
-                "image": "https://i.vimeocdn.com/portrait/11136275_640x640",
-                "url" : "https://vod.mundotoro.tv/VOD/09042023_domingo_de_resurreccion.mp4/tracks-v1a1/mono.m3u8",
-                "referer" : "",
-                "desktop": "true",
-                "online":"true",
-                "isHost":""                
-          },
-           {
-                "name": "TOROS HD_3",
-                "image": "https://i.vimeocdn.com/portrait/11136275_640x640",
-                "url": "http://nfnt.ddns.net:8080/Ash2/BMbu2xSrmb8M/341",
-		"userAgent": "VLC/3.0.12.1 LibVLC/3.0.12.1",
-                "online":"true"
-          },
- {
-			 "name": "TOROS HD_4",
-			"image": "https://i.vimeocdn.com/portrait/11136275_640x640",
-      "url": "https://coolcast2.com/embed.php?player=desktop&live=MNDT020",
-			"referer": "https://www.freeshot.live/",
-                        "isHost": "true"
-             }
-	  
-
-          ]
-	  
+     "url": "https://raw.githubusercontent.com/barryteve/1/main/202",
+	  "import":true	  
     }
       
   ]
