@@ -123,7 +123,7 @@
     {
       "name": "Movistar+ 24h IPTV",
       "image": "https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=6d80a6&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmovistarplus.png",
-      "url": "https://github.com/xbc76/iptv/blob/main/iptv.m3u",
+      "url": "https://raw.githubusercontent.com/xbc76/iptv/main/iptv.m3u",
       "import":true
     }, 
     {
