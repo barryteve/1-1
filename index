@@ -1,7 +1,7 @@
 
   {
   "name": "Mi TV",
-  "author": "Actualizada 04/01/24",    
+  "author": "Actualizada 25/02/24",    
   "url": "https://raw.githubusercontent.com/Jayoir/1/main/index",
   
 
@@ -111,12 +111,7 @@
           "url": "https://raw.githubusercontent.com/barryteve/1/main/111",
 	  "import":true
         },
-	{
-          "name": "Back-up Aces web",
-          "image": "https://www.technipages.com/wp-content/uploads/2020/01/Ace-Stream-600x360.jpg",
-          "url": "https://raw.githubusercontent.com/jmvilarinho/ace/main/tv.m3u",
-	  "import":true
-        },
+
 	{
           "name": "Back-up Aces",
           "image": "https://www.technipages.com/wp-content/uploads/2020/01/Ace-Stream-600x360.jpg",
@@ -147,7 +142,14 @@
           "image": "https://www.eltiempo.com/files/image_640_428/uploads/2021/10/29/617c82b007708.jpeg",
           "url": "https://aficionados.vercel.app/06.0.0.Menu.MovIEs.w3u",
 		  "import":true
-        },		
+        },
+{
+          "name": "Cine Acestream 2 ",
+          "image": "https://www.eltiempo.com/files/image_640_428/uploads/2021/10/29/617c82b007708.jpeg",
+          "url": "https://github.com/jmvilarinho/ace/blob/main/zeronet_pages/13aNmBWAkWzaXT1Hva4B9kpJW1nWFjFF4X/peliculas.m3u
+",
+		  "import":true
+        },
         {
           "name": "Chucky Cine MP4",
           "image": "https://www.eltiempo.com/files/image_640_428/uploads/2021/10/29/617c82b007708.jpeg",
