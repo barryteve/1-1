@@ -113,7 +113,7 @@
         },
 
 	{
-          "name": "Back-up Aces",
+          "name": "Lista Af1cionados",
           "image": "https://www.technipages.com/wp-content/uploads/2020/01/Ace-Stream-600x360.jpg",
           "url": "https://raw.githubusercontent.com/yIsus-mEx/AF1CIONADOS/main/af1cionados.w3u",
 	  "import":true
@@ -126,6 +126,19 @@
       "url": "https://af1c1onados.vercel.app/02.Menu.Iptvs.w3u",
       "import":true
     }, 
+    {
+       "name": "Lista Af1cionados",
+       "image": "https://www.technipages.com/wp-content/uploads/2020/01/Ace-Stream-600x360.jpg",
+       "url": "https://raw.githubusercontent.com/yIsus-mEx/AF1CIONADOS/main/af1cionados.w3u",
+       "import":true
+    },
+{
+       "name": "Lista Julio2024",
+       "image": "https://www.technipages.com/wp-content/uploads/2020/01/Ace-Stream-600x360.jpg",
+       "url": "https://gist.githubusercontent.com/elfenderes/4cc2c9979469059fbe987732eda3d494/raw/5aba15cf218b80c7ffc72664f66bbef57244b2b0/26032024List%25206-F",
+       "import":true
+    },
+
     {
       "name": "TDT Channels",
       "image": "https://www.techwikies.com/wp-content/uploads/2019/07/TDTChannels.png",
