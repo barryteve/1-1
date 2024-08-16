@@ -17,7 +17,12 @@
       "groups":
       [
         
-
+{
+          "name": "⚽️ La Liga",
+          "image": "https://a2.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F15.png",
+          "url": "https://raw.githubusercontent.com/barryteve/1/main/102",
+	  "import":true
+        },
 		{
           "name": "Deporte Español",
           "image": "https://play-lh.googleusercontent.com/E3lNJYiIjUHOAVNW7GUaw8vo1k3-3uY8d0WcpIwJreeDlRHpylk8AwQtOwR_pDB4E4o=w240-h480-rw",
@@ -63,12 +68,7 @@
                 }
             ]
         },
-		{
-          "name": "⚽️ La Liga",
-          "image": "https://a2.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F15.png",
-          "url": "https://raw.githubusercontent.com/barryteve/1/main/102",
-	  "import":true
-        },
+		
         {
           "name": "⚽️ Champions League",
           "image": "https://vodafone.is/library/Myndir/Blogg/2018/UEFA-leagues._1200x500.jpg",
@@ -134,7 +134,7 @@
     },
 {
        "name": "Lista Julio2024",
-       "image": "https://www.technipages.com/wp-content/uploads/2020/01/Ace-Stream-600x360.jpg",
+       "image": "https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=6d80a6&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmovistarplus.png",
        "url": "https://gist.githubusercontent.com/elfenderes/4cc2c9979469059fbe987732eda3d494/raw/5aba15cf218b80c7ffc72664f66bbef57244b2b0/26032024List%25206-F",
        "import":true
     },
