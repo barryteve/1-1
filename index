@@ -12,13 +12,13 @@
   [
 
     {
-      "name": "AceSport",
+      "name": "🏴‍☠️ AceSport",
       "image": "https://www.technipages.com/wp-content/uploads/2020/01/Ace-Stream-600x360.jpg",
       "groups":
       [
         
 {
-          "name": "⚽️ La Liga",
+          "name": "⚽️🇪🇸 La Liga",
           "image": "https://a2.espncdn.com/combiner/i?img=%2Fi%2Fleaguelogos%2Fsoccer%2F500%2F15.png",
           "url": "https://raw.githubusercontent.com/barryteve/1/main/102",
 	  "import":true
@@ -31,7 +31,7 @@
         },
         
 		{
-            "name": "⚽️ COPA DEL REY ESPAÑA 2024",
+            "name": "⚽️🇪🇸 COPA DEL REY ESPAÑA 2024",
             "image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
             "imageScale": "",
             "info": "",
@@ -88,7 +88,7 @@
 	  "import":true
 	},        
         {
-          "name": "🏴‍☠️ Deporte Extranjeros",
+          "name": "🌎 Deporte Extranjeros",
           "image": "https://img.freepik.com/premium-vector/world-television-logo-template-design-vector-emblem-design-concept-creative-symbol-icon_316488-2269.jpg",
           "url": "https://raw.githubusercontent.com/barryteve/1/main/106",
 	  "import":true
@@ -121,7 +121,7 @@
       ]
     },
     {
-      "name": "Listas IPTV",
+      "name": "📺 Listas IPTV",
       "image": "https://i.postimg.cc/02CXhJ8P/IPTV-new.png",
       "url": "https://af1c1onados.vercel.app/02.Menu.Iptvs.w3u",
       "import":true
@@ -146,7 +146,7 @@
 	  "import":true
     },	
     {
-      "name": "📽️🎬Películas a la carta",
+      "name": "📽️🎬 Pelis a la carta",
       "image": "https://i.kinja-img.com/gawker-media/image/upload/s--ZQ36YslT--/c_fill,fl_progressive,g_north,h_358,q_80,w_636/wdka33ttfclnwzzfnwg9.gif",
       "groups":
       [
@@ -191,7 +191,7 @@
       ]
     },
     {
-      "name": "📽️🎬Series a la carta",
+      "name": "📽️🎬 Series a la carta",
       "image": "https://seeklogo.com/images/Y/youtube-tv-shows-logo-16EB8B9C93-seeklogo.com.png",
       "groups":
       [
