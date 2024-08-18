@@ -75,17 +75,18 @@
           "url": "https://raw.githubusercontent.com/barryteve/1/main/103",
 	  "import":true
         },
-	{
-          "name": "🏎️🏁🏆 F1/MotoGP/WRC",
-          "image": "https://purepng.com/public/uploads/large/purepng.com-formula-1-logoformula-1logonew2018-21529676510t61kq.png",
-          "url": "https://raw.githubusercontent.com/barryteve/1/main/107",
-	  "import":true
-        },
+	
 	        
         {
           "name": "🌎 Deporte Extranjeros",
           "image": "https://img.freepik.com/premium-vector/world-television-logo-template-design-vector-emblem-design-concept-creative-symbol-icon_316488-2269.jpg",
           "url": "https://raw.githubusercontent.com/barryteve/1/main/106",
+	  "import":true
+        },
+{
+          "name": "🏎️🏁 F1/MotoGP/WRC",
+          "image": "https://purepng.com/public/uploads/large/purepng.com-formula-1-logoformula-1logonew2018-21529676510t61kq.png",
+          "url": "https://raw.githubusercontent.com/barryteve/1/main/107",
 	  "import":true
         },
         {
@@ -220,7 +221,7 @@
       ]
     },
     {
-      "name": "📺📽️🎬Plataformas de Vídeo",
+      "name": "📺📽️ Plat Vídeo",
       "image": "https://gasteizberri.com/wp-content/uploads/2020/11/PLUTO-TV.jpg",
       "groups":
         [         
@@ -306,7 +307,7 @@
 	  "import":true
     },
     {
-      "name": "🐮 Toros",
+      "name": "🐮🐄 Toros",
       "image": "https://play-lh.googleusercontent.com/ZDSjarTntWnvUp47rSsoVwbT7PU-FqDHSkzQ5nc0CTlAbujoKUQr2_jw7QBbMF2hmQ=w240-h480-rw",
      "url": "https://raw.githubusercontent.com/barryteve/1/main/202",
 	  "import":true	  
