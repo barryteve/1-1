@@ -31,7 +31,7 @@
         },
         
 		{
-            "name": "COPA DEL REY ESPAÑA 2024",
+            "name": "⚽️ COPA DEL REY ESPAÑA 2024",
             "image": "https://i.postimg.cc/JhQsVDBW/coparey-new.png",
             "imageScale": "",
             "info": "",
@@ -76,7 +76,7 @@
 	  "import":true
         },
 	{
-          "name": "F1/MotoGP/WRC",
+          "name": "🏎️🏁🏆 F1/MotoGP/WRC",
           "image": "https://purepng.com/public/uploads/large/purepng.com-formula-1-logoformula-1logonew2018-21529676510t61kq.png",
           "url": "https://raw.githubusercontent.com/barryteve/1/main/107",
 	  "import":true
@@ -121,9 +121,9 @@
       ]
     },
     {
-      "name": "Movistar+ 24h IPTV",
+      "name": "Listas IPTV",
       "image": "https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=6d80a6&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmovistarplus.png",
-      "url": "https://raw.githubusercontent.com/Satanas-Corpetit/CHAMPIONS/main/Champions",
+      "url": "https://af1c1onados.vercel.app/02.Menu.Iptvs.w3u",
       "import":true
     }, 
     {
@@ -135,7 +135,7 @@
 {
        "name": "Lista Julio2024",
        "image": "https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=6d80a6&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmovistarplus.png",
-       "url": "https://gist.githubusercontent.com/elfenderes/4cc2c9979469059fbe987732eda3d494/raw/5aba15cf218b80c7ffc72664f66bbef57244b2b0/26032024List%25206-F",
+       "url": "https://raw.githubusercontent.com/Satanas-Corpetit/CHAMPIONS/main/Champions",
        "import":true
     },
 
@@ -191,7 +191,7 @@
       ]
     },
     {
-      "name": "Series a la carta",
+      "name": "🎦📽️🎬Series a la carta",
       "image": "https://seeklogo.com/images/Y/youtube-tv-shows-logo-16EB8B9C93-seeklogo.com.png",
       "groups":
       [
@@ -291,7 +291,7 @@
     },
     
     {
-      "name": "Cine Oeste y Clásicos",
+      "name": "📽️🎬 Cine Oeste y Clásicos",
       "image": "https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/ESBC2700002LO_20221214T044911.png",
       "url": "https://raw.githubusercontent.com/barryteve/1/main/307",
 	  "import":true
