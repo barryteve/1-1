@@ -223,12 +223,12 @@
     },
     {
       "name": "📽️🎬 Documentales",
-      "image": "https://seeklogo.com/images/Y/youtube-tv-shows-logo-16EB8B9C93-seeklogo.com.png",
+      "image": "https://i.postimg.cc/VNFc93y4/documental.png",
       "groups":
       [
         {
           "name": "Documentales ",
-          "image": "https://seeklogo.com/images/Y/youtube-tv-shows-logo-16EB8B9C93-seeklogo.com.png",
+          "image": "https://i.postimg.cc/VNFc93y4/documental.png",
           "url": "https://af1c1onados.vercel.app/04.0.Menu.DoCUmENTaLeS.w3u",
         "import": false
         }
