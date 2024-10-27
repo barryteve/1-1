@@ -165,7 +165,7 @@
           "name": "Cine Acestream ",
           "image": "https://www.eltiempo.com/files/image_640_428/uploads/2021/10/29/617c82b007708.jpeg",
           "url": "https://af1c1onados.vercel.app/06.0.0.Menu.MovIEs.w3u",
-		  "import":true
+		  "import":false
         },
 {
           "name": "Cine Acestream 2 ",
@@ -209,8 +209,8 @@
         {
           "name": "Series Acestream ",
           "image": "https://seeklogo.com/images/Y/youtube-tv-shows-logo-16EB8B9C93-seeklogo.com.png",
-          "url": "https://aficionados.vercel.app/07.Menu.SeRies.w3u",
-	  "import":true
+          "url": "https://af1cionados.vercel.app/Menu SeRies.w3u",
+	  "import":false
         },
 
         {
