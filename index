@@ -123,14 +123,9 @@
       ]
     },
     
- {
-       "name": "📺🇪🇸 Lista IPTV España 1",
-       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Plus%2B_2022_logo.svg/512px-Movistar_Plus%2B_2022_logo.svg.png",
-       "url": "http://eurogenius.pro:8080/get.php?username=9UuXeRumwugbResharePro@EliTe@@&password=UnZzJyKcdRcs@@UnZzJyKc&type=m3u_plus",
-       "import":true
-    },  
+ 
 {
-       "name": "📺🇪🇸 Lista IPTV España 2",
+       "name": "📺🇪🇸 Lista IPTV España",
        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Movistar_Plus%2B_2022_logo.svg/512px-Movistar_Plus%2B_2022_logo.svg.png",
        "url": "https://raw.githubusercontent.com/barryteve/1/main/201",
        "import":true
