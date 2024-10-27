@@ -110,7 +110,7 @@
 {
 	  "name": "🏴‍☠️ Chucky Deportes",
 	  "image": "https://pbs.twimg.com/profile_images/3433366961/233430983f4fee433ea5c62ec6613e0e_400x400.png",
-	  "url": "https://raw.githubusercontent.com/chukyvaliente/Chuky-Hood/main/Chuky-Hood",
+	  "url": "https://raw.githubusercontent.com/chukyvaliente/ChukyDeport/refs/heads/main/ChukyDeport",
 	  "import":true
 	},
 
@@ -181,7 +181,7 @@
         {
           "name": "Chucky Cine MP4",
           "image": "https://www.eltiempo.com/files/image_640_428/uploads/2021/10/29/617c82b007708.jpeg",
-          "url": "https://raw.githubusercontent.com/chukyvaliente/chukycine/main/chukycine",
+          "url": "https://raw.githubusercontent.com/chukyvaliente/ChukHoodCine/refs/heads/main/ChukyHoodCines",
 	  "import":true
         },
        
